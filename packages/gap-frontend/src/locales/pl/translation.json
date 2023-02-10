@@ -1,0 +1,255 @@
+{
+  "common": {
+    "validation": {
+      "email": {
+        "required": "Adres e-mail jest polem wymaganym",
+        "invalid_format": "To pole musi zawierać prawidłowy adres e-mail"
+      },
+      "password": {
+        "min": "Przynajmniej 6 znaków",
+        "required": "Hasło jest polem wymaganym",
+        "capital_required": "Co najmniej 1 wielka litera",
+        "number_required": "Co najmniej 1 numer",
+        "wrong_password": "Adres e-mail lub hasło są nieprawidłowe. "
+      },
+      "repeat_password": {
+        "not_match": "Twoje hasła nie zgadzają się. "
+      },
+      "title": {
+        "required": "Tytuł jest polem wymaganym"
+      },
+      "firstName": {
+        "required": "Imię to pole wymagane"
+      },
+      "middleName": {
+        "required": "Drugie imię to pole wymagane"
+      },
+      "lastName": {
+        "required": "Nazwisko jest polem wymaganym"
+      },
+      "phoneNumber": {
+        "required": "Numer telefonu jest polem wymaganym",
+        "invalid_format": "Nieprawidłowy numer telefonu"
+      },
+      "contactDate": {
+        "required": "Data kontaktu to pole wymagane"
+      },
+      "contactTime": {
+        "required": "Czas kontaktu to pole wymagane"
+      },
+      "rightToWorkStatus": {
+        "required": "Prawo do statusu pracy jest polem wymaganym"
+      },
+      "relationship": {
+        "required": "Relacja to pole wymagane"
+      },
+      "journeyType": {
+        "required": "Prawo do statusu pracy jest polem wymaganym"
+      }
+    },
+    "select_language": {
+      "header": "Wybierz preferowany język",
+      "header_short": "Bieżący język",
+      "label": "Wybierz język"
+    }
+  },
+  "welcome": {
+    "welcome_header": "Witamy w Gap Staff",
+    "welcome_description": "Społeczność pomocnych, doświadczonych ludzi, którzy czekają, aby znaleźć dla Ciebie idealną pracę.\n ",
+    "agreement": {
+      "description": "W celu uruchomienia Portalu Rejestracji Personelu Gap należy najpierw\n ",
+      "checkbox_full_condition": "Zgadzam się z personelem gap",
+      "full_condition": "Pełne warunki",
+      "checkbox_full_term_of_use": "Zgadzam się z personelem gap",
+      "term_of_use": "Warunki korzystania"
+    },
+    "btn_get_started": "Zaczynaj"
+  },
+  "login": {
+    "header": "Zaloguj sie",
+    "welcome_message": "Witamy z powrotem w Gap Staff. ",
+    "form": {
+      "email": {
+        "label": "E-mail",
+        "placeholder": "Wprowadź swój email"
+      },
+      "password": {
+        "label": "Hasło",
+        "placeholder": "Wprowadź hasło"
+      },
+      "button_login": "Zaloguj sie"
+    },
+    "forgot_password_question": "Zapomniałeś hasła?",
+    "dont_have_account_question": "Nie masz konta?",
+    "create_new_account": "Utwórz nowy"
+  },
+  "create_account": {
+    "benefits": {
+      "benefit1": "Innowacyjny",
+      "benefit2": "Konsultacyjny",
+      "benefit3": "Odpowiedzialny",
+      "benefit4": "Prawdziwy",
+      "benefit5": "Etyczny"
+    },
+    "header": "Najpierw utwórz konto",
+    "sub_header": "aby rozpocząć podróż",
+    "form": {
+      "email": {
+        "label": "E-mail",
+        "placeholder": "Wprowadź swój email"
+      },
+      "password": {
+        "label": "Hasło",
+        "placeholder": "Wprowadź hasło"
+      },
+      "repeat_password": {
+        "label": "Potwierdź hasło",
+        "placeholder": "Wprowadź swoje hasło potwierdzające"
+      },
+      "button_create_account": "Utwórz konto"
+    },
+    "agreement": {
+      "description": "W celu uruchomienia Portalu Rejestracji Personelu Gap należy najpierw\n ",
+      "checkbox_full_condition": "Zgadzam się z personelem gap",
+      "full_condition": "Pełne warunki",
+      "checkbox_full_term_of_use": "Zgadzam się z personelem gap",
+      "term_of_use": "Warunki korzystania"
+    },
+    "have_account_question": "masz konto?",
+    "login_message": "Zaloguj się teraz"
+  },
+  "forgot_password": {
+    "header": "Zapomniałeś hasła?",
+    "sub_header": "Wprowadź adres e-mail powiązany z Twoim kontem, a my wyślemy Ci wiadomość e-mail z instrukcjami resetowania hasła",
+    "form": {
+      "email": {
+        "label": "E-mail",
+        "placeholder": "Wprowadź swój email"
+      },
+      "button_submit": "Wyślij instrukcję"
+    },
+    "remember_password_question": "Zapamiętaj swoje hasło?",
+    "login_now_message": "Zaloguj się teraz",
+    "dialog": {
+      "header": "Sprawdź swój email",
+      "description": "Wysłaliśmy instrukcje resetowania hasła na Twój adres e-mail"
+    }
+  },
+  "reset_password": {
+    "header": "Utwórz nowe hasło",
+    "sub_header": "Twoje nowe hasło musi różnić się od poprzedniego hasła.",
+    "form": {
+      "password": {
+        "label": "Nowe hasło",
+        "placeholder": "Wprowadź hasło"
+      },
+      "repeat_password": {
+        "label": "Potwierdź hasło",
+        "placeholder": "Wprowadź swoje hasło potwierdzające"
+      },
+      "button_reset_password": "Zresetuj hasło"
+    },
+    "dialog": {
+      "title": "Gratulacje",
+      "description": "Pomyślnie zresetowałeś swoje hasło"
+    },
+    "remember_password_question": "Zapamiętaj swoje hasło?",
+    "login_message": "Zaloguj się teraz"
+  },
+  "get_started": {
+    "header": "Zaczynaj",
+    "personal_details": {
+      "header": {
+        "title": "Informacje osobiste",
+        "subtitle": "Podaj swoje dane osobowe"
+      },
+      "body": {
+        "title": {
+          "label": "Tytuł",
+          "placeholder": "Wybierz tytuł"
+        },
+        "first_name": {
+          "label": "Imię",
+          "placeholder": "Imię"
+        },
+        "middle_name": {
+          "label": "Drugie imię (opcjonalnie)",
+          "placeholder": "Drugie imię"
+        },
+        "last_name": {
+          "label": "Nazwisko",
+          "placeholder": "Nazwisko"
+        },
+        "email": {
+          "label": "E-mail",
+          "placeholder": "Wpisz swój adres e-mail"
+        },
+        "phone_number": {
+          "label": "Numer telefonu",
+          "placeholder": "Wprowadź swój numer telefonu"
+        },
+        "date_of_birth": {
+          "label": "Data urodzenia",
+          "placeholder": "--/--/----"
+        },
+        "contact_dates": {
+          "label": "Data kontaktu",
+          "placeholder": "Wybierz datę kontaktu"
+        },
+        "contact_times": {
+          "label": "Czas kontaktu",
+          "placeholder": "Wybierz czas kontaktu"
+        }
+      }
+    },
+    "contact_time": {
+      "header": {
+        "title": "Kiedy możemy się z Tobą skontaktować?",
+        "subtitle": "Daj nam znać, kiedy możemy się z Tobą skontaktować"
+      }
+    },
+    "right_to_work": {
+      "header": {
+        "title": "Prawo do statusu pracy",
+        "subtitle": "Podaj status swojego prawa do pracy do potwierdzenia luką"
+      }
+    },
+    "form": {
+      "button_submit": "Prześlij informacje"
+    },
+    "dialog": {
+      "header": "Mam to, dzieki! ",
+      "description": "Jeśli masz teraz trochę czasu, kontynuuj rejestrację, abyśmy mieli wszystko, czego potrzebujemy, aby pomóc Ci jak najszybciej rozpocząć nową pracę. ",
+      "button_stay": "Zrobić to później",
+      "button_continue": "Kontynuuj proces"
+    }
+  },
+  "profile": {
+    "breadcrumb": "Powrót do portalu",
+    "information_tab": {
+      "tab_name": "Podstawowe informacje",
+      "title": "Tytuł",
+      "first_name": "Imię",
+      "middle_name": "Drugie imię (opcjonalnie)",
+      "last_name": "Nazwisko",
+      "date_of_birth": "Data urodzenia"
+    },
+    "password_tab": {
+      "tab_name": "Zmień hasło",
+      "current_password": "Aktualne hasło",
+      "new_password": "Nowe hasło",
+      "confirm_password": "Potwierdź nowe hasło"
+    },
+    "actions": {
+      "save": "Ratować"
+    }
+  },
+  "photo": {
+    "take": "Zrobić zdjęcie",
+    "max_size": "Maksymalny rozmiar pliku:"
+  },
+  "header": {
+    "profile": "Profil",
+    "log_out": "Wyloguj"
+  }
+}

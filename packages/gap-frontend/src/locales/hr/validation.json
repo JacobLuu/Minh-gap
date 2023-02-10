@@ -1,0 +1,18 @@
+{
+  "common": {
+    "required": "Ovo polje je obavezno.",
+    "many_required": "Ova polja su obavezna.",
+    "max_characters": "Ovo polje ne može biti duže od {{max}} likovi.",
+    "end_date": "Datum završetka mora biti nakon datuma početka.",
+    "phone_number": "Telefonski broj je nevažeći.",
+    "email": "E-mail je pogrešan.",
+    "password": "Lozinka je nevažeća.",
+    "repeat_password": "Vaše lozinke se ne podudaraju. Molim te pokušaj ponovno.",
+    "share_code": {
+      "expired": "Šifra za dijeljenje je istekla. Molimo ponovno generirajte šifru za dijeljenje i pokušajte ponovno"
+    },
+    "file": {
+      "max_size": "Datoteka je prevelika."
+    }
+  }
+}

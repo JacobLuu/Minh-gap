@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "branch": "Liverpool",
+    "type": "Branch",
+    "legal_entity": "Gap Personnel Holdings Limited",
+    "company_reg": "475816",
+    "branch_manager": "James Mclean"
+  },
+  {
+    "id": 2,
+    "branch": "Birmingham",
+    "type": "On-site",
+    "legal_entity": "Gap Personnel Holdings Limited",
+    "company_reg": "475816",
+    "branch_manager": "Thomas Anderson"
+  },
+  {
+    "id": 3,
+    "branch": "Manchester",
+    "type": "Branch",
+    "legal_entity": "Gap Personnel Holdings Limited",
+    "company_reg": "475816",
+    "branch_manager": "Thomas Anderson"
+  },
+  {
+    "id": 4,
+    "branch": "Birmingham",
+    "type": "Branch",
+    "legal_entity": "Gap Personnel Holdings Limited",
+    "company_reg": "475816",
+    "branch_manager": "Alex Dang"
+  },
+  {
+    "id": 5,
+    "branch": "Manchester",
+    "type": "Branch",
+    "legal_entity": "Gap Personnel Holdings Limited",
+    "company_reg": "475816",
+    "branch_manager": "Tilly Ta"
+  },
+  {
+    "id": 6,
+    "branch": "Birmingham",
+    "type": "Branch",
+    "legal_entity": "Gap Personnel Holdings Limited",
+    "company_reg": "475816",
+    "branch_manager": "Tilly Ta"
+  },
+  {
+    "id": 7,
+    "branch": "Manchester",
+    "type": "Branch",
+    "legal_entity": "Gap Personnel Holdings Limited",
+    "company_reg": "475816",
+    "branch_manager": "David Peterson"
+  },
+  {
+    "id": 8,
+    "branch": "Lanchester",
+    "type": "Branch",
+    "legal_entity": "Gap Personnel Holdings Limited",
+    "company_reg": "475816",
+    "branch_manager": "Lila Woodmilk"
+  },
+  {
+    "id": 9,
+    "branch": "Birmingham",
+    "type": "AdamLevine",
+    "legal_entity": "Gap Personnel Holdings Limited",
+    "company_reg": "475816",
+    "branch_manager": "Lila Woodmilk"
+  },
+  {
+    "id": 10,
+    "branch": "Lanchester",
+    "type": "On-site",
+    "legal_entity": "Gap Personnel Holdings Limited",
+    "company_reg": "475816",
+    "branch_manager": "James Mclean"
+  }
+]

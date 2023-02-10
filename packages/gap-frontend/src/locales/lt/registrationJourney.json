@@ -1,0 +1,300 @@
+{
+  "sidebar": {
+    "personal_details": "Asmeninės detalės",
+    "skills_and_qualifications": "Įgūdžiai",
+    "employment_history": "darbo istorija",
+    "emergency_contact": "Avarinis kontaktas",
+    "address_details": "Adreso informacija",
+    "personal_protective_equipment": "Asmeninės apsaugos priemonės",
+    "right_to_work_proofs": "Teisės dirbti įrodymai",
+    "financial_information": "Finansinė informacija",
+    "declarations": "Deklaracijos",
+    "contracts": "Sutartys",
+    "skill_qualifications": "Įgūdžiai ir kvalifikacijos"
+  },
+  "common": {
+    "save_progress": "Išsaugokite pažangą",
+    "submit": "Pateikti",
+    "confirm_and_open": "Patvirtinti",
+    "close": "Uždaryti",
+    "save_success": "Išsaugoti sėkmingai.",
+    "submit_success": "Pateikti sėkmingai.",
+    "upload_success": "Įkelti sėkmingai.",
+    "signature_empty": "Parašo laukas negali būti tuščias.",
+    "check": "Patikrinti",
+    "rejected": "Atstumtas",
+    "view_file": "Peržiūrėti failą",
+    "delete_file": "Ištrinti failą",
+    "confirm_and_sign": "Patvirtinti ir pasirašyti",
+    "sign_success": "Pasirašykite sėkmingai."
+  },
+  "personal_details": {
+    "header": {
+      "title": "Asmeninės detalės",
+      "subtitle": "Peržiūrėkite savo asmeninę informaciją"
+    },
+    "body": {
+      "title": "Pavadinimas",
+      "first_name": "Pirmas vardas",
+      "middle_name": "Antrasis vardas (neprivaloma)",
+      "last_name": "Pavardė",
+      "email": "El. paštas",
+      "phone_number": "Telefono numeris",
+      "date_of_birth": "Gimimo data"
+    },
+    "image_upload": {
+      "title": "Vaizdo įkėlimas",
+      "subtitle": "Praneškite mums apie savo išvaizdą"
+    }
+  },
+  "skills_and_qualifications": {
+    "header": {
+      "title": "Įkelkite savo gyvenimo aprašymą",
+      "subtitle": "Norime sužinoti apie jūsų darbo patirtį"
+    },
+    "body": {
+      "title": "Įgūdžiai",
+      "subtitle": "Norime sužinoti apie jūsų įgūdžius ir kvalifikaciją"
+    }
+  },
+  "employment_history": {
+    "header": {
+      "title": "Darbo istorija",
+      "subtitle": "Pateikite informaciją apie savo darbo istoriją",
+      "add_button": "Pridėti naują įrašą"
+    },
+    "body": {
+      "employment": "Užimtumas",
+      "education": "Išsilavinimas",
+      "others": "Kiti",
+      "full_time": "Pilnas laikas",
+      "part_time": "Ne visą darbo dieną",
+      "edit": "Redaguoti"
+    },
+    "employment_history_modal": {
+      "header": {
+        "title_add": "Naujas įrašas",
+        "title_update": "Redaguoti įrašą"
+      },
+      "body": {
+        "type_of_work": "Darbo tipas",
+        "company_name": "Įmonės pavadinimas",
+        "institution_name": "Institucijos pavadinimas",
+        "title_name": "Pavadinimas",
+        "job_title": "Darbo pavadinimas",
+        "start_date": "Pradžios data",
+        "end_date": "Pabaigos data",
+        "job_description": "apibūdinimas"
+      },
+      "actions": {
+        "close": "Uždaryti",
+        "save": "Išsaugoti įrašą",
+        "delete": "Ištrinti šį įrašą"
+      }
+    }
+  },
+  "emergency_contact": {
+    "header": {
+      "title": "Avarinis kontaktas",
+      "subtitle": "Pateikite savo skubios pagalbos kontaktinę informaciją"
+    }
+  },
+  "financial_information": {
+    "header": {
+      "title": "Finansinė informacija",
+      "subtitle": "Pateikite savo finansinę informaciją"
+    },
+    "body": {
+      "have_uk_bank_account": "Ar turite JK banko sąskaitą?",
+      "bank_name": "banko pavadinimas",
+      "bank_name_placeholder": "Įveskite banko pavadinimą",
+      "account_number": "Paskyros numeris",
+      "account_number_placeholder": "Įveskite sąskaitos numerį",
+      "account_name": "Paskyros vardas",
+      "account_name_placeholder": "Įveskite paskyros pavadinimą",
+      "bank_sort_code": "Banko rūšiavimo kodas",
+      "bank_sort_code_placeholder": "Įveskite banko rūšiavimo kodą",
+      "bank_account_verify_success": "Sėkmingas banko sąskaitos patvirtinimas!",
+      "no_uk_bank_account": {
+        "title_1": "Prašau",
+        "title_2": "paspauskite čia",
+        "title_3": " susikurti banko sąskaitą Onepay.",
+        "title_4": "Kai jūsų banko sąskaita bus paruošta, pasirinkite „Taip“ ir toliau pildykite finansinę informaciją."
+      }
+    }
+  },
+  "personal_protective_equipment": {
+    "header": {
+      "title": "Asmeninės apsaugos priemonės",
+      "subtitle": "Pateikite informaciją apie savo asmenines apsaugos priemones"
+    },
+    "body": {
+      "question_label_1": "Ar turite savo Hi Vis liemenę ar striukę?",
+      "question_label_2": "Ar turite savo apsauginius batus?",
+      "question_label_3": "Pasirinkite savo bagažinės dydį"
+    }
+  },
+  "declarations": {
+    "header": {
+      "title": "Deklaracijos",
+      "subtitle": "Jau seniai žinomas faktas, kad skaitytoją atitrauks skaitomas turinys"
+    },
+    "body": {
+      "title_1": "Sveikata",
+      "body_1": "Šie klausimai apie sveikatą ir negalią yra užduodami siekiant išsiaiškinti jūsų poreikius, susijusius su pagrįstomis koregavimais, kurių reikia norint pasiekti mūsų įdarbinimo tarnybą, ir jūsų poreikius, kad galėtumėte atlikti ieškomą darbą ar pareigas.",
+      "label_1": "• Tavo sveikata",
+      "question_1": "Ar turite kokių nors sveikatos problemų ar atitinkamos negalios, dėl kurių jums gali būti sunku atlikti funkcijas, kurios yra būtinos jūsų siekiamam vaidmeniui?",
+      "title_2": "Atskleidimo ir draudimo paslauga",
+      "body_2_1": "1975 m. (2013 m.) Išimčių įsakymo pakeitimuose numatyta, kad tam tikri praleisti teistumai ir įspėjimai yra „apsaugomi“ ir negali būti atskleisti darbdaviams ir į juos negalima atsižvelgti. ",
+      "body_2_2": "Atsižvelgiant į filtravimo taisykles, nepaskelbus teistumo, kurį privalote atskleisti, galime išbraukti jus iš savo registro arba nutraukti paskyrimą, jei pažeidimas nepaskelbiamas, bet vėliau paaiškės.",
+      "label_2_1": "• Apkaltinimai, įspėjimai, papeikimai ar galutiniai įspėjimai?",
+      "question_2_1": "Ar turite kokių nors teistų, perspėjimų, papeikimų ar paskutinių įspėjimų, kurie nėra „apsaugoti“, kaip apibrėžta 1974 m. Nusikaltėlių reabilitacijos įstatyme (1975 m. išimtys) (su pakeitimais, padarytais 2013 m.)",
+      "label_2_2": "• DBS patikrinimo sutartis",
+      "question_2_2": "Jei to reikia vaidmeniui, ar sutinkate atlikti DBS standarto arba patobulintą patikrą?",
+      "title_3": "Lygių galimybių teisės",
+      "body_3_1": "„GAP Personel“ politika yra įdarbinti, įdarbinti ir paaukštinti žmones, atsižvelgiant į jų tinkamumą atliekamam darbui.  ",
+      "body_3_2": "**Ši informacija bus naudojama tik stebėjimo tikslais**.",
+      "body_3_3": "Atsižvelgiant į filtravimo taisykles, nepaskelbus teistumo, kurį privalote atskleisti, galime išbraukti jus iš savo registro arba nutraukti paskyrimą, jei pažeidimas nepaskelbiamas, bet vėliau paaiškės.",
+      "label_3_1": "• Lytis *",
+      "question_3_1": "Kokia jūsų lytis?",
+      "label_3_2": "• Tautybė *",
+      "question_3_2": "Kokia tavo tautybė?",
+      "label_3_3": "• Etniškumas*",
+      "question_3_3": "Kokia jūsų tautybė?",
+      "title_4": "Mokėjimas",
+      "body_4": "Žemiau pateikta informacija reikalinga tik jūsų darbo užmokesčiui apdoroti. ",
+      "label_4_1": "• Studijų paskola",
+      "question_4_1": "Ar turite grąžinti studijų paskolą, kuri priklauso nuo pajamų?",
+      "label_4_2": "• Pajamų ataskaita",
+      "question_4_2": "Užpildykite pradžios deklaracijos skyrių, nurodydami savo dabartines aplinkybes, nurodydami, kuris iš trijų teiginių jums tinka. ",
+      "answer_4_2_1": "Tai mano pirmasis darbas nuo praėjusių metų balandžio 6 d. ir negaunu apmokestinamos darbo ieškančiojo pašalpos, užimtumo ir paramos pašalpos, apmokestinamos nedarbingumo pašalpos, valstybinės ar profesinės pensijos.",
+      "answer_4_2_2": "Dabar tai mano vienintelis darbas, bet nuo balandžio 6 d. dirbau kitą darbą arba gavau apmokestinamąją darbo ieškančiojo pašalpą, užimtumo ir paramos pašalpą arba apmokestinamąją nedarbingumo pašalpą. ",
+      "answer_4_2_3": "Be naujo darbo, aš turiu kitą darbą arba gaunu valstybinę arba profesinę pensiją.",
+      "title_5": "Susitarimai",
+      "label_5_1": "• Laiko taisyklės – 48 valandų atsisakymas",
+      "question_5_1": "1998 m. Darbo laiko taisyklės (su pakeitimais) numato, kad laikinieji darbuotojai negali dirbti su Klientu užduotyje ilgiau nei darbo savaitę (48 valandas), nebent jie raštu susitartų, kad šis limitas netaikomas. ",
+      "label_5_2": "• Sveikata",
+      "question_5_2": "Jūs sutinkate, kad informacija, pateikta šios paraiškos skyriuje apie sveikatą ir negalią, yra tiksli. ",
+      "label_5_3": "• DBS",
+      "question_5_3": "Sutinkate, kad informacija, pateikta šios programos DBS skyriuje, yra tiksli. ",
+      "label_5_4": "• Duomenų apsauga",
+      "question_5_4": "1998 m. Darbo laiko taisyklės (su pakeitimais) numato, kad laikinieji darbuotojai negali dirbti su Klientu užduotyje ilgiau nei darbo savaitę (48 valandas), nebent jie raštu susitartų, kad šis limitas netaikomas. ",
+      "label_5_5": "• Rinkodara",
+      "question_5_5": "Sutinku, kad mano kontaktinius duomenis GAP darbuotojai naudotų rinkodaros paslaugų tikslais, be įdarbinimo ir mokymo paslaugų, kurias gali pasiūlyti GAP darbuotojai, jų dukterinės įmonės ir (arba) trečiųjų šalių tiekėjai. ",
+      "title_6": "Bendras susitarimas",
+      "body_6": "Žemiau pateikta informacija reikalinga tik jūsų darbo užmokesčiui apdoroti. ",
+      "answer_6_1": "Patvirtinu, kad šiame dokumente pateikta informacija yra teisinga ir teisinga.",
+      "answer_6_2": "Suprantu, kad klaidinantis ar melagingas teiginys arba nepatenkinama nuoroda gali būti priežastis atmesti arba, jei dirbate, atleisti iš darbo.",
+      "answer_6_3": "Aš ketinu būti saistomas šių susitarimų."
+    }
+  },
+  "contracts": {
+    "header": {
+      "title": "Sutartys",
+      "subtitle": "Jūsų sutartys bus saugomos čia"
+    },
+    "body": {
+      "title": "Sutartis",
+      "key_info_document": "Pagrindinės informacijos dokumentas",
+      "work_contract": "Paslaugų sutartis ir įsipareigojimo sąlygos",
+      "medical_contract": "Išplėstinis medicininis klausimynas",
+      "key_info_document_confirmation": "Gavau pagrindinės informacijos dokumentą.",
+      "work_contract_confirmation": "Perskaičiau ir sutinku su paslaugų sutartimi ir įsipareigojimo sąlygomis.",
+      "medical_contract_confirmation": "Perskaičiau išplėstinį medicininį klausimyną ir sutikau",
+      "view": "Žiūrėti",
+      "sign": "Pasirašyti",
+      "key_information_document": "Pagrindinės informacijos dokumentas",
+      "key_information_document_confirmation": "Gavau pagrindinės informacijos dokumentą.",
+      "work_contract_signed": "Pasirašyta paslaugų sutartis ir įsipareigojimo sąlygos!",
+      "medical_contract_signed": "Pasirašyta išplėstinė medicininė anketa!"
+    },
+    "modal": {
+      "content": {
+        "key_information_document": "Šiame dokumente pateikiama pagrindinė informacija apie jūsų santykius su mumis, įskaitant informaciją apie atlyginimą, teisę į atostogas ir kitas išmokas.",
+        "work_contract": "Šiame dokumente pateikiama svarbi informacija apie darbą trūkumo darbuotojams ir pateikiami lūkesčiai dirbant pagal užduotį.",
+        "medical_contract": "Šioje formoje pateikiami klausimai yra užduodami siekiant išsiaiškinti jūsų poreikius ir tai, ar reikia kokių nors pagrįstų poreikių norint atlikti ieškomą darbą ar pareigas."
+      }
+    },
+    "signature_modal": {
+      "header": {
+        "title": "Parašas",
+        "draw": "Lygiosios",
+        "upload": "Įkelti"
+      },
+      "body": {
+        "title": "Pasirašydamas šią paraišką elektroniniu parašu , sutinku, kad parašas bus toks pat galiojantis kaip ir ranka rašytas parašas, kiek tai leidžia vietos įstatymai."
+      },
+      "actions": {
+        "cancel": "Atšaukti",
+        "accept": "Priimti"
+      }
+    }
+  },
+  "address_details": {
+    "header": {
+      "title": "Adresas",
+      "subtitle": "Pateikite savo JK adreso informaciją",
+      "subtitle_placeholder": "Įveskite pašto kodą arba adresą"
+    },
+    "file_header": {
+      "title": "Įkelkite savo adreso įrodymus",
+      "subtitle": "Pateikite savo adreso įrodymus"
+    },
+    "body": {
+      "postcode": "Pašto indeksas",
+      "postcode_placeholder": "Įveskite pašto kodą",
+      "enable_manual_input": "Negalite rasti savo adreso naudodami pašto kodą? Įveskite adresą rankiniu būdu",
+      "road": "Kelias",
+      "road_placeholder": "Įveskite kelią",
+      "county_region": "Apskritis/regionas",
+      "county_region_placeholder": "Įveskite apskritį/regioną",
+      "house_number": "Namo/buto numeris",
+      "house_number_placeholder": "Įveskite būsto / buto numerį",
+      "upload_files": "Įkelti failai",
+      "town_city": "Miestas/Miestas",
+      "town_city_placeholder": "Įveskite miestą / miestą",
+      "county": "Apygarda",
+      "county_placeholder": "Įveskite apskritį"
+    }
+  },
+  "header": {
+    "advertisement": "Reklamos informacija",
+    "job_applied": "Pateiktas darbas:",
+    "job_id": "Darbo ID:",
+    "branch_location": "Filialo vieta:"
+  },
+  "right_to_work": {
+    "header": {
+      "title": "Pateikite savo teisės dirbti įrodymus",
+      "share_code_subtitle": "Pateikite savo akcijų kodo numerį",
+      "other_subtitle": "Asmeniniam pokalbiui pateikite šiuos dokumentus darbdaviui"
+    },
+    "body": {
+      "share_code": "Bendrinkite kodą",
+      "fetching_share_code": "Gaunamas bendrinimo kodas...",
+      "share_code_found": "Bendrinimo kodas rastas, laukiama konsultanto peržiūros",
+      "approved": "Patvirtinta",
+      "photo": {
+        "title": "Nufotografuokite",
+        "subtitle_1": "Norėdami fotografuoti, naudokite įrenginį su fotoaparatu.",
+        "subtitle_2": "Jei negalite nufotografuoti, kreipkitės į filialą, kad gautumėte daugiau pagalbos.",
+        "cant_take": "Negalima fotografuoti"
+      },
+      "additional_document": {
+        "title": "Įkelkite papildomus dokumentus",
+        "subtitle": "Pateikite papildomus dokumentus"
+      },
+      "additional_info": {
+        "title": "Reikia daugiau informacijos",
+        "subtitle": "Pateikite savo akcijų kodo numerį"
+      },
+      "passport": {
+        "title": "Nuskaitykite savo pasą",
+        "subtitle_1": "Prašome pateikti savo paso nuotrauką.",
+        "subtitle_2": "Jei negalite nufotografuoti, kreipkitės į filialą, kad gautumėte daugiau pagalbos."
+      },
+      "birth_certificate": "Gimimo liudijimas",
+      "insurance_number": "Nacionalinio draudimo numeris"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "common": {
+    "required": "This field is required.",
+    "many_required": "These fields are required.",
+    "max_characters": "This field can't be longer than {{max}} characters.",
+    "end_date": "End date must be after start date.",
+    "phone_number": "Phone number is invalid.",
+    "email": "Email is invalid.",
+    "password": "Password is invalid.",
+    "repeat_password": "Your passwords do not match. Please try again.",
+    "share_code": {
+      "expired": "Share code expired .Please re-generate your share code and try again"
+    },
+    "file": {
+      "max_size": "File is too big."
+    }
+  }
+}

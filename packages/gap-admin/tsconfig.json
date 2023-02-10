@@ -1,0 +1,9 @@
+{
+  "extends": "../../tsconfig.json",
+  "include": [
+    "src/*"
+, "src/redux/saga/rootSaga.ts", "src/redux/reducer/rootReducer.ts", "src/redux/store.ts"  ],
+  "files": [
+    "index.d.ts"
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "header": {
+    "advertisement": "Advertisement information",
+    "job_applied": "Job Applied: ",
+    "job_id": "Job ID: ",
+    "branch_location": "Branch Location: "
+  },
+  "sidebar": {
+    "personal_details": "Personal Details",
+    "skill_qualifications": "Skills & Qualifications",
+    "employment_history": "Employment History",
+    "emergency_contact": "Emergency Contact",
+    "address_details": "Address Details",
+    "personal_protective_equipment": "Personal Protective Equipment",
+    "right_to_work_proofs": "Right To Work",
+    "financial_information": "Financial Information",
+    "declarations": "Declarations",
+    "contracts": "Contracts"
+  },
+  "common": {
+    "save_progress": "Save progress",
+    "submit": "Submit",
+    "confirm_and_open": "Confirm & Open",
+    "confirm_and_sign": "Confirm & Sign",
+    "close": "Close",
+    "save_success": "Save successfully.",
+    "submit_success": "Submit successfully.",
+    "upload_success": "Upload successfully.",
+    "sign_success": "Sign successfully.",
+    "signature_empty": "Signature can't be empty.",
+    "check": "Check",
+    "rejected": "Rejected",
+    "view_file": "View file",
+    "delete_file": "Delete file"
+  },
+  "personal_details": {
+    "header": {
+      "title": "Personal Details",
+      "subtitle": "Review your personal information"
+    },
+    "body": {
+      "title": "Title",
+      "first_name": "First name",
+      "middle_name": "Middle name (Optional)",
+      "last_name": "Last name",
+      "email": "Email",
+      "phone_number": "Phone number",
+      "date_of_birth": "Date of birth"
+    },
+    "image_upload": {
+      "title": "Image Upload",
+      "subtitle": "Let us know about your appearance"
+    }
+  },
+  "skills_and_qualifications": {
+    "header": {
+      "title": "Upload your resume",
+      "subtitle": "We want to know about your working experience"
+    },
+    "body": {
+      "title": "Skills & Qualifications",
+      "subtitle": "We want to know about your skills and qualifications"
+    }
+  },
+  "employment_history": {
+    "header": {
+      "title": "Employment history",
+      "subtitle": "Provide information about your employment history",
+      "add_button": "Add new record +"
+    },
+    "body": {
+      "employment": "Employment",
+      "education": "Education",
+      "others": "Others",
+      "full_time": "Full time",
+      "part_time": "Part-time",
+      "edit": "Edit"
+    },
+    "employment_history_modal": {
+      "header": {
+        "title_add": "New record",
+        "title_update": "Edit record"
+      },
+      "body": {
+        "type_of_work": "Type of work",
+        "company_name": "Company Name",
+        "institution_name": "Institution name",
+        "title_name": "Title",
+        "job_title": "Job Title",
+        "start_date": "Start Date",
+        "end_date": "End Date",
+        "job_description": "Description"
+      },
+      "actions": {
+        "close": "Close",
+        "save": "Save record",
+        "delete": "Delete this record"
+      }
+    }
+  },
+  "emergency_contact": {
+    "header": {
+      "title": "Emergency Contact",
+      "subtitle": "Please provide your emergency contact information"
+    },
+    "body": {}
+  },
+  "financial_information": {
+    "header": {
+      "title": "Financial Information",
+      "subtitle": "Please provide your financial information"
+    },
+    "body": {
+      "have_uk_bank_account": "Do you have UK Bank Account?",
+      "bank_name": "Bank name",
+      "bank_name_placeholder": "Enter bank name",
+      "account_number": "Account number",
+      "account_number_placeholder": "Enter account number",
+      "account_name": "Account name",
+      "account_name_placeholder": "Enter account name",
+      "bank_sort_code": "Bank sort code",
+      "bank_sort_code_placeholder": "Enter bank sort code",
+      "bank_account_verify_success": "Bank account verification success!",
+      "no_uk_bank_account": {
+        "title_1": "Please ",
+        "title_2": "click here ",
+        "title_3": " to create a bank account with Onepay.",
+        "title_4": "Once your bank account is ready, please select \"Yes\" and continue filling in your financial information."
+      }
+    }
+  },
+  "personal_protective_equipment": {
+    "header": {
+      "title": "Personal Protective Equipment",
+      "subtitle": "Provide information about your personal protective equipments"
+    },
+    "body": {
+      "question_label_1": "Do you have your own Hi Vis vest or jacket?",
+      "question_label_2": "Do you have your own safety boots?",
+      "question_label_3": "Choose your boot size"
+    }
+  },
+  "declarations": {
+    "header": {
+      "title": "Declarations",
+      "subtitle": "It is a long established fact that a reader will be distracted by the readable content"
+    },
+    "body": {
+      "title_1": "Health & Disability",
+      "body_1": "The following questions on health and disability are asked in order to find out your needs in terms of reasonable adjustments to be made to access our recruitment service and your needs in order to perform the job or position sought.",
+      "label_1": "• Your Health",
+      "question_1": "Do you have any health issues or a relevant disability which may make it difficult for you to carry out functions which are essential for the role you seek?",
+      "title_2": "Disclosure and Barring Service",
+      "body_2_1": "The amendments to the Exceptions Order 1975 (2013) provide that certain spent convictions and cautions are 'protected' and are not subject to disclosure to employers and cannot be taken into account. All guidance and criteria on the filter of these cautions and convictions can be found in the DBS filtering collections.",
+      "body_2_2": "Subject to the filtering rules, failure to declare a conviction that you must disclose may require us to exclude you from our register or terminate an assignment if the offence is not declared but later comes to light.",
+      "label_2_1": "• Convictions, Warnings, Reprimands or Final Warnings?",
+      "question_2_1": "Do you have any convictions, cautions, reprimands or final warnings that are not 'protected' as defined by the Rehabilitation of Offenders Act 1974(Exceptions) Order 1975(as amended in 2013)",
+      "label_2_2": "• DBS Check agreement",
+      "question_2_2": "If required for the role, do you agree to completing a DBS Standard or Enhanced check?",
+      "title_3": "Equal Opportunity Rights",
+      "body_3_1": "GAP Personel's policy is to recruit, employ and promote people on the basis of their suitability for the work to be performed. To this end we aim to ensure that no applicant or employee receives less than favourable treatment on the grounds of sex, sexual orientation, gender reassignment, marital or civil partnership status, age, disability, colour, race, nationality, ethnic or national origin, religion or belief, political beliefs or membership or non membership of a Trade Unition or is disadvantaged by conditions or requirements that cannot be shown to be justifiable. To assist in the continuing implementation and monitoring of this policy, applicants for posts with GAP Personnel are asked to provide the information requested. ",
+      "body_3_2": "**This information will be used solely for monitoring purposes**.",
+      "body_3_3": "Subject to the filtering rules, failure to declare a conviction that you must disclose may require us to exclude you from our register or terminate an assignment if the offence is not declared but later comes to light.",
+      "label_3_1": "• Gender *",
+      "question_3_1": "What is your gender?",
+      "label_3_2": "• Nationality *",
+      "question_3_2": "What is your nationality?",
+      "label_3_3": "• Ethnicity *",
+      "question_3_3": "What is your ethnicity?",
+      "title_4": "Payment",
+      "body_4": "The below information is requested solely for the purpose of processing your wages. The wages can only be paid into your bank account - we cannot process the payment into another person's account. If you would prefer to supply your bank details at a later date please select 'Supply at a later date' from the below menu",
+      "label_4_1": "• Student Loan",
+      "question_4_1": "Do you have an income contingent student loan to repay?",
+      "label_4_2": "• Earning statement",
+      "question_4_2": "Please complete the starting declaration section stating your current circumstances by indication which one of the three statements apply to you. It will help us establish the tax code to use against your first salary payment. Depending on which part of the form you complete your code may not require further amendment. If a change is necessary HMRC will advise us of your correct tax code once they have obtained information regarding any previous employment or JSA claims you may have made.",
+      "answer_4_2_1": "This is my first job since last 6 April and I have not been receiving taxable Jobseeker's Allowance, Employment and Support Allowance, taxable Incapacity Benefit, State or Occupational Pension.",
+      "answer_4_2_2": "This is now my only job but since 6 April I have had another job, or received taxable Jobseeker's Allowance, Employment and Support Allowance or taxable Incapacity Benefit. I do not receive a State or Occupational Pension.",
+      "answer_4_2_3": "As well as my new job I have another job or receive a State or Occupational Pension.",
+      "title_5": "Agreements",
+      "label_5_1": "• Time Regulations - 48 Hour Opt Out",
+      "question_5_1": "The Working Time Regulations 1998(as amended) provide that Temporary Workers shall not work on an Assignment with the Client in excess of the working week (48 Hours) unless they agree in writing that this limit shall not apply. By agreeing to the 48 Hour Opt Out you understand the 48 hour working week limit will not apply and you are free to accept additional hours which may exceed 48 hours in a working week. As a reminder, under the terms of your contract for services agreement you are free to accept or reject an assignment or additional hours offered. Should you choose to disagree, you understand the 48 hour working week limit will apply and you must not exceed this without first returning to our offices and completing the acceptance section of the 48 hour opt out agreement. There is no limit on the amount of times you can opt in or out of the agreement. For more information on the 48 Hour Opt Our and your rights to withdraw your consent please.",
+      "label_5_2": "• Health & Disability",
+      "question_5_2": "You agree that the information provided in relation to health and disability section of this application is accurate. You accept responsibility for notifying of any changes to your medical condition to enable them to ensure your needs in terms of reasonable adjustments for access to their recruitment service and to your needs in order to perform the job or position sought of being undertaken.",
+      "label_5_3": "• DBS",
+      "question_5_3": "You agree that the information provided in relation to the DBS section of this application is accurate. You accept responsibility for notifying of any changes to your unfiltered conviction status. You understand if it is identified that the information provided is false that could be cause for rejection or, if employed, dismissal.",
+      "label_5_4": "• Data Protection",
+      "question_5_4": "The Working Time Regulations 1998(as amended) provide that Temporary Workers shall not work on an Assignment with the Client in excess of the working week (48 Hours) unless they agree in writing that this limit shall not apply. By agreeing to the 48 Hour Opt Out you understand the 48 hour working week limit will not apply and you are free to accept additional hours which may exceed 48 hours in a working week. As a reminder, under the terms of your contract for services agreement you are free to accept or reject an assignment or additional hours offered. Should you choose to disagree, you understand the 48 hour working week limit will apply and you must not exceed this without first returning to our offices and completing the acceptance section of the 48 hour opt out agreement. There is no limit on the amount of times you can opt in or out of the agreement. For more information on the 48 Hour Opt Our and your rights to withdraw your consent please.",
+      "label_5_5": "• Marketing",
+      "question_5_5": "I consent for my contact data to be used by GAP personnel for the purposes of marketing services, additional to those of recruitment and training, which may be offered by GAP personnel, their subsidiaries and/or third party suppliers. This consent will remain valid for the same periods detailed within our [privacy notice] according to your status, save where you exercise your rights to withdraw this consent. WHere you have consented to marketing you have the right to withdraw that consent at any time by unsubscribing on marketing email or by emailing Data Protection Officer [dpo@gap-personnel.com]",
+      "title_6": "Overall Agreement",
+      "body_6": "The below information is requested solely for the purpose of processing your wages. The wages can only be paid into your bank account - we cannot process the payment into another person's account. If you would prefer to supply your bank details at a later date please select 'Supply at a later date' from the below menu",
+      "answer_6_1": "I confirm that the information provided in this document is true and correct.",
+      "answer_6_2": "I understand that a misleading or false statement or unsatisfactory reference could be cause for rejection or, if employed, dismissal.",
+      "answer_6_3": "I intend to be bound by these agreements."
+    }
+  },
+  "contracts": {
+    "header": {
+      "title": "Contracts",
+      "subtitle": "Your contracts will be stored here"
+    },
+    "body": {
+      "title": "Contract",
+      "key_information_document": "Key Information Document",
+      "work_contract": "Contract for Services and Terms of Engagement",
+      "medical_contract": "Extended Medical Questionnaire",
+      "key_information_document_confirmation": "I have received the Key Information Document.",
+      "work_contract_confirmation": "I have read and agree with the Contract for Services and Terms of Engagement.",
+      "medical_contract_confirmation": "I have read and agreed Extended Medical Questionnaire",
+      "work_contract_signed": "Contract for Services and Terms of Engagement signed!",
+      "medical_contract_signed": "Extended Medical Questionnaire signed!",
+      "view": "View",
+      "sign": "Sign",
+      "select_a_job": "Select a job"
+    },
+    "modal": {
+      "content": {
+        "key_information_document": "This document sets out key information about your relationship with us, including details about pay, holiday entitlement and other benefits.",
+        "work_contract": "This document provides important information about working for gap personnel and sets out the expectations while working on assignment.",
+        "medical_contract": "The questions in this form are asked in order to find out your needs and whether any reasonable need to be made in order to perform the job or position sought."
+      }
+    },
+    "signature_modal": {
+      "header": {
+        "title": "Signature",
+        "draw": "Draw",
+        "upload": "Upload"
+      },
+      "body": {
+        "title": "By signing this application with an electronic signature , I agree signature will be as valid as handwritten signature to the extent allowed by local law."
+      },
+      "actions": {
+        "cancel": "Cancel",
+        "accept": "Accept & Sign"
+      }
+    }
+  },
+  "address_details": {
+    "header": {
+      "title": "Address",
+      "subtitle": "Please provide your UK address information",
+      "subtitle_placeholder": "Enter postcode or address"
+    },
+    "file_header": {
+      "title": "Upload your address proofs",
+      "subtitle": "Provide your address proofs"
+    },
+    "body": {
+      "postcode": "Postcode",
+      "postcode_placeholder": "Enter postcode",
+      "enable_manual_input": "Can't find your address by using postcode? Enter address manually",
+      "town_city": "Town/City",
+      "town_city_placeholder": "Enter town/city",
+      "county": "County",
+      "county_placeholder": "Enter county",
+      "house_number": "House/Flat number",
+      "house_number_placeholder": "Enter houser/flat number",
+      "upload_files": "Uploaded files"
+    }
+  },
+  "right_to_work": {
+    "header": {
+      "title": "Provide your proofs of Right To Work",
+      "share_code_subtitle": "Please provide your share code number",
+      "other_subtitle": "For in person interview , please provide these documents to the employer"
+    },
+    "body": {
+      "share_code": "Share code",
+      "fetching_share_code": "Fetching share code ...",
+      "share_code_found": "Share code found, waiting for a consultant for review",
+      "approved": "Approved",
+      "photo": {
+        "title": "Take your photo",
+        "subtitle_1": "Please use a device with camera to take your photo.",
+        "subtitle_2": "If you can not take photo, please visit the branch for further assistance.",
+        "cant_take": "Cannot take photo"
+      },
+      "additional_document": {
+        "title": "Upload your additional documents",
+        "subtitle": "Provide your additional documents"
+      },
+      "additional_info": {
+        "title": "More information required",
+        "subtitle": "Provide your share code number"
+      },
+      "passport": {
+        "title": "Scan your passport",
+        "subtitle_1": "Please provide your passport photo.",
+        "subtitle_2": "If you can not take photo, please visit the branch for further assistance."
+      },
+      "birth_certificate": "Birth Certificate",
+      "insurance_number": "National Insurance Number"
+    }
+  }
+}

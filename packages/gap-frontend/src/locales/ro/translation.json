@@ -1,0 +1,255 @@
+{
+  "common": {
+    "validation": {
+      "email": {
+        "required": "E-mailul este un câmp obligatoriu",
+        "invalid_format": "Acest câmp trebuie să fie o adresă de e-mail validă"
+      },
+      "password": {
+        "min": "Cel puțin 6 litere",
+        "required": "Parola este un câmp obligatoriu",
+        "capital_required": "Cel puțin 1 caracter majuscul",
+        "number_required": "Cel puțin 1 număr",
+        "wrong_password": "E-mailul sau parola sunt greșite. "
+      },
+      "repeat_password": {
+        "not_match": "Parolele nu se potrivesc. "
+      },
+      "title": {
+        "required": "Titlul este un câmp obligatoriu"
+      },
+      "firstName": {
+        "required": "Prenumele este un câmp obligatoriu"
+      },
+      "middleName": {
+        "required": "Prenumele este un câmp obligatoriu"
+      },
+      "lastName": {
+        "required": "Numele de familie este un câmp obligatoriu"
+      },
+      "phoneNumber": {
+        "required": "Numărul de telefon este un câmp obligatoriu",
+        "invalid_format": "Numar de telefon invalid"
+      },
+      "contactDate": {
+        "required": "Data contactului este un câmp obligatoriu"
+      },
+      "contactTime": {
+        "required": "Ora de contact este un câmp obligatoriu"
+      },
+      "rightToWorkStatus": {
+        "required": "Statutul dreptului la muncă este un câmp obligatoriu"
+      },
+      "relationship": {
+        "required": "Relația este un câmp obligatoriu"
+      },
+      "journeyType": {
+        "required": "Statutul dreptului la muncă este un câmp obligatoriu"
+      }
+    },
+    "select_language": {
+      "header": "Alegeți limba preferată",
+      "header_short": "Limba actuală",
+      "label": "Selectați o limbă"
+    }
+  },
+  "welcome": {
+    "welcome_header": "Bine ați venit la personalul Gap",
+    "welcome_description": "O comunitate de oameni folositori și experimentați care așteaptă să-ți găsească locul perfect.\n ",
+    "agreement": {
+      "description": "Pentru a începe portalul de înregistrare a personalului, vă rugăm mai întâi\n ",
+      "checkbox_full_condition": "Sunt de acord cu personalul Gap",
+      "full_condition": "Condiții complete",
+      "checkbox_full_term_of_use": "Sunt de acord cu personalul Gap",
+      "term_of_use": "Termeni de utilizare"
+    },
+    "btn_get_started": "Incepe"
+  },
+  "login": {
+    "header": "Autentificare",
+    "welcome_message": "Bine ați revenit la personalul Gap. ",
+    "form": {
+      "email": {
+        "label": "E-mail",
+        "placeholder": "Introduceți adresa dvs. de email"
+      },
+      "password": {
+        "label": "Parola",
+        "placeholder": "Introduceți parola"
+      },
+      "button_login": "Autentificare"
+    },
+    "forgot_password_question": "Ti-ai uitat parola?",
+    "dont_have_account_question": "Nu ai cont?",
+    "create_new_account": "Creați unul nou"
+  },
+  "create_account": {
+    "benefits": {
+      "benefit1": "Inovatoare",
+      "benefit2": "Consultativ",
+      "benefit3": "responsabil",
+      "benefit4": "Real",
+      "benefit5": "Etic"
+    },
+    "header": "Mai întâi, creați un cont",
+    "sub_header": "pentru a-ți începe călătoria",
+    "form": {
+      "email": {
+        "label": "E-mail",
+        "placeholder": "Introduceți adresa dvs. de email"
+      },
+      "password": {
+        "label": "Parola",
+        "placeholder": "Introduceți parola"
+      },
+      "repeat_password": {
+        "label": "Confirmă parola",
+        "placeholder": "Introduceți parola de confirmare"
+      },
+      "button_create_account": "Creați un cont"
+    },
+    "agreement": {
+      "description": "Pentru a începe portalul de înregistrare a personalului, vă rugăm mai întâi\n ",
+      "checkbox_full_condition": "Sunt de acord cu personalul Gap",
+      "full_condition": "Condiții complete",
+      "checkbox_full_term_of_use": "Sunt de acord cu personalul Gap",
+      "term_of_use": "Termeni de utilizare"
+    },
+    "have_account_question": "Ai un cont?",
+    "login_message": "Conectați-vă acum"
+  },
+  "forgot_password": {
+    "header": "Ti-ai uitat parola?",
+    "sub_header": "Introduceți adresa de e-mail asociată contului dvs. și vă vom trimite un e-mail cu instrucțiuni pentru a vă reseta parola",
+    "form": {
+      "email": {
+        "label": "E-mail",
+        "placeholder": "Introduceți adresa dvs. de email"
+      },
+      "button_submit": "Trimite instrucțiuni"
+    },
+    "remember_password_question": "Îți amintești parola?",
+    "login_now_message": "Conectați-vă acum",
+    "dialog": {
+      "header": "Verifica-ti email-ul",
+      "description": "Am trimis instrucțiuni de resetare a parolei pe e-mailul dvs"
+    }
+  },
+  "reset_password": {
+    "header": "Creați o nouă parolă",
+    "sub_header": "Noua ta parolă trebuie să fie diferită de parola anterioară.",
+    "form": {
+      "password": {
+        "label": "Parolă Nouă",
+        "placeholder": "Introduceți parola"
+      },
+      "repeat_password": {
+        "label": "Confirmă parola",
+        "placeholder": "Introduceți parola de confirmare"
+      },
+      "button_reset_password": "Reseteaza parola"
+    },
+    "dialog": {
+      "title": "Felicitări",
+      "description": "V-ați resetat parola cu succes"
+    },
+    "remember_password_question": "Îți amintești parola?",
+    "login_message": "Conectați-vă acum"
+  },
+  "get_started": {
+    "header": "Incepe",
+    "personal_details": {
+      "header": {
+        "title": "Informatii personale",
+        "subtitle": "Furnizați informațiile dvs. personale"
+      },
+      "body": {
+        "title": {
+          "label": "Titlu",
+          "placeholder": "Alegeți un titlu"
+        },
+        "first_name": {
+          "label": "Nume",
+          "placeholder": "Nume"
+        },
+        "middle_name": {
+          "label": "Al doilea nume (Opțional)",
+          "placeholder": "Al doilea prenume"
+        },
+        "last_name": {
+          "label": "Numele de familie",
+          "placeholder": "Numele de familie"
+        },
+        "email": {
+          "label": "E-mail",
+          "placeholder": "Introdu adresa ta de e-mail"
+        },
+        "phone_number": {
+          "label": "Număr de telefon",
+          "placeholder": "Introdu numarul tau de telefon"
+        },
+        "date_of_birth": {
+          "label": "Data de nastere",
+          "placeholder": "--/--/----"
+        },
+        "contact_dates": {
+          "label": "Data contactului",
+          "placeholder": "Selectați data contactului"
+        },
+        "contact_times": {
+          "label": "Timp de contact",
+          "placeholder": "Selectați ora de contact"
+        }
+      }
+    },
+    "contact_time": {
+      "header": {
+        "title": "Când vă putem contacta?",
+        "subtitle": "Anunțați-ne când vă putem contacta"
+      }
+    },
+    "right_to_work": {
+      "header": {
+        "title": "Dreptul la statutul de muncă",
+        "subtitle": "Furnizați statutul dreptului dvs. la muncă pentru a fi confirmat prin gap"
+      }
+    },
+    "form": {
+      "button_submit": "Trimiteți informații"
+    },
+    "dialog": {
+      "header": "Am înțeles, mulțumesc! ",
+      "description": "Dacă aveți ceva timp acum, vă rugăm să continuați înregistrarea, astfel încât să avem tot ce avem nevoie pentru a vă ajuta să vă începeți noul job cât mai curând posibil. ",
+      "button_stay": "Fă-o mai târziu",
+      "button_continue": "Continuați procesul"
+    }
+  },
+  "profile": {
+    "breadcrumb": "Înapoi la portal",
+    "information_tab": {
+      "tab_name": "Informatii de baza",
+      "title": "Titlu",
+      "first_name": "Nume",
+      "middle_name": "Al doilea nume (Opțional)",
+      "last_name": "Numele de familie",
+      "date_of_birth": "Data de nastere"
+    },
+    "password_tab": {
+      "tab_name": "Schimbaţi parola",
+      "current_password": "Parola actuală",
+      "new_password": "Parolă Nouă",
+      "confirm_password": "Confirmă noua parolă"
+    },
+    "actions": {
+      "save": "Salvați"
+    }
+  },
+  "photo": {
+    "take": "Fa o poza",
+    "max_size": "Dimensiunea maximă a fișierului:"
+  },
+  "header": {
+    "profile": "Profil",
+    "log_out": "Deconectați-vă"
+  }
+}

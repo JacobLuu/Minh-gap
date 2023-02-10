@@ -1,0 +1,255 @@
+{
+  "common": {
+    "validation": {
+      "email": {
+        "required": "E-pasts ir obligāts lauks",
+        "invalid_format": "Šajā laukā ir jābūt derīgai e-pasta adresei"
+      },
+      "password": {
+        "min": "Vismaz 6 rakstzīmes",
+        "required": "Parole ir obligāts lauks",
+        "capital_required": "Vismaz 1 lielais burts",
+        "number_required": "Vismaz 1 numurs",
+        "wrong_password": "E-pasts vai parole ir nepareiza. "
+      },
+      "repeat_password": {
+        "not_match": "Jūsu paroles nesakrīt. "
+      },
+      "title": {
+        "required": "Nosaukums ir obligāts lauks"
+      },
+      "firstName": {
+        "required": "Vārds ir obligāts lauks"
+      },
+      "middleName": {
+        "required": "Otrais vārds ir obligāts lauks"
+      },
+      "lastName": {
+        "required": "Uzvārds ir obligāts lauks"
+      },
+      "phoneNumber": {
+        "required": "Tālruņa numurs ir obligāts lauks",
+        "invalid_format": "Nederīgs tālruņa numurs"
+      },
+      "contactDate": {
+        "required": "Saziņas datums ir obligāts lauks"
+      },
+      "contactTime": {
+        "required": "Saziņas laiks ir obligāts lauks"
+      },
+      "rightToWorkStatus": {
+        "required": "Tiesību uz darbu statuss ir obligāts lauks"
+      },
+      "relationship": {
+        "required": "Attiecības ir obligāts lauks"
+      },
+      "journeyType": {
+        "required": "Tiesību uz darbu statuss ir obligāts lauks"
+      }
+    },
+    "select_language": {
+      "header": "Izvēlieties sev vēlamo valodu",
+      "header_short": "Pašreizējā valoda",
+      "label": "Izvēlieties valodu"
+    }
+  },
+  "welcome": {
+    "welcome_header": "Laipni lūdzam gap personālsastāvā",
+    "welcome_description": "Izpalīdzīgu, pieredzējušu cilvēku kopiena gaida, lai atrastu jums ideālu darbu.\n ",
+    "agreement": {
+      "description": "Lai atvērtu darbinieku reģistrācijas portālu, lūdzu, vispirms\n ",
+      "checkbox_full_condition": "Es piekrītu gap personāla viedoklim",
+      "full_condition": "Pilni nosacījumi",
+      "checkbox_full_term_of_use": "Es piekrītu gap personāla viedoklim",
+      "term_of_use": "Lietošanas noteikumi"
+    },
+    "btn_get_started": "Sāc"
+  },
+  "login": {
+    "header": "Pieslēgties",
+    "welcome_message": "Laipni lūdzam atpakaļ starp darbiniekiem. ",
+    "form": {
+      "email": {
+        "label": "E-pasts",
+        "placeholder": "Ievadi savu epastu"
+      },
+      "password": {
+        "label": "Parole",
+        "placeholder": "Ievadiet savu paroli"
+      },
+      "button_login": "Pieslēgties"
+    },
+    "forgot_password_question": "Aizmirsi savu paroli?",
+    "dont_have_account_question": "Jums nav konta?",
+    "create_new_account": "Izveidojiet jaunu"
+  },
+  "create_account": {
+    "benefits": {
+      "benefit1": "Inovatīva",
+      "benefit2": "Konsultatīvs",
+      "benefit3": "Atbildīgs",
+      "benefit4": "Īsta",
+      "benefit5": "Ētisks"
+    },
+    "header": "Pirmkārt, izveidojiet kontu",
+    "sub_header": "lai sāktu savu ceļojumu",
+    "form": {
+      "email": {
+        "label": "E-pasts",
+        "placeholder": "Ievadi savu epastu"
+      },
+      "password": {
+        "label": "Parole",
+        "placeholder": "Ievadiet savu paroli"
+      },
+      "repeat_password": {
+        "label": "apstipriniet paroli",
+        "placeholder": "Ievadiet savu apstiprinājuma paroli"
+      },
+      "button_create_account": "Izveidot kontu"
+    },
+    "agreement": {
+      "description": "Lai atvērtu darbinieku reģistrācijas portālu, lūdzu, vispirms\n ",
+      "checkbox_full_condition": "Es piekrītu gap personāla viedoklim",
+      "full_condition": "Pilni nosacījumi",
+      "checkbox_full_term_of_use": "Es piekrītu gap personāla viedoklim",
+      "term_of_use": "Lietošanas noteikumi"
+    },
+    "have_account_question": "Vai jums ir konts?",
+    "login_message": "Piesakieties tagad"
+  },
+  "forgot_password": {
+    "header": "Aizmirsi savu paroli?",
+    "sub_header": "Ievadiet ar jūsu kontu saistīto e-pasta adresi, un mēs nosūtīsim jums e-pasta ziņojumu ar norādījumiem paroles atiestatīšanai",
+    "form": {
+      "email": {
+        "label": "E-pasts",
+        "placeholder": "Ievadi savu epastu"
+      },
+      "button_submit": "Nosūtiet instrukciju"
+    },
+    "remember_password_question": "Atcerieties savu paroli?",
+    "login_now_message": "Piesakieties tagad",
+    "dialog": {
+      "header": "Pārbaudiet savu e-pastu",
+      "description": "Mēs esam nosūtījuši paroles atiestatīšanas instrukcijas uz jūsu e-pastu"
+    }
+  },
+  "reset_password": {
+    "header": "Izveidojiet jaunu paroli",
+    "sub_header": "Jūsu jaunajai parolei ir jāatšķiras no iepriekšējās paroles.",
+    "form": {
+      "password": {
+        "label": "Jauna parole",
+        "placeholder": "Ievadiet savu paroli"
+      },
+      "repeat_password": {
+        "label": "Apstipriniet paroli",
+        "placeholder": "Ievadiet savu apstiprinājuma paroli"
+      },
+      "button_reset_password": "Atiestatīt paroli"
+    },
+    "dialog": {
+      "title": "Apsveicu",
+      "description": "Jūs esat veiksmīgi atiestatījis savu paroli"
+    },
+    "remember_password_question": "Atcerieties savu paroli?",
+    "login_message": "Piesakieties tagad"
+  },
+  "get_started": {
+    "header": "Sāc",
+    "personal_details": {
+      "header": {
+        "title": "Personīgā informācija",
+        "subtitle": "Norādiet savu personisko informāciju"
+      },
+      "body": {
+        "title": {
+          "label": "Nosaukums",
+          "placeholder": "Izvēlieties nosaukumu"
+        },
+        "first_name": {
+          "label": "Vārds",
+          "placeholder": "Vārds"
+        },
+        "middle_name": {
+          "label": "Otrais vārds (pēc izvēles)",
+          "placeholder": "Otrais vārds"
+        },
+        "last_name": {
+          "label": "Uzvārds",
+          "placeholder": "Uzvārds"
+        },
+        "email": {
+          "label": "E-pasts",
+          "placeholder": "ievadiet savu e-pasta adresi"
+        },
+        "phone_number": {
+          "label": "Telefona numurs",
+          "placeholder": "Ievadiet savu tālruņa numuru"
+        },
+        "date_of_birth": {
+          "label": "Dzimšanas datums",
+          "placeholder": "--/--/----"
+        },
+        "contact_dates": {
+          "label": "Sazināšanās datums",
+          "placeholder": "Izvēlieties saziņas datumu"
+        },
+        "contact_times": {
+          "label": "Saziņas laiks",
+          "placeholder": "Izvēlieties kontakta laiku"
+        }
+      }
+    },
+    "contact_time": {
+      "header": {
+        "title": "Kad mēs varam ar jums sazināties?",
+        "subtitle": "Paziņojiet mums, kad varam ar jums sazināties"
+      }
+    },
+    "right_to_work": {
+      "header": {
+        "title": "Tiesības uz darba statusu",
+        "subtitle": "Norādiet savu darba tiesību statusu, lai tas tiktu apstiprināts ar pārtraukumu"
+      }
+    },
+    "form": {
+      "button_submit": "Iesniedziet informāciju"
+    },
+    "dialog": {
+      "header": "Sapratu, paldies! ",
+      "description": "Ja jums tagad ir kāds laiks, lūdzu, turpiniet reģistrāciju, lai mums būtu viss nepieciešamais, lai palīdzētu jums pēc iespējas ātrāk sākt savu darbu. ",
+      "button_stay": "Dariet to vēlāk",
+      "button_continue": "Turpināt procesu"
+    }
+  },
+  "profile": {
+    "breadcrumb": "Atpakaļ uz portālu",
+    "information_tab": {
+      "tab_name": "Pamatinformācija",
+      "title": "Nosaukums",
+      "first_name": "Vārds",
+      "middle_name": "Otrais vārds (pēc izvēles)",
+      "last_name": "Uzvārds",
+      "date_of_birth": "Dzimšanas datums"
+    },
+    "password_tab": {
+      "tab_name": "Mainīt paroli",
+      "current_password": "Pašreizējā parole",
+      "new_password": "Jauna parole",
+      "confirm_password": "Apstipriniet jauno paroli"
+    },
+    "actions": {
+      "save": "Saglabāt"
+    }
+  },
+  "photo": {
+    "take": "Uzņemt bildi",
+    "max_size": "Maksimālais faila lielums:"
+  },
+  "header": {
+    "profile": "Profils",
+    "log_out": "Izlogoties"
+  }
+}

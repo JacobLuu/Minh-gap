@@ -1,0 +1,24 @@
+export const PRIMARY_COLOR = '#582669';
+export const SECONDARY_COLOR = '#272C4F';
+export const COMPLEMENTARY_COLOR = '#EFEAF0';
+export const INACTIVE_COLOR = '#BCC8D3';
+export const WHITE_COLOR = '#FFFFFF';
+export const PLACEHOLDER_COLOR = '#A5A3A9';
+export const BORDER_COLOR = '#E4E7ED';
+export const BLACK_COLOR = '#333333';
+export const CONTENT_COLOR = '#596278';
+export const ERROR_COLOR = '#F56C6C';
+export const WARNING_COLOR = '#E6A23C';
+export const SUCCESS_COLOR = '#67C23A';
+export const SUCCESS_BG_COLOR = 'rgba(114, 198, 73, 0.1)';
+export const ERROR_BG_COLOR = 'rgba(245, 108, 108, 0.1)';
+export const INFO_COLOR = '#409EFF';
+export const DISABLED_CONTENT_COLOR = '#B4B4B4';
+export const DISABLED_BACKGROUND_COLOR = '#F3F3F3';
+export const BUTTON_PRIMARY_COLOR = '#582669';
+export const BACKGROUND_COLOR = '#F0F1F9';
+export const BAR_TABLE = '#F4F4F4';
+export const BACKGROUND_TABLE = '#FAFAFA';
+export const ICON_COLOR = '#E4906C';
+export const BACKGROUND_COLUMN_RIGHT_COLOR =
+  'linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.5018601190476191) 8%, rgba(255,255,255,1) 15%)';

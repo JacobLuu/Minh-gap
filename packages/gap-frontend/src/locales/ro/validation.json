@@ -1,0 +1,18 @@
+{
+  "common": {
+    "required": "Acest câmp este obligatoriu.",
+    "many_required": "Aceste câmpuri sunt obligatorii.",
+    "max_characters": "Acest câmp nu poate fi mai lung decât {{max}} personaje.",
+    "end_date": "Data de încheiere trebuie să fie după data de începere.",
+    "phone_number": "Numărul de telefon este nevalid.",
+    "email": "Adresa de e-mail este invalida.",
+    "password": "Parola este nevalidă.",
+    "repeat_password": "Parolele nu se potrivesc. Vă rugăm să încercați din nou.",
+    "share_code": {
+      "expired": "Codul de partajare a expirat . Vă rugăm să regenerați codul de partajare și să încercați din nou"
+    },
+    "file": {
+      "max_size": "Fișierul este prea mare."
+    }
+  }
+}

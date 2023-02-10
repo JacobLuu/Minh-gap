@@ -1,0 +1,300 @@
+{
+  "sidebar": {
+    "personal_details": "Osebni podatki",
+    "skills_and_qualifications": "Spretnosti",
+    "employment_history": "Zaposlitvena zgodovina",
+    "emergency_contact": "Stik v sili",
+    "address_details": "Podrobnosti o naslovu",
+    "personal_protective_equipment": "Osebna varovalna oprema",
+    "right_to_work_proofs": "Pravica do dela Dokazila",
+    "financial_information": "Finančne informacije",
+    "declarations": "Izjave",
+    "contracts": "pogodbe",
+    "skill_qualifications": "Spretnosti in kvalifikacije"
+  },
+  "common": {
+    "save_progress": "Shrani napredek",
+    "submit": "Predloži",
+    "confirm_and_open": "Potrdi",
+    "close": "Zapri",
+    "save_success": "Uspešno shranjevanje.",
+    "submit_success": "Predložite uspešno.",
+    "upload_success": "Nalaganje uspešno.",
+    "signature_empty": "Podpis ne sme biti prazen.",
+    "check": "Preverite",
+    "rejected": "Zavrnjeno",
+    "view_file": "Ogled datoteke",
+    "delete_file": "Izbriši datoteko",
+    "confirm_and_sign": "Potrdi in podpiši",
+    "sign_success": "Podpis uspešno."
+  },
+  "personal_details": {
+    "header": {
+      "title": "Osebni podatki",
+      "subtitle": "Preglejte svoje osebne podatke"
+    },
+    "body": {
+      "title": "Naslov",
+      "first_name": "Ime",
+      "middle_name": "srednje ime (neobvezno)",
+      "last_name": "Priimek",
+      "email": "E-naslov",
+      "phone_number": "Telefonska številka",
+      "date_of_birth": "Datum rojstva"
+    },
+    "image_upload": {
+      "title": "Nalaganje slike",
+      "subtitle": "Sporočite nam svoj videz"
+    }
+  },
+  "skills_and_qualifications": {
+    "header": {
+      "title": "Naložite svoj življenjepis",
+      "subtitle": "Zanimajo nas vaše delovne izkušnje"
+    },
+    "body": {
+      "title": "Spretnosti",
+      "subtitle": "Želimo vedeti o vaših veščinah in kvalifikacijah"
+    }
+  },
+  "employment_history": {
+    "header": {
+      "title": "Zaposlitvena zgodovina",
+      "subtitle": "Navedite podatke o svoji zgodovini zaposlitve",
+      "add_button": "Dodaj nov zapis"
+    },
+    "body": {
+      "employment": "Zaposlitev",
+      "education": "izobraževanje",
+      "others": "drugi",
+      "full_time": "Polni delovni čas",
+      "part_time": "Krajši delovni čas",
+      "edit": "Uredi"
+    },
+    "employment_history_modal": {
+      "header": {
+        "title_add": "Nova plošča",
+        "title_update": "Uredi zapis"
+      },
+      "body": {
+        "type_of_work": "Vrsta dela",
+        "company_name": "ime podjetja",
+        "institution_name": "Ime institucije",
+        "title_name": "Naslov",
+        "job_title": "Naziv delovnega mesta",
+        "start_date": "Začetni datum",
+        "end_date": "Končni datum",
+        "job_description": "Opis"
+      },
+      "actions": {
+        "close": "Zapri",
+        "save": "Shrani zapis",
+        "delete": "Izbriši ta zapis"
+      }
+    }
+  },
+  "emergency_contact": {
+    "header": {
+      "title": "Stik v sili",
+      "subtitle": "Navedite svoje kontaktne podatke za nujne primere"
+    }
+  },
+  "financial_information": {
+    "header": {
+      "title": "Finančne informacije",
+      "subtitle": "Prosimo, navedite svoje finančne podatke"
+    },
+    "body": {
+      "have_uk_bank_account": "Ali imate bančni račun v Združenem kraljestvu?",
+      "bank_name": "Ime banke",
+      "bank_name_placeholder": "Vnesite ime banke",
+      "account_number": "Številka računa",
+      "account_number_placeholder": "Vnesite številko računa",
+      "account_name": "Ime računa",
+      "account_name_placeholder": "Vnesite ime računa",
+      "bank_sort_code": "Šifra banke",
+      "bank_sort_code_placeholder": "Vnesite kodo banke",
+      "bank_account_verify_success": "Preverjanje bančnega računa uspešno!",
+      "no_uk_bank_account": {
+        "title_1": "prosim",
+        "title_2": "Klikni tukaj",
+        "title_3": " ustvarite bančni račun pri Onepay.",
+        "title_4": "Ko je vaš bančni račun pripravljen, izberite \"Da\" in nadaljujte z izpolnjevanjem svojih finančnih podatkov."
+      }
+    }
+  },
+  "personal_protective_equipment": {
+    "header": {
+      "title": "Osebna varovalna oprema",
+      "subtitle": "Navedite informacije o vaši osebni zaščitni opremi"
+    },
+    "body": {
+      "question_label_1": "Imate svoj brezrokavnik ali jakno Hi Vis?",
+      "question_label_2": "Ali imate svoje varnostne škornje?",
+      "question_label_3": "Izberite svojo velikost škornja"
+    }
+  },
+  "declarations": {
+    "header": {
+      "title": "Izjave",
+      "subtitle": "Že dolgo ugotovljeno dejstvo je, da bo bralec zmotil berljivo vsebino"
+    },
+    "body": {
+      "title_1": "zdravje",
+      "body_1": "Naslednja vprašanja o zdravju in invalidnosti so zastavljena, da bi ugotovili vaše potrebe v smislu razumnih prilagoditev, ki jih je treba narediti za dostop do naše storitve zaposlovanja, in vaše potrebe za opravljanje iskanega dela ali položaja.",
+      "label_1": "• Tvoje zdravje",
+      "question_1": "Ali imate kakršne koli zdravstvene težave ali pomembno invalidnost, ki vam lahko oteži opravljanje funkcij, ki so bistvenega pomena za vlogo, ki jo iščete?",
+      "title_2": "Storitev razkritja in zapore",
+      "body_2_1": "Spremembe Odloka o izjemah 1975 (2013) določajo, da so nekatere preživete obsodbe in opozorila „zaščitene“ in jih ni treba razkriti delodajalcem ter jih ni mogoče upoštevati. ",
+      "body_2_2": "V skladu s pravili filtriranja vas lahko zaradi nerazglasitve obsodbe, ki jo morate razkriti, izključimo iz našega registra ali prekinemo dodelitev, če kaznivo dejanje ni razglašeno, vendar se pozneje razkrije.",
+      "label_2_1": "• Obsodbe, opozorila, opomini ali zadnja opozorila?",
+      "question_2_1": "Ali imate kakršne koli obsodbe, opozorila, opomine ali končna opozorila, ki niso 'zaščiteni', kot je opredeljeno v Zakonu o rehabilitaciji prestopnikov iz leta 1974 (Izjeme) Odredba 1975 (kakor je bila spremenjena leta 2013)",
+      "label_2_2": "• DBS Check pogodba",
+      "question_2_2": "Ali se strinjate z izpolnjevanjem standardnega ali izboljšanega preverjanja DBS, če je to potrebno za vlogo?",
+      "title_3": "Pravice enakih možnosti",
+      "body_3_1": "Politika GAP Personel je zaposlovanje, zaposlovanje in napredovanje ljudi na podlagi njihove primernosti za delo, ki ga nameravajo opravljati.  ",
+      "body_3_2": "**Te informacije bodo uporabljene izključno za namene spremljanja**.",
+      "body_3_3": "V skladu s pravili filtriranja vas lahko zaradi nerazglasitve obsodbe, ki jo morate razkriti, izključimo iz našega registra ali prekinemo dodelitev, če kaznivo dejanje ni razglašeno, vendar se pozneje razkrije.",
+      "label_3_1": "• Spol *",
+      "question_3_1": "Katerega spola ste?",
+      "label_3_2": "• Državljanstvo *",
+      "question_3_2": "Katere narodnosti si?",
+      "label_3_3": "• Etnična pripadnost *",
+      "question_3_3": "Kakšne narodnosti ste?",
+      "title_4": "Plačilo",
+      "body_4": "Spodnje informacije so zahtevane izključno za namene obdelave vaših plač. ",
+      "label_4_1": "• Študentsko posojilo",
+      "question_4_1": "Ali morate odplačati študentsko posojilo, odvisno od dohodka?",
+      "label_4_2": "• Izkaz zaslužka",
+      "question_4_2": "Prosimo, da izpolnite začetni razdelek izjave in navedete svoje trenutne okoliščine z navedbo, katera od treh izjav velja za vas. ",
+      "answer_4_2_1": "To je moja prva zaposlitev od lanskega 6. aprila in nisem prejemal obdavčljivega dodatka za iskalce zaposlitve, dodatka za zaposlitev in podporo, obdavčljivega nadomestila za nezmožnost dela, državne ali poklicne pokojnine.",
+      "answer_4_2_2": "To je zdaj moja edina služba, a od 6. aprila imam drugo službo ali prejemam obdavčljivi dodatek za iskalce zaposlitve, dodatek za zaposlitev in podporo ali obdavčljivo nadomestilo za nezmožnost dela. ",
+      "answer_4_2_3": "Poleg moje nove službe imam še eno službo ali prejemam državno ali poklicno pokojnino.",
+      "title_5": "Dogovori",
+      "label_5_1": "• Časovni predpisi - 48-urna zavrnitev",
+      "question_5_1": "Predpisi o delovnem času iz leta 1998 (kakor so bili spremenjeni) določajo, da začasni delavci ne smejo delati na nalogi s stranko, ki presega delovni teden (48 ur), razen če se pisno strinjajo, da ta omejitev ne velja. ",
+      "label_5_2": "• Zdravje",
+      "question_5_2": "Strinjate se, da so informacije v zvezi z zdravstvenim in invalidnim delom te aplikacije točne. ",
+      "label_5_3": "• DBS",
+      "question_5_3": "Strinjate se, da so informacije v zvezi z razdelkom DBS te aplikacije točne. ",
+      "label_5_4": "• Varstvo podatkov",
+      "question_5_4": "Predpisi o delovnem času iz leta 1998 (kakor so bili spremenjeni) določajo, da začasni delavci ne smejo delati na nalogi s stranko, ki presega delovni teden (48 ur), razen če se pisno strinjajo, da ta omejitev ne velja. ",
+      "label_5_5": "• Trženje",
+      "question_5_5": "Strinjam se, da moje kontaktne podatke uporablja osebje GAP za namene trženjskih storitev, poleg storitev zaposlovanja in usposabljanja, ki jih lahko ponujajo osebje GAP, njihove podružnice in/ali tretji dobavitelji. ",
+      "title_6": "Splošni dogovor",
+      "body_6": "Spodnje informacije so zahtevane izključno za namene obdelave vaših plač. ",
+      "answer_6_1": "Potrjujem, da so podatki v tem dokumentu resnični in točni.",
+      "answer_6_2": "Razumem, da je lahko zavajajoča ali lažna izjava ali nezadovoljiva referenca razlog za zavrnitev ali, če je zaposlen, odpustitev.",
+      "answer_6_3": "Ti sporazumi me nameravajo zavezovati."
+    }
+  },
+  "contracts": {
+    "header": {
+      "title": "pogodbe",
+      "subtitle": "Vaše pogodbe bodo shranjene tukaj"
+    },
+    "body": {
+      "title": "Pogodba",
+      "key_info_document": "Dokument s ključnimi informacijami",
+      "work_contract": "Pogodba o storitvah in pogoji sodelovanja",
+      "medical_contract": "Razširjeni zdravstveni vprašalnik",
+      "key_info_document_confirmation": "Prejel sem dokument s ključnimi informacijami.",
+      "work_contract_confirmation": "Prebral sem in se strinjam s pogodbo o storitvah in pogojih sodelovanja.",
+      "medical_contract_confirmation": "Prebral sem in se strinjam z razširjenim medicinskim vprašalnikom",
+      "view": "Pogled",
+      "sign": "Podpis",
+      "key_information_document": "Dokument s ključnimi informacijami",
+      "key_information_document_confirmation": "Prejel sem dokument s ključnimi informacijami.",
+      "work_contract_signed": "Podpisana pogodba o storitvah in pogoji sodelovanja!",
+      "medical_contract_signed": "Razširjeni zdravniški vprašalnik podpisan!"
+    },
+    "modal": {
+      "content": {
+        "key_information_document": "Ta dokument določa ključne informacije o vašem odnosu z nami, vključno s podrobnostmi o plačilu, pravici do dopusta in drugih ugodnostih.",
+        "work_contract": "Ta dokument ponuja pomembne informacije o delu za osebje, ki ga potrebuje, in določa pričakovanja med delom na dodelitvi.",
+        "medical_contract": "Vprašanja v tem obrazcu so zastavljena, da bi ugotovili vaše potrebe in ali je za opravljanje želenega dela ali položaja potrebna kakšna razumna potreba."
+      }
+    },
+    "signature_modal": {
+      "header": {
+        "title": "Podpis",
+        "draw": "Nariši",
+        "upload": "Naloži"
+      },
+      "body": {
+        "title": "S podpisom te prijave z elektronskim podpisom se strinjam, da bo podpis enako veljaven kot lastnoročni podpis v obsegu, ki ga dovoljuje lokalna zakonodaja."
+      },
+      "actions": {
+        "cancel": "Prekliči",
+        "accept": "Sprejmi"
+      }
+    }
+  },
+  "address_details": {
+    "header": {
+      "title": "Naslov",
+      "subtitle": "Navedite podatke o svojem naslovu v Združenem kraljestvu",
+      "subtitle_placeholder": "Vnesite poštno številko ali naslov"
+    },
+    "file_header": {
+      "title": "Naložite dokazila o svojem naslovu",
+      "subtitle": "Predložite dokazila o svojem naslovu"
+    },
+    "body": {
+      "postcode": "Poštna številka",
+      "postcode_placeholder": "Vnesite poštno številko",
+      "enable_manual_input": "Ne najdete svojega naslova s poštno številko? Vnesite naslov ročno",
+      "road": "Cesta",
+      "road_placeholder": "Vnesite cesto",
+      "county_region": "Okrožje/regija",
+      "county_region_placeholder": "Vnesite okrožje/regijo",
+      "house_number": "Hišna/stanovalna številka",
+      "house_number_placeholder": "Vnesite številko hiše/stanovanja",
+      "upload_files": "Naložene datoteke",
+      "town_city": "Kraj/Mesto",
+      "town_city_placeholder": "Vnesite mesto",
+      "county": "okrožje",
+      "county_placeholder": "Vnesite okrožje"
+    }
+  },
+  "header": {
+    "advertisement": "Informacije o oglasu",
+    "job_applied": "Prijavljeno delovno mesto:",
+    "job_id": "ID delovnega mesta:",
+    "branch_location": "Lokacija podružnice:"
+  },
+  "right_to_work": {
+    "header": {
+      "title": "Predložite dokazila o pravici do dela",
+      "share_code_subtitle": "Prosimo, navedite kodo vaše delnice",
+      "other_subtitle": "Za osebni razgovor te dokumente predložite delodajalcu"
+    },
+    "body": {
+      "share_code": "Skupna koda",
+      "fetching_share_code": "Pridobivanje kode za skupno rabo ...",
+      "share_code_found": "Koda za skupno rabo je najdena, čaka na svetovalca za pregled",
+      "approved": "Odobreno",
+      "photo": {
+        "title": "Posnemite svojo fotografijo",
+        "subtitle_1": "Za fotografiranje uporabite napravo s fotoaparatom.",
+        "subtitle_2": "Če ne morete fotografirati, obiščite podružnico za nadaljnjo pomoč.",
+        "cant_take": "Fotografirati ni mogoče"
+      },
+      "additional_document": {
+        "title": "Naložite dodatne dokumente",
+        "subtitle": "Predložite dodatne dokumente"
+      },
+      "additional_info": {
+        "title": "Potrebnih je več informacij",
+        "subtitle": "Navedite kodo vaše delnice"
+      },
+      "passport": {
+        "title": "Skenirajte svoj potni list",
+        "subtitle_1": "Prosimo, posredujte svojo fotografijo za potni list.",
+        "subtitle_2": "Če ne morete fotografirati, obiščite podružnico za nadaljnjo pomoč."
+      },
+      "birth_certificate": "Rojstni list",
+      "insurance_number": "Nacionalna številka zavarovanja"
+    }
+  }
+}

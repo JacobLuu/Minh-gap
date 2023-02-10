@@ -1,0 +1,18 @@
+{
+  "common": {
+    "required": "Toto pole je povinné.",
+    "many_required": "Tato pole jsou povinná.",
+    "max_characters": "Toto pole nemůže být delší než {{max}} znaky.",
+    "end_date": "Datum ukončení musí být pozdější než datum zahájení.",
+    "phone_number": "Telefonní číslo je neplatné.",
+    "email": "Email je neplatný.",
+    "password": "Heslo je neplatné.",
+    "repeat_password": "Vaše hesla se neshodují. Prosím zkuste to znovu.",
+    "share_code": {
+      "expired": "Platnost kódu sdílení vypršela. Vygenerujte prosím svůj kód pro sdílení znovu a zkuste to znovu"
+    },
+    "file": {
+      "max_size": "Soubor je příliš velký."
+    }
+  }
+}

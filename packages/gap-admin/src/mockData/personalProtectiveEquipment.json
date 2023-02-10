@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "question": "Do you have your own Hi Vis vest or jacket?",
+    "answer": true
+  },
+  { "id": 2, "question": "Do you have your own safety boots?", "answer": true },
+  {
+    "id": 3,
+    "question": "Do you have your own Hi Vis vest or jacket?",
+    "answer": false
+  },
+  {
+    "id": 4,
+    "question": "Do you have your own safety boots?",
+    "answer": false
+  },
+  { "id": 5, "question": "Do you have your own safety boots?", "answer": true }
+]

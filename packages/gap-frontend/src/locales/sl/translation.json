@@ -1,0 +1,255 @@
+{
+  "common": {
+    "validation": {
+      "email": {
+        "required": "E-pošta je obvezno polje",
+        "invalid_format": "V tem polju mora biti veljaven e-poštni naslov"
+      },
+      "password": {
+        "min": "Vsaj 6 znakov",
+        "required": "Geslo je obvezno polje",
+        "capital_required": "Vsaj 1 velika črka",
+        "number_required": "Vsaj 1 številka",
+        "wrong_password": "E-pošta ali geslo sta napačna. "
+      },
+      "repeat_password": {
+        "not_match": "Tvoje geslo se ne ujema. "
+      },
+      "title": {
+        "required": "Naslov je obvezno polje"
+      },
+      "firstName": {
+        "required": "Ime je obvezno polje"
+      },
+      "middleName": {
+        "required": "Srednje ime je obvezno polje"
+      },
+      "lastName": {
+        "required": "Priimek je obvezno polje"
+      },
+      "phoneNumber": {
+        "required": "Telefonska številka je obvezno polje",
+        "invalid_format": "Neveljavna telefonska številka"
+      },
+      "contactDate": {
+        "required": "Datum stika je obvezno polje"
+      },
+      "contactTime": {
+        "required": "Kontaktni čas je obvezno polje"
+      },
+      "rightToWorkStatus": {
+        "required": "Status pravice do dela je obvezno polje"
+      },
+      "relationship": {
+        "required": "Razmerje je obvezno polje"
+      },
+      "journeyType": {
+        "required": "Status pravice do dela je obvezno polje"
+      }
+    },
+    "select_language": {
+      "header": "Izberite želeni jezik",
+      "header_short": "Trenutni jezik",
+      "label": "Izberite jezik"
+    }
+  },
+  "welcome": {
+    "welcome_header": "Dobrodošli v gap personal",
+    "welcome_description": "Skupnost ustrežljivih in izkušenih ljudi, ki čakajo, da vam najdejo popolno službo.\n ",
+    "agreement": {
+      "description": "Če želite zagnati Gap Personal Registration Portal, najprej prosimo\n ",
+      "checkbox_full_condition": "Strinjam se z vrzeljo osebja",
+      "full_condition": "Polni pogoji",
+      "checkbox_full_term_of_use": "Strinjam se z vrzeljo osebja",
+      "term_of_use": "Pogoji uporabe"
+    },
+    "btn_get_started": "Začeti"
+  },
+  "login": {
+    "header": "Vpiši se",
+    "welcome_message": "Dobrodošli nazaj med osebje vrzeli. ",
+    "form": {
+      "email": {
+        "label": "E-naslov",
+        "placeholder": "Vpišite svoj elektronski naslov"
+      },
+      "password": {
+        "label": "Geslo",
+        "placeholder": "Vnesite vaše geslo"
+      },
+      "button_login": "Vpiši se"
+    },
+    "forgot_password_question": "Ste pozabili geslo?",
+    "dont_have_account_question": "Nimate računa?",
+    "create_new_account": "Ustvari novo"
+  },
+  "create_account": {
+    "benefits": {
+      "benefit1": "Inovativno",
+      "benefit2": "Posvetovalni",
+      "benefit3": "Odgovoren",
+      "benefit4": "Resnično",
+      "benefit5": "Etično"
+    },
+    "header": "Najprej ustvarite račun",
+    "sub_header": "da začnete svoje potovanje",
+    "form": {
+      "email": {
+        "label": "E-naslov",
+        "placeholder": "Vpišite svoj elektronski naslov"
+      },
+      "password": {
+        "label": "Geslo",
+        "placeholder": "Vnesite vaše geslo"
+      },
+      "repeat_password": {
+        "label": "potrdi geslo",
+        "placeholder": "Vnesite potrditveno geslo"
+      },
+      "button_create_account": "Ustvari račun"
+    },
+    "agreement": {
+      "description": "Če želite zagnati Gap Personal Registration Portal, najprej prosimo\n ",
+      "checkbox_full_condition": "Strinjam se z vrzeljo osebja",
+      "full_condition": "Polni pogoji",
+      "checkbox_full_term_of_use": "Strinjam se z vrzeljo osebja",
+      "term_of_use": "Pogoji uporabe"
+    },
+    "have_account_question": "Imate račun?",
+    "login_message": "Prijavi se zdaj"
+  },
+  "forgot_password": {
+    "header": "Ste pozabili geslo?",
+    "sub_header": "Vnesite e-poštni naslov, povezan z vašim računom, in poslali vam bomo e-poštno sporočilo z navodili za ponastavitev gesla",
+    "form": {
+      "email": {
+        "label": "E-naslov",
+        "placeholder": "Vpišite svoj elektronski naslov"
+      },
+      "button_submit": "Pošlji navodilo"
+    },
+    "remember_password_question": "Se spomnite svojega gesla?",
+    "login_now_message": "Prijavi se zdaj",
+    "dialog": {
+      "header": "Preverite vašo e-pošto",
+      "description": "Na vaš e-poštni naslov smo poslali navodila za ponastavitev gesla"
+    }
+  },
+  "reset_password": {
+    "header": "Ustvari novo geslo",
+    "sub_header": "Vaše novo geslo se mora razlikovati od prejšnjega gesla.",
+    "form": {
+      "password": {
+        "label": "Novo geslo",
+        "placeholder": "Vnesite vaše geslo"
+      },
+      "repeat_password": {
+        "label": "Potrdi geslo",
+        "placeholder": "Vnesite potrditveno geslo"
+      },
+      "button_reset_password": "Ponastavitev gesla"
+    },
+    "dialog": {
+      "title": "čestitke",
+      "description": "Uspešno ste ponastavili geslo"
+    },
+    "remember_password_question": "Se spomnite svojega gesla?",
+    "login_message": "Prijavi se zdaj"
+  },
+  "get_started": {
+    "header": "Začeti",
+    "personal_details": {
+      "header": {
+        "title": "Osebne informacije",
+        "subtitle": "Navedite svoje osebne podatke"
+      },
+      "body": {
+        "title": {
+          "label": "Naslov",
+          "placeholder": "Izberite naslov"
+        },
+        "first_name": {
+          "label": "Ime",
+          "placeholder": "Ime"
+        },
+        "middle_name": {
+          "label": "srednje ime (neobvezno)",
+          "placeholder": "Srednje ime"
+        },
+        "last_name": {
+          "label": "Priimek",
+          "placeholder": "Priimek"
+        },
+        "email": {
+          "label": "E-naslov",
+          "placeholder": "Vnesi svoj elektronski naslov"
+        },
+        "phone_number": {
+          "label": "Telefonska številka",
+          "placeholder": "Vnesite svojo telefonsko številko"
+        },
+        "date_of_birth": {
+          "label": "Datum rojstva",
+          "placeholder": "--/--/----"
+        },
+        "contact_dates": {
+          "label": "Kontaktni datum",
+          "placeholder": "Izberite datum stika"
+        },
+        "contact_times": {
+          "label": "Kontaktni čas",
+          "placeholder": "Izberite čas stika"
+        }
+      }
+    },
+    "contact_time": {
+      "header": {
+        "title": "Kdaj vas lahko kontaktiramo?",
+        "subtitle": "Sporočite nam, kdaj vas lahko kontaktiramo"
+      }
+    },
+    "right_to_work": {
+      "header": {
+        "title": "Pravica do delovnega statusa",
+        "subtitle": "Navedite status vaše pravice do dela, ki bo potrjen z vrzeljo"
+      }
+    },
+    "form": {
+      "button_submit": "Predloži podatke"
+    },
+    "dialog": {
+      "header": "Razumem, hvala! ",
+      "description": "Če imate zdaj nekaj časa, nadaljujte z registracijo, da bomo imeli vse, kar potrebujemo, da vam pomagamo čim prej začeti novo službo. ",
+      "button_stay": "Naredi to pozneje",
+      "button_continue": "Nadaljujte s postopkom"
+    }
+  },
+  "profile": {
+    "breadcrumb": "Nazaj na portal",
+    "information_tab": {
+      "tab_name": "Osnovni podatki",
+      "title": "Naslov",
+      "first_name": "Ime",
+      "middle_name": "srednje ime (neobvezno)",
+      "last_name": "Priimek",
+      "date_of_birth": "Datum rojstva"
+    },
+    "password_tab": {
+      "tab_name": "Spremeni geslo",
+      "current_password": "Trenutno geslo",
+      "new_password": "Novo geslo",
+      "confirm_password": "Potrdite novo geslo"
+    },
+    "actions": {
+      "save": "Shrani"
+    }
+  },
+  "photo": {
+    "take": "Posnemi fotografijo",
+    "max_size": "Največja velikost datoteke:"
+  },
+  "header": {
+    "profile": "Profil",
+    "log_out": "Odjava"
+  }
+}

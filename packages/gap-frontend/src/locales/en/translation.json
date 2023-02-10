@@ -1,0 +1,256 @@
+{
+  "common": {
+    "validation": {
+      "email": {
+        "required": "Email is a required field",
+        "invalid_format": "This field must a valid email address"
+      },
+      "password": {
+        "min": "At least 6 characters",
+        "required": "Password is a required field",
+        "capital_required": "At least 1 capital character",
+        "number_required": "At least 1 number",
+        "wrong_password": "Email or password is wrong. Please try again"
+      },
+      "repeat_password": {
+        "not_match": "Your passwords do not match. Please try again."
+      },
+      "title": {
+        "required": "Title is a required field"
+      },
+      "firstName": {
+        "required": "First name is a required field"
+      },
+      "middleName": {
+        "required": "Middle name is a required field"
+      },
+      "lastName": {
+        "required": "Last name is a required field"
+      },
+      "phoneNumber": {
+        "required": "Phone number is a required field",
+        "invalid_format": "Invalid phone number"
+      },
+      "contactDate": {
+        "required": "Contact date is a required field"
+      },
+      "contactTime": {
+        "required": "Contact time is a required field"
+      },
+      "journeyType": {
+        "required": "Right to work status is a required field"
+      },
+      "relationship": {
+        "required": "Relationship is a required field"
+      },
+      "dateOfBirth": {
+        "required": "Date of birth is a required field"
+      }
+    },
+    "select_language": {
+      "header": "Choose your preferred language",
+      "header_short": "Current language",
+      "label": "Select a language"
+    }
+  },
+  "welcome": {
+    "welcome_header": "Welcome to gap personnel",
+    "welcome_description": "A community of helpful, experienced people waiting to find you the perfect job.\n We care that you’re job happy, so let’s get started.",
+    "agreement": {
+      "description": "In order to start gap personnel Registration Portal, please first\n agree to our Full Conditions and Terms of Use",
+      "checkbox_full_condition": "I agree with gap personnel’s",
+      "full_condition": "Full Conditions",
+      "checkbox_full_term_of_use": "I agree with gap personnel’s",
+      "term_of_use": "Terms of Use"
+    },
+    "btn_get_started": "Get started"
+  },
+  "login": {
+    "header": "Login",
+    "welcome_message": "Welcome back to gap personnel. Please login below to continue your registration",
+    "form": {
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your email"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Enter your password"
+      },
+      "button_login": "Login"
+    },
+    "forgot_password_question": "Forgot your password?",
+    "dont_have_account_question": "You don’t have an account?",
+    "create_new_account": "Create new one"
+  },
+  "create_account": {
+    "benefits": {
+      "benefit1": "Innovative",
+      "benefit2": "Consultative",
+      "benefit3": "Accountable",
+      "benefit4": "Real",
+      "benefit5": "Ethical"
+    },
+    "header": "First, create an account",
+    "sub_header": "to start your journey",
+    "form": {
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your email"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Enter your password"
+      },
+      "repeat_password": {
+        "label": "Confirm Password",
+        "placeholder": "Enter your confirm password"
+      },
+      "button_create_account": "Create an account"
+    },
+    "agreement": {
+      "description": "In order to start gap personnel Registration Portal, please first\n agree to our Full Conditions and Terms of Use",
+      "checkbox_full_condition": "I agree with gap personnel’s",
+      "full_condition": "Full Conditions",
+      "checkbox_full_term_of_use": "I agree with gap personnel’s",
+      "term_of_use": "Terms of Use"
+    },
+    "have_account_question": "You have an account?",
+    "login_message": "Login now"
+  },
+  "forgot_password": {
+    "header": "Forgot your password?",
+    "sub_header": "Enter the email associated with your account and we will send you an email with instructions to reset your password",
+    "form": {
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your email"
+      },
+      "button_submit": "Send instruction"
+    },
+    "remember_password_question": "Remember your password?",
+    "login_now_message": "Login now",
+    "dialog": {
+      "header": "Check your email",
+      "description": "We have sent password reset instructions to your email"
+    }
+  },
+  "reset_password": {
+    "header": "Create new password",
+    "sub_header": "Your new password must be different from previous password.",
+    "form": {
+      "password": {
+        "label": "New password",
+        "placeholder": "Enter your password"
+      },
+      "repeat_password": {
+        "label": "Confirm password",
+        "placeholder": "Enter your confirm password"
+      },
+      "button_reset_password": "Reset password"
+    },
+    "dialog": {
+      "title": "Congratulations",
+      "description": "You have successfully reset your password"
+    },
+    "remember_password_question": "Remember your password?",
+    "login_message": "Login now"
+  },
+  "get_started": {
+    "header": "Get started",
+    "personal_details": {
+      "header": {
+        "title": "Personal information",
+        "subtitle": "Provide your personal information"
+      },
+      "body": {
+        "title": {
+          "label": "Title",
+          "placeholder": "Choose a title"
+        },
+        "first_name": {
+          "label": "First name",
+          "placeholder": "First name"
+        },
+        "middle_name": {
+          "label": "Middle name (Optional)",
+          "placeholder": "Middle name"
+        },
+        "last_name": {
+          "label": "Last name",
+          "placeholder": "Last name"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Enter your email address"
+        },
+        "phone_number": {
+          "label": "Phone number",
+          "placeholder": "Enter your phone number"
+        },
+        "date_of_birth": {
+          "label": "Date of birth",
+          "placeholder": "--/--/----"
+        },
+        "contact_dates": {
+          "label": "Contact date",
+          "placeholder": "Select contact date"
+        },
+        "contact_times": {
+          "label": "Contact time",
+          "placeholder": "Select contact time"
+        }
+      }
+    },
+    "contact_time": {
+      "header": {
+        "title": "When can we contact you?",
+        "subtitle": "Let us know when we can contact you"
+      }
+    },
+    "right_to_work": {
+      "header": {
+        "title": "Right to work status",
+        "subtitle": "Provide the status of your right to work to be confirmed by gap"
+      }
+    },
+    "form": {
+      "button_submit": "Submit information"
+    },
+    "dialog": {
+      "header": "Got it, thanks! We'll be in touch shortly",
+      "description": "If you have some time now, please continue your registration so we've got everything we need to help you start your new job as soon as possible. Alternatively, feel free to come back at a time that suits you. We'll be in touch either way.",
+      "button_stay": "Do it later",
+      "button_continue": "Continue process"
+    }
+  },
+  "profile": {
+    "breadcrumb": "Back to portal",
+    "information_tab": {
+      "tab_name": "Basic Information",
+      "title": "Title",
+      "first_name": "First name",
+      "middle_name": "Middle name (Optional)",
+      "middle_name_placeholder": "Middle name",
+      "last_name": "Last name",
+      "date_of_birth": "Date of birth"
+    },
+    "password_tab": {
+      "tab_name": "Change Password",
+      "current_password": "Current password",
+      "new_password": "New password",
+      "confirm_password": "Confirm new password"
+    },
+    "actions": {
+      "save": "Save"
+    }
+  },
+  "photo": {
+    "take": "Take photo",
+    "max_size": "Maximum file size: "
+  },
+  "header": {
+    "profile": "Profile",
+    "log_out": "Log out"
+  }
+}

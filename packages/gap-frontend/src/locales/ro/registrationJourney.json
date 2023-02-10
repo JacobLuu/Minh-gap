@@ -1,0 +1,300 @@
+{
+  "sidebar": {
+    "personal_details": "Detalii personale",
+    "skills_and_qualifications": "Aptitudini",
+    "employment_history": "Istoria Angajărilor",
+    "emergency_contact": "Contact de urgență",
+    "address_details": "detaliile adresei",
+    "personal_protective_equipment": "Echipament individual de protecție",
+    "right_to_work_proofs": "Dovezi Dreptul la Muncă",
+    "financial_information": "Informatie financiara",
+    "declarations": "Declarații",
+    "contracts": "Contracte",
+    "skill_qualifications": "Abilități și calificări"
+  },
+  "common": {
+    "save_progress": "Salvați progresul",
+    "submit": "Trimite",
+    "confirm_and_open": "A confirma",
+    "close": "Închide",
+    "save_success": "Salvare reușită.",
+    "submit_success": "Trimiteți cu succes.",
+    "upload_success": "Încărcați cu succes.",
+    "signature_empty": "Semnătura nu poate fi goală.",
+    "check": "Verifica",
+    "rejected": "Respins",
+    "view_file": "Vezi fișierul",
+    "delete_file": "Sterge fisierul",
+    "confirm_and_sign": "Confirmați și semnați",
+    "sign_success": "Semnează cu succes."
+  },
+  "personal_details": {
+    "header": {
+      "title": "Detalii personale",
+      "subtitle": "Examinați-vă informațiile personale"
+    },
+    "body": {
+      "title": "Titlu",
+      "first_name": "Nume",
+      "middle_name": "Al doilea nume (Opțional)",
+      "last_name": "Numele de familie",
+      "email": "E-mail",
+      "phone_number": "Număr de telefon",
+      "date_of_birth": "Data de nastere"
+    },
+    "image_upload": {
+      "title": "Încărcarea imaginii",
+      "subtitle": "Spune-ne despre aspectul tău"
+    }
+  },
+  "skills_and_qualifications": {
+    "header": {
+      "title": "Încarcă-ți CV-ul",
+      "subtitle": "Vrem să știm despre experiența ta de lucru"
+    },
+    "body": {
+      "title": "Aptitudini",
+      "subtitle": "Vrem să știm despre abilitățile și calificările dumneavoastră"
+    }
+  },
+  "employment_history": {
+    "header": {
+      "title": "Istoria Angajărilor",
+      "subtitle": "Furnizați informații despre istoricul dvs. de angajare",
+      "add_button": "Adăugați o înregistrare nouă"
+    },
+    "body": {
+      "employment": "Angajare",
+      "education": "Educaţie",
+      "others": "Alții",
+      "full_time": "Cu normă întreagă",
+      "part_time": "Cu jumătate de normă",
+      "edit": "Editați | ×"
+    },
+    "employment_history_modal": {
+      "header": {
+        "title_add": "Un nou record",
+        "title_update": "Editați înregistrarea"
+      },
+      "body": {
+        "type_of_work": "Tipul muncii",
+        "company_name": "Numele companiei",
+        "institution_name": "Numele Instituției",
+        "title_name": "Titlu",
+        "job_title": "Denumirea funcției",
+        "start_date": "Data de început",
+        "end_date": "Data de încheiere",
+        "job_description": "Descriere"
+      },
+      "actions": {
+        "close": "Închide",
+        "save": "Salvați înregistrarea",
+        "delete": "Ștergeți această înregistrare"
+      }
+    }
+  },
+  "emergency_contact": {
+    "header": {
+      "title": "Contact de urgență",
+      "subtitle": "Vă rugăm să furnizați informațiile dvs. de contact în caz de urgență"
+    }
+  },
+  "financial_information": {
+    "header": {
+      "title": "Informatie financiara",
+      "subtitle": "Vă rugăm să furnizați informațiile dvs. financiare"
+    },
+    "body": {
+      "have_uk_bank_account": "Aveți un cont bancar în Marea Britanie?",
+      "bank_name": "Numele băncii",
+      "bank_name_placeholder": "Introduceți numele băncii",
+      "account_number": "Numărul de cont",
+      "account_number_placeholder": "Introduceți numărul de cont",
+      "account_name": "Nume de cont",
+      "account_name_placeholder": "Introduceți numele contului",
+      "bank_sort_code": "Cod de sortare bancar",
+      "bank_sort_code_placeholder": "Introduceți codul de sortare al băncii",
+      "bank_account_verify_success": "Verificare cont bancar succes!",
+      "no_uk_bank_account": {
+        "title_1": "Vă rog",
+        "title_2": "click aici",
+        "title_3": " pentru a crea un cont bancar cu Onepay.",
+        "title_4": "După ce contul dvs. bancar este gata, selectați „Da” și continuați să completați informațiile financiare."
+      }
+    }
+  },
+  "personal_protective_equipment": {
+    "header": {
+      "title": "Echipament individual de protecție",
+      "subtitle": "Furnizați informații despre echipamentele dumneavoastră personale de protecție"
+    },
+    "body": {
+      "question_label_1": "Ai propria ta vestă sau jachetă Hi Vis?",
+      "question_label_2": "Ai propriile tale bocanci de siguranță?",
+      "question_label_3": "Alegeți dimensiunea cizmei dvs"
+    }
+  },
+  "declarations": {
+    "header": {
+      "title": "Declarații",
+      "subtitle": "Este un fapt stabilit de mult că un cititor va fi distras de conținutul care poate fi citit"
+    },
+    "body": {
+      "title_1": "Sănătate",
+      "body_1": "Următoarele întrebări referitoare la sănătate și dizabilitate sunt adresate pentru a afla nevoile dumneavoastră în ceea ce privește ajustările rezonabile care trebuie făcute pentru a accesa serviciul nostru de recrutare și nevoile dumneavoastră în vederea îndeplinirii postului sau postului căutat.",
+      "label_1": "• Sănătatea ta",
+      "question_1": "Aveți probleme de sănătate sau un handicap relevant care vă poate îngreuna îndeplinirea funcțiilor esențiale pentru rolul pe care îl căutați?",
+      "title_2": "Serviciul de dezvăluire și interdicții",
+      "body_2_1": "Modificările la Ordinul de excepții din 1975 (2013) prevăd că anumite condamnări și avertismente uzate sunt „protejate” și nu sunt supuse dezvăluirii către angajatori și nu pot fi luate în considerare. ",
+      "body_2_2": "Sub rezerva regulilor de filtrare, nedeclararea unei condamnări pe care trebuie să o dezvălui ne poate impune să vă excludem din registrul nostru sau să reziliem o misiune dacă infracțiunea nu este declarată, dar iese la iveală ulterior.",
+      "label_2_1": "• Condamnări, avertismente, mustrări sau avertismente finale?",
+      "question_2_1": "Aveți condamnări, avertismente, mustrări sau avertismente finale care nu sunt „protejate” așa cum sunt definite de Legea privind reabilitarea infractorilor din 1974 (excepții) Ordinul 1975 (modificat în 2013)",
+      "label_2_2": "• Acord de verificare DBS",
+      "question_2_2": "Dacă este necesar pentru acest rol, sunteți de acord să finalizați o verificare standard sau îmbunătățită DBS?",
+      "title_3": "Drepturi de șanse egale",
+      "body_3_1": "Politica GAP Personel este de a recruta, angaja și promova oameni pe baza adecvării acestora pentru munca ce urmează a fi efectuată.  ",
+      "body_3_2": "**Aceste informații vor fi utilizate exclusiv în scopuri de monitorizare**.",
+      "body_3_3": "Sub rezerva regulilor de filtrare, nedeclararea unei condamnări pe care trebuie să o dezvălui ne poate impune să vă excludem din registrul nostru sau să reziliem o misiune dacă infracțiunea nu este declarată, dar iese la iveală ulterior.",
+      "label_3_1": "• Sex *",
+      "question_3_1": "care este sexul tău?",
+      "label_3_2": "• Nationalitate *",
+      "question_3_2": "Care este nationalitatea ta?",
+      "label_3_3": "• Etnie *",
+      "question_3_3": "Care este etnia ta?",
+      "title_4": "Plată",
+      "body_4": "Informațiile de mai jos sunt solicitate exclusiv în scopul procesării salariilor dvs. ",
+      "label_4_1": "• Împrumut de student",
+      "question_4_1": "Aveți de rambursat un împrumut pentru studenți în funcție de venit?",
+      "label_4_2": "• Declarație de câștig",
+      "question_4_2": "Vă rugăm să completați secțiunea declarației de început, indicând circumstanțele dvs. actuale, indicând care dintre cele trei declarații vi se aplică. ",
+      "answer_4_2_1": "Acesta este primul meu loc de muncă din 6 aprilie trecut și nu primesc alocație pentru persoane în căutarea unui loc de muncă, alocație pentru angajare și sprijin, indemnizație impozabilă pentru incapacitate, pensie de stat sau pensie ocupațională.",
+      "answer_4_2_2": "Acesta este acum singurul meu loc de muncă, dar din 6 aprilie am avut un alt loc de muncă sau am primit alocație pentru persoane aflate în căutarea unui loc de muncă, alocație pentru angajare și sprijin sau indemnizație impozabilă pentru incapacitate. ",
+      "answer_4_2_3": "Pe lângă noul meu loc de muncă, am un alt loc de muncă sau primesc o pensie de stat sau de muncă.",
+      "title_5": "Acorduri",
+      "label_5_1": "• Reglementări de timp - Renunțare la 48 de ore",
+      "question_5_1": "Reglementările privind timpul de lucru din 1998 (așa cum au fost modificate) prevăd că lucrătorii temporari nu vor lucra la o Misiune cu Clientul care depășește săptămâna de lucru (48 de ore) decât dacă sunt de acord în scris că această limită nu se va aplica. ",
+      "label_5_2": "• Sănătate",
+      "question_5_2": "Sunteți de acord că informațiile furnizate în legătură cu secțiunea de sănătate și dizabilități din această aplicație sunt corecte. ",
+      "label_5_3": "• DBS",
+      "question_5_3": "Sunteți de acord că informațiile furnizate în legătură cu secțiunea DBS a acestei aplicații sunt corecte. ",
+      "label_5_4": "• Protejarea datelor",
+      "question_5_4": "Reglementările privind timpul de lucru din 1998 (așa cum au fost modificate) prevăd că lucrătorii temporari nu vor lucra la o Misiune cu Clientul care depășește săptămâna de lucru (48 de ore) decât dacă sunt de acord în scris că această limită nu se va aplica. ",
+      "label_5_5": "• Marketing",
+      "question_5_5": "Sunt de acord ca datele mele de contact să fie utilizate de către personalul GAP în scopuri de servicii de marketing, suplimentare față de cele de recrutare și instruire, care pot fi oferite de personalul GAP, filialele acestora și/sau furnizorii terți. ",
+      "title_6": "Acord general",
+      "body_6": "Informațiile de mai jos sunt solicitate exclusiv în scopul procesării salariilor dvs. ",
+      "answer_6_1": "Confirm că informațiile furnizate în acest document sunt adevărate și corecte.",
+      "answer_6_2": "Înțeleg că o declarație înșelătoare sau falsă sau o referință nesatisfăcătoare ar putea fi motiv de respingere sau, dacă sunt angajat, de concediere.",
+      "answer_6_3": "Intenționez să fiu legat de aceste acorduri."
+    }
+  },
+  "contracts": {
+    "header": {
+      "title": "Contracte",
+      "subtitle": "Contractele dvs. vor fi stocate aici"
+    },
+    "body": {
+      "title": "Contracta",
+      "key_info_document": "Document cu informații cheie",
+      "work_contract": "Contract pentru servicii și termeni de angajament",
+      "medical_contract": "Chestionar medical extins",
+      "key_info_document_confirmation": "Am primit documentul cu informații cheie.",
+      "work_contract_confirmation": "Am citit și sunt de acord cu Contractul pentru servicii și Termenii de angajament.",
+      "medical_contract_confirmation": "Am citit și am fost de acord cu Chestionarul medical extins",
+      "view": "Vedere",
+      "sign": "Semn",
+      "key_information_document": "Document cu informații cheie",
+      "key_information_document_confirmation": "Am primit documentul cu informații cheie.",
+      "work_contract_signed": "Contract de servicii și termeni de angajament semnat!",
+      "medical_contract_signed": "Chestionar medical extins semnat!"
+    },
+    "modal": {
+      "content": {
+        "key_information_document": "Acest document prezintă informații cheie despre relația dumneavoastră cu noi, inclusiv detalii despre plată, dreptul la concediu și alte beneficii.",
+        "work_contract": "Acest document oferă informații importante despre lucrul pentru personalul decalaj și stabilește așteptările în timpul lucrului la miscare.",
+        "medical_contract": "Întrebările din acest formular sunt adresate pentru a afla nevoile dumneavoastră și dacă este necesar să se facă vreo nevoie rezonabilă pentru a îndeplini postul sau postul căutat."
+      }
+    },
+    "signature_modal": {
+      "header": {
+        "title": "Semnătură",
+        "draw": "A desena",
+        "upload": "Încărcați"
+      },
+      "body": {
+        "title": "Prin semnarea acestei aplicații cu o semnătură electronică, sunt de acord că semnătura va fi la fel de valabilă ca și semnătura scrisă de mână, în măsura permisă de legislația locală."
+      },
+      "actions": {
+        "cancel": "Anulare",
+        "accept": "Accept"
+      }
+    }
+  },
+  "address_details": {
+    "header": {
+      "title": "Abordare",
+      "subtitle": "Vă rugăm să furnizați informațiile despre adresa dvs. din Marea Britanie",
+      "subtitle_placeholder": "Introdu codul poștal sau adresa"
+    },
+    "file_header": {
+      "title": "Încărcați dovezile de adresă",
+      "subtitle": "Furnizați dovezile adresei dvs"
+    },
+    "body": {
+      "postcode": "Cod poștal",
+      "postcode_placeholder": "Introdu codul poștal",
+      "enable_manual_input": "Nu vă puteți găsi adresa folosind codul poștal? Introduceți adresa manual",
+      "road": "drum",
+      "road_placeholder": "Intrați pe drum",
+      "county_region": "Județ/Regiune",
+      "county_region_placeholder": "Introdu judetul/regiunea",
+      "house_number": "Număr casă/apartament",
+      "house_number_placeholder": "Introduceți numărul locuinței/a apartamentului",
+      "upload_files": "Fișiere încărcate",
+      "town_city": "Oraș/Oraș",
+      "town_city_placeholder": "Introduceți orașul/orașul",
+      "county": "jud",
+      "county_placeholder": "Intrați în județ"
+    }
+  },
+  "header": {
+    "advertisement": "Informații publicitare",
+    "job_applied": "Job aplicat:",
+    "job_id": "ID job:",
+    "branch_location": "Amplasarea filialei:"
+  },
+  "right_to_work": {
+    "header": {
+      "title": "Furnizați dovezile dvs. privind dreptul la muncă",
+      "share_code_subtitle": "Vă rugăm să furnizați numărul de cod de partajare",
+      "other_subtitle": "Pentru interviul personal, vă rugăm să furnizați aceste documente angajatorului"
+    },
+    "body": {
+      "share_code": "Partajați codul",
+      "fetching_share_code": "Se preia codul de distribuire...",
+      "share_code_found": "S-a găsit codul de distribuire, în așteptarea examinării unui consultant",
+      "approved": "Aprobat",
+      "photo": {
+        "title": "Fă-ți fotografia",
+        "subtitle_1": "Vă rugăm să utilizați un dispozitiv cu cameră pentru a vă face fotografia.",
+        "subtitle_2": "Dacă nu puteți face o fotografie, vă rugăm să vizitați filiala pentru asistență suplimentară.",
+        "cant_take": "Nu se poate face fotografie"
+      },
+      "additional_document": {
+        "title": "Încărcați documentele suplimentare",
+        "subtitle": "Furnizați documentele dvs. suplimentare"
+      },
+      "additional_info": {
+        "title": "Sunt necesare mai multe informații",
+        "subtitle": "Furnizați numărul de cod de partajare"
+      },
+      "passport": {
+        "title": "Scanează-ți pașaportul",
+        "subtitle_1": "Vă rugăm să furnizați fotografia de pașaport.",
+        "subtitle_2": "Dacă nu puteți face o fotografie, vă rugăm să vizitați filiala pentru asistență suplimentară."
+      },
+      "birth_certificate": "Certificat de nastere",
+      "insurance_number": "Numărul național de asigurare"
+    }
+  }
+}

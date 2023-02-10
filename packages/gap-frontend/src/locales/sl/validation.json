@@ -1,0 +1,18 @@
+{
+  "common": {
+    "required": "To polje je obvezno.",
+    "many_required": "Ta polja so obvezna.",
+    "max_characters": "To polje ne sme biti daljše od {{max}} znakov.",
+    "end_date": "Končni datum mora biti po začetnem datumu.",
+    "phone_number": "Telefonska številka je neveljavna.",
+    "email": "E-pošta je neveljavna.",
+    "password": "Geslo ni veljavno.",
+    "repeat_password": "Tvoje geslo se ne ujema. Prosim poskusite ponovno.",
+    "share_code": {
+      "expired": "Koda za skupno rabo je potekla. Znova ustvarite kodo za skupno rabo in poskusite znova"
+    },
+    "file": {
+      "max_size": "Datoteka je prevelika."
+    }
+  }
+}

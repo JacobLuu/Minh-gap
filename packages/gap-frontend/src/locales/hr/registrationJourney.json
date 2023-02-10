@@ -1,0 +1,300 @@
+{
+  "sidebar": {
+    "personal_details": "Osobni podatci",
+    "skills_and_qualifications": "Vještine",
+    "employment_history": "Povijest zapošljavanja",
+    "emergency_contact": "Kontakt za hitne slučajeve",
+    "address_details": "Detalji adrese",
+    "personal_protective_equipment": "Osobna zaštitna oprema",
+    "right_to_work_proofs": "Dokaz o pravu na rad",
+    "financial_information": "Financijske informacije",
+    "declarations": "Deklaracije",
+    "contracts": "Ugovori",
+    "skill_qualifications": "Vještine i kvalifikacije"
+  },
+  "common": {
+    "save_progress": "Spremi napredak",
+    "submit": "podnijeti",
+    "confirm_and_open": "Potvrdi",
+    "close": "Zatvoriti",
+    "save_success": "Spremi uspješno.",
+    "submit_success": "Predajte uspješno.",
+    "upload_success": "Učitavanje uspješno.",
+    "signature_empty": "Potpis ne može biti prazan.",
+    "check": "Ček",
+    "rejected": "Odbijen",
+    "view_file": "Pogledaj datoteku",
+    "delete_file": "Izbrisati dateoteku",
+    "confirm_and_sign": "Potvrdi i potpiši",
+    "sign_success": "Uspješno se prijavite."
+  },
+  "personal_details": {
+    "header": {
+      "title": "Osobni podatci",
+      "subtitle": "Pregledajte svoje osobne podatke"
+    },
+    "body": {
+      "title": "Titula",
+      "first_name": "Ime",
+      "middle_name": "Srednje ime (izborno)",
+      "last_name": "Prezime",
+      "email": "E-mail",
+      "phone_number": "Broj telefona",
+      "date_of_birth": "Datum rođenja"
+    },
+    "image_upload": {
+      "title": "Prijenos slike",
+      "subtitle": "Obavijestite nas o svom izgledu"
+    }
+  },
+  "skills_and_qualifications": {
+    "header": {
+      "title": "Prenesite svoj životopis",
+      "subtitle": "Želimo znati o vašem radnom iskustvu"
+    },
+    "body": {
+      "title": "Vještine",
+      "subtitle": "Želimo znati o vašim vještinama i kvalifikacijama"
+    }
+  },
+  "employment_history": {
+    "header": {
+      "title": "Povijest zapošljavanja",
+      "subtitle": "Navedite podatke o svojoj povijesti zaposlenja",
+      "add_button": "Dodaj novi zapis"
+    },
+    "body": {
+      "employment": "Zapošljavanje",
+      "education": "Obrazovanje",
+      "others": "Drugi",
+      "full_time": "Puno vrijeme",
+      "part_time": "Honorarno",
+      "edit": "Uredi"
+    },
+    "employment_history_modal": {
+      "header": {
+        "title_add": "Novi rekord",
+        "title_update": "Uredi zapis"
+      },
+      "body": {
+        "type_of_work": "Vrsta rada",
+        "company_name": "Naziv tvrtke",
+        "institution_name": "Naziv ustanove",
+        "title_name": "Titula",
+        "job_title": "Naziv radnog mjesta",
+        "start_date": "Početni datum",
+        "end_date": "Datum završetka",
+        "job_description": "Opis"
+      },
+      "actions": {
+        "close": "Zatvoriti",
+        "save": "Spremi zapis",
+        "delete": "Izbriši ovaj zapis"
+      }
+    }
+  },
+  "emergency_contact": {
+    "header": {
+      "title": "Kontakt za hitne slučajeve",
+      "subtitle": "Navedite svoje podatke za kontakt u hitnim slučajevima"
+    }
+  },
+  "financial_information": {
+    "header": {
+      "title": "Financijske informacije",
+      "subtitle": "Navedite svoje financijske podatke"
+    },
+    "body": {
+      "have_uk_bank_account": "Imate li bankovni račun u UK-u?",
+      "bank_name": "ime banke",
+      "bank_name_placeholder": "Unesite naziv banke",
+      "account_number": "Broj računa",
+      "account_number_placeholder": "Unesite broj računa",
+      "account_name": "Korisničko ime",
+      "account_name_placeholder": "Unesite naziv računa",
+      "bank_sort_code": "Kod banke",
+      "bank_sort_code_placeholder": "Unesite šifru banke",
+      "bank_account_verify_success": "Uspješna provjera bankovnog računa!",
+      "no_uk_bank_account": {
+        "title_1": "Molim",
+        "title_2": "kliknite ovdje",
+        "title_3": " za izradu bankovnog računa s Onepayom.",
+        "title_4": "Nakon što je vaš bankovni račun spreman, odaberite \"Da\" i nastavite ispunjavati svoje financijske podatke."
+      }
+    }
+  },
+  "personal_protective_equipment": {
+    "header": {
+      "title": "Osobna zaštitna oprema",
+      "subtitle": "Navedite informacije o svojoj osobnoj zaštitnoj opremi"
+    },
+    "body": {
+      "question_label_1": "Imate li svoj Hi Vis prsluk ili jaknu?",
+      "question_label_2": "Imate li svoje zaštitne čizme?",
+      "question_label_3": "Odaberite svoju veličinu čizama"
+    }
+  },
+  "declarations": {
+    "header": {
+      "title": "Deklaracije",
+      "subtitle": "Davno je utvrđena činjenica da će čitatelj biti ometen čitkim sadržajem"
+    },
+    "body": {
+      "title_1": "Zdravlje",
+      "body_1": "Postavljaju se sljedeća pitanja o zdravlju i invalidnosti kako bismo saznali vaše potrebe u smislu razumnih prilagodbi koje je potrebno učiniti za pristup našoj službi zapošljavanja i vaše potrebe kako biste mogli obavljati posao ili poziciju koju tražite.",
+      "label_1": "• Tvoje zdravlje",
+      "question_1": "Imate li zdravstvenih problema ili relevantnog invaliditeta koji bi vam mogli otežati obavljanje funkcija koje su ključne za ulogu koju tražite?",
+      "title_2": "Usluga otkrivanja i zabrane",
+      "body_2_1": "Izmjene i dopune Naredbe o iznimkama 1975 (2013) predviđaju da su određene odslužene osude i opomene 'zaštićene' i ne podliježu otkrivanju poslodavcima te se ne mogu uzeti u obzir. ",
+      "body_2_2": "Podložno pravilima filtriranja, neobjavljivanje osude koju morate otkriti može zahtijevati da vas isključimo iz našeg registra ili prekinemo zadatak ako prekršaj nije objavljen, ali se kasnije otkrije.",
+      "label_2_1": "• Osude, upozorenja, ukori ili posljednja upozorenja?",
+      "question_2_1": "Imate li osude, upozorenja, ukore ili posljednja upozorenja koja nisu 'zaštićena' kako je definirano Zakonom o rehabilitaciji počinitelja iz 1974. (Iznimke) Naredbom iz 1975. (s izmjenama i dopunama iz 2013.)",
+      "label_2_2": "• Ugovor o DBS čeku",
+      "question_2_2": "Ako je potrebno za tu ulogu, slažete li se s ispunjavanjem DBS standardne ili poboljšane provjere?",
+      "title_3": "Prava jednakih mogućnosti",
+      "body_3_1": "Politika GAP Personela je zapošljavanje, zapošljavanje i promicanje ljudi na temelju njihove prikladnosti za posao koji će obavljati.  ",
+      "body_3_2": "**Ove informacije će se koristiti isključivo u svrhu praćenja**.",
+      "body_3_3": "Podložno pravilima filtriranja, neobjavljivanje osude koju morate otkriti može zahtijevati da vas isključimo iz našeg registra ili prekinemo zadatak ako prekršaj nije objavljen, ali se kasnije otkrije.",
+      "label_3_1": "• Spol *",
+      "question_3_1": "koji je tvoj spol?",
+      "label_3_2": "• Nacionalnost *",
+      "question_3_2": "Koje si nacionalnosti?",
+      "label_3_3": "• Etnička pripadnost *",
+      "question_3_3": "Koje si narodnosti?",
+      "title_4": "Plaćanje",
+      "body_4": "Podaci u nastavku traženi su isključivo u svrhu obrade vaših plaća. ",
+      "label_4_1": "• Studentski kredit",
+      "question_4_1": "Imate li studentski zajam koji ovisi o prihodu za otplatu?",
+      "label_4_2": "• Izjava o zaradi",
+      "question_4_2": "Ispunite početni odjeljak izjave navodeći svoje trenutne okolnosti navodeći koja se od tri izjave odnosi na vas. ",
+      "answer_4_2_1": "Ovo je moj prvi posao od prošlog 6. travnja i nisam primao oporezivi dodatak za tražitelje posla, dodatak za zapošljavanje i potporu, oporezivu naknadu za nesposobnost, državnu ili profesionalnu mirovinu.",
+      "answer_4_2_2": "Ovo je sada moj jedini posao, ali od 6. travnja imam drugi posao ili primam oporezivi dodatak za tražitelje posla, dodatak za zapošljavanje i potporu ili oporezivu naknadu za nesposobnost. ",
+      "answer_4_2_3": "Osim mog novog posla, imam još jedan posao ili primam državnu ili profesionalnu mirovinu.",
+      "title_5": "Dogovori",
+      "label_5_1": "• Vremenski propisi - Isključivanje od 48 sati",
+      "question_5_1": "Propisi o radnom vremenu iz 1998. (s izmjenama i dopunama) predviđaju da privremeni radnici ne smiju raditi na zadatku s klijentom duže od radnog tjedna (48 sati), osim ako se pismeno ne slože da se ovo ograničenje ne primjenjuje. ",
+      "label_5_2": "• Zdravlje",
+      "question_5_2": "Slažete se da su podaci navedeni u odjeljku o zdravlju i invalidnosti u ovoj aplikaciji točni. ",
+      "label_5_3": "• DBS",
+      "question_5_3": "Slažete se da su informacije dane u vezi s DBS odjeljkom ove prijave točne. ",
+      "label_5_4": "• Zaštita podataka",
+      "question_5_4": "Propisi o radnom vremenu iz 1998. (s izmjenama i dopunama) predviđaju da privremeni radnici ne smiju raditi na zadatku s klijentom duže od radnog tjedna (48 sati), osim ako se pismeno ne slože da se ovo ograničenje ne primjenjuje. ",
+      "label_5_5": "• Marketing",
+      "question_5_5": "Pristajem da GAP-ovo osoblje koristi moje podatke za kontakt u svrhu marketinških usluga, uz one za zapošljavanje i obuku, koje mogu ponuditi GAP-ovo osoblje, njihove podružnice i/ili dobavljači treće strane. ",
+      "title_6": "Opći dogovor",
+      "body_6": "Podaci u nastavku traženi su isključivo u svrhu obrade vaših plaća. ",
+      "answer_6_1": "Potvrđujem da su podaci navedeni u ovom dokumentu istiniti i točni.",
+      "answer_6_2": "Razumijem da obmanjujuća ili lažna izjava ili nezadovoljavajuća referenca mogu biti razlog za odbijanje ili, ako je zaposlen, otkaz.",
+      "answer_6_3": "Namjeravam se obvezati ovim sporazumima."
+    }
+  },
+  "contracts": {
+    "header": {
+      "title": "Ugovori",
+      "subtitle": "Vaši ugovori bit će pohranjeni ovdje"
+    },
+    "body": {
+      "title": "Ugovor",
+      "key_info_document": "Dokument s ključnim informacijama",
+      "work_contract": "Ugovor o uslugama i Uvjeti angažmana",
+      "medical_contract": "Prošireni medicinski upitnik",
+      "key_info_document_confirmation": "Primio sam dokument s ključnim informacijama.",
+      "work_contract_confirmation": "Pročitao sam i slažem se s Ugovorom o uslugama i Uvjetima angažmana.",
+      "medical_contract_confirmation": "Pročitao sam i slažem se s Proširenim medicinskim upitnikom",
+      "view": "Pogled",
+      "sign": "Znak",
+      "key_information_document": "Dokument s ključnim informacijama",
+      "key_information_document_confirmation": "Primio sam dokument s ključnim informacijama.",
+      "work_contract_signed": "Potpisan Ugovor o pružanju usluga i Uvjeti angažmana!",
+      "medical_contract_signed": "Prošireni medicinski upitnik potpisan!"
+    },
+    "modal": {
+      "content": {
+        "key_information_document": "Ovaj dokument navodi ključne informacije o vašem odnosu s nama, uključujući pojedinosti o plaćama, pravu na godišnji odmor i drugim pogodnostima.",
+        "work_contract": "Ovaj dokument pruža važne informacije o radu za osoblje koje ima nedostatke i iznosi očekivanja tijekom rada na zadatku.",
+        "medical_contract": "Pitanja u ovom obrascu postavljaju se kako bi se saznalo vaše potrebe i postoji li razumna potreba za obavljanje posla ili pozicije koju tražite."
+      }
+    },
+    "signature_modal": {
+      "header": {
+        "title": "Potpis",
+        "draw": "crtati",
+        "upload": "Učitaj"
+      },
+      "body": {
+        "title": "Potpisivanjem ove prijave elektroničkim potpisom, slažem se da će potpis biti valjan kao i vlastoručni potpis u mjeri dopuštenoj lokalnim zakonom."
+      },
+      "actions": {
+        "cancel": "Otkazati",
+        "accept": "Prihvatiti"
+      }
+    }
+  },
+  "address_details": {
+    "header": {
+      "title": "Adresa",
+      "subtitle": "Navedite podatke o svojoj adresi u UK",
+      "subtitle_placeholder": "Unesite poštanski broj ili adresu"
+    },
+    "file_header": {
+      "title": "Učitajte dokaze o svojoj adresi",
+      "subtitle": "Dostavite dokaze o svojoj adresi"
+    },
+    "body": {
+      "postcode": "Poštanski broj",
+      "postcode_placeholder": "Unesite poštanski broj",
+      "enable_manual_input": "Ne možete pronaći svoju adresu pomoću poštanskog broja? Unesite adresu ručno",
+      "road": "cesta",
+      "road_placeholder": "Unesite cestu",
+      "county_region": "Županija/Regija",
+      "county_region_placeholder": "Unesite županiju/regiju",
+      "house_number": "Broj kuće/stana",
+      "house_number_placeholder": "Unesite broj kuće/stana",
+      "upload_files": "Učitane datoteke",
+      "town_city": "Mjesto/grad",
+      "town_city_placeholder": "Unesite grad",
+      "county": "Okrug",
+      "county_placeholder": "Unesite županiju"
+    }
+  },
+  "header": {
+    "advertisement": "Informacije o oglasu",
+    "job_applied": "Prijavljeni posao:",
+    "job_id": "ID posla:",
+    "branch_location": "Lokacija podružnice:"
+  },
+  "right_to_work": {
+    "header": {
+      "title": "Dostavite svoje dokaze o pravu na rad",
+      "share_code_subtitle": "Navedite svoj kodni broj dionice",
+      "other_subtitle": "Za osobni razgovor, molimo da ove dokumente dostavite poslodavcu"
+    },
+    "body": {
+      "share_code": "Dijeli kod",
+      "fetching_share_code": "Dohvaćanje dijeljenog koda...",
+      "share_code_found": "Šifra za dijeljenje je pronađena, čeka se konzultant za pregled",
+      "approved": "Odobreno",
+      "photo": {
+        "title": "Snimi svoju fotografiju",
+        "subtitle_1": "Za snimanje fotografije koristite uređaj s kamerom.",
+        "subtitle_2": "Ako ne možete snimiti fotografiju, posjetite poslovnicu za dodatnu pomoć.",
+        "cant_take": "Ne mogu snimiti fotografiju"
+      },
+      "additional_document": {
+        "title": "Učitajte svoje dodatne dokumente",
+        "subtitle": "Dostavite svoje dodatne dokumente"
+      },
+      "additional_info": {
+        "title": "Potrebno više informacija",
+        "subtitle": "Navedite svoj kodni broj dionice"
+      },
+      "passport": {
+        "title": "Skenirajte svoju putovnicu",
+        "subtitle_1": "Molimo dostavite svoju fotografiju za putovnicu.",
+        "subtitle_2": "Ako ne možete snimiti fotografiju, posjetite poslovnicu za dodatnu pomoć."
+      },
+      "birth_certificate": "Rodni list",
+      "insurance_number": "Broj nacionalnog osiguranja"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "common": {
+    "required": "To pole jest wymagane.",
+    "many_required": "Te pola są wymagane.",
+    "max_characters": "To pole nie może być dłuższe niż {{max}} postacie.",
+    "end_date": "Data zakończenia musi być późniejsza niż data rozpoczęcia.",
+    "phone_number": "Numer telefonu jest nieprawidłowy.",
+    "email": "E-mail jest nie prawidłowy.",
+    "password": "Hasło jest niewłaściwe.",
+    "repeat_password": "Twoje hasła nie zgadzają się. Proszę spróbuj ponownie.",
+    "share_code": {
+      "expired": "Kod udostępnienia wygasł. Wygeneruj ponownie kod udostępnienia i spróbuj ponownie"
+    },
+    "file": {
+      "max_size": "Plik jest za duży."
+    }
+  }
+}

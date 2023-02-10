@@ -1,0 +1,255 @@
+{
+  "common": {
+    "validation": {
+      "email": {
+        "required": "E-mail je povinné pole",
+        "invalid_format": "Toto pole musí obsahovat platnou e-mailovou adresu"
+      },
+      "password": {
+        "min": "Minimálně 6 znaků",
+        "required": "Heslo je povinné pole",
+        "capital_required": "Alespoň 1 velký znak",
+        "number_required": "Alespoň 1 číslo",
+        "wrong_password": "E-mail nebo heslo je špatné. "
+      },
+      "repeat_password": {
+        "not_match": "Vaše hesla se neshodují. "
+      },
+      "title": {
+        "required": "Název je povinné pole"
+      },
+      "firstName": {
+        "required": "Křestní jméno je povinné pole"
+      },
+      "middleName": {
+        "required": "Prostřední jméno je povinné pole"
+      },
+      "lastName": {
+        "required": "Příjmení je povinné pole"
+      },
+      "phoneNumber": {
+        "required": "Telefonní číslo je povinné pole",
+        "invalid_format": "Neplatné telefonní číslo"
+      },
+      "contactDate": {
+        "required": "Datum kontaktu je povinné pole"
+      },
+      "contactTime": {
+        "required": "Kontaktní čas je povinné pole"
+      },
+      "rightToWorkStatus": {
+        "required": "Právo na pracovní status je povinné pole"
+      },
+      "relationship": {
+        "required": "Pole vztah je povinné"
+      },
+      "journeyType": {
+        "required": "Právo na pracovní status je povinné pole"
+      }
+    },
+    "select_language": {
+      "header": "Vyberte preferovaný jazyk",
+      "header_short": "Aktuální jazyk",
+      "label": "Vyberte jazyk"
+    }
+  },
+  "welcome": {
+    "welcome_header": "Vítejte u personálu mezery",
+    "welcome_description": "Komunita ochotných, zkušených lidí, kteří čekají, až vám najdou perfektní práci.\n ",
+    "agreement": {
+      "description": "Chcete-li spustit registrační portál mezerového personálu, nejprve prosím\n ",
+      "checkbox_full_condition": "Souhlasím s mezerovým personálem",
+      "full_condition": "Úplné podmínky",
+      "checkbox_full_term_of_use": "Souhlasím s mezerovým personálem",
+      "term_of_use": "Podmínky použití"
+    },
+    "btn_get_started": "Začít"
+  },
+  "login": {
+    "header": "Přihlásit se",
+    "welcome_message": "Vítejte zpět mezi personálem mezery. ",
+    "form": {
+      "email": {
+        "label": "E-mailem",
+        "placeholder": "Vložte svůj e-mail"
+      },
+      "password": {
+        "label": "Heslo",
+        "placeholder": "Zadejte heslo"
+      },
+      "button_login": "Přihlásit se"
+    },
+    "forgot_password_question": "Zapomněli jste heslo?",
+    "dont_have_account_question": "Nemáte účet?",
+    "create_new_account": "Vytvořte nový"
+  },
+  "create_account": {
+    "benefits": {
+      "benefit1": "Inovační",
+      "benefit2": "Poradní",
+      "benefit3": "Odpovědný",
+      "benefit4": "Nemovitý",
+      "benefit5": "Etický"
+    },
+    "header": "Nejprve si vytvořte účet",
+    "sub_header": "začít svou cestu",
+    "form": {
+      "email": {
+        "label": "E-mailem",
+        "placeholder": "Vložte svůj e-mail"
+      },
+      "password": {
+        "label": "Heslo",
+        "placeholder": "Zadejte heslo"
+      },
+      "repeat_password": {
+        "label": "Potvrďte heslo",
+        "placeholder": "Zadejte své potvrzovací heslo"
+      },
+      "button_create_account": "Vytvořit účet"
+    },
+    "agreement": {
+      "description": "Chcete-li spustit registrační portál mezerového personálu, nejprve prosím\n ",
+      "checkbox_full_condition": "Souhlasím s mezerovým personálem",
+      "full_condition": "Úplné podmínky",
+      "checkbox_full_term_of_use": "Souhlasím s mezerovým personálem",
+      "term_of_use": "Podmínky použití"
+    },
+    "have_account_question": "Máte účet?",
+    "login_message": "Přihlaste se nyní"
+  },
+  "forgot_password": {
+    "header": "Zapomněli jste heslo?",
+    "sub_header": "Zadejte e-mail spojený s vaším účtem a my vám zašleme e-mail s pokyny k obnovení hesla",
+    "form": {
+      "email": {
+        "label": "E-mailem",
+        "placeholder": "Vložte svůj e-mail"
+      },
+      "button_submit": "Pošlete návod"
+    },
+    "remember_password_question": "Pamatujete si své heslo?",
+    "login_now_message": "Přihlaste se nyní",
+    "dialog": {
+      "header": "Zkontroluj si email",
+      "description": "Pokyny k obnovení hesla jsme zaslali na váš e-mail"
+    }
+  },
+  "reset_password": {
+    "header": "Vytvořte nové heslo",
+    "sub_header": "Vaše nové heslo se musí lišit od předchozího hesla.",
+    "form": {
+      "password": {
+        "label": "Nové heslo",
+        "placeholder": "Zadejte heslo"
+      },
+      "repeat_password": {
+        "label": "Potvrďte heslo",
+        "placeholder": "Zadejte své potvrzovací heslo"
+      },
+      "button_reset_password": "Obnovit heslo"
+    },
+    "dialog": {
+      "title": "Gratulujeme",
+      "description": "Úspěšně jste resetovali své heslo"
+    },
+    "remember_password_question": "Pamatujete si své heslo?",
+    "login_message": "Přihlaste se nyní"
+  },
+  "get_started": {
+    "header": "Začít",
+    "personal_details": {
+      "header": {
+        "title": "Osobní informace",
+        "subtitle": "Poskytněte své osobní údaje"
+      },
+      "body": {
+        "title": {
+          "label": "Titul",
+          "placeholder": "Vyberte název"
+        },
+        "first_name": {
+          "label": "Jméno",
+          "placeholder": "Jméno"
+        },
+        "middle_name": {
+          "label": "Prostřední jméno (volitelné)",
+          "placeholder": "Prostřední jméno"
+        },
+        "last_name": {
+          "label": "Příjmení",
+          "placeholder": "Příjmení"
+        },
+        "email": {
+          "label": "E-mailem",
+          "placeholder": "vložte svou e-mailovou adresu"
+        },
+        "phone_number": {
+          "label": "Telefonní číslo",
+          "placeholder": "Vložte své telefonní číslo"
+        },
+        "date_of_birth": {
+          "label": "Datum narození",
+          "placeholder": "--/--/----"
+        },
+        "contact_dates": {
+          "label": "Datum kontaktu",
+          "placeholder": "Vyberte datum kontaktu"
+        },
+        "contact_times": {
+          "label": "Kontaktní čas",
+          "placeholder": "Vyberte čas kontaktu"
+        }
+      }
+    },
+    "contact_time": {
+      "header": {
+        "title": "Kdy vás můžeme kontaktovat?",
+        "subtitle": "Dejte nám vědět, kdy vás můžeme kontaktovat"
+      }
+    },
+    "right_to_work": {
+      "header": {
+        "title": "Právo na pracovní status",
+        "subtitle": "Uveďte stav svého práva na práci, který bude potvrzen mezerou"
+      }
+    },
+    "form": {
+      "button_submit": "Odešlete informace"
+    },
+    "dialog": {
+      "header": "Mám to díky! ",
+      "description": "Máte-li teď trochu času, pokračujte prosím ve své registraci, ať máme vše, co potřebujeme, abychom vám pomohli co nejdříve nastoupit do nové práce. ",
+      "button_stay": "Udělejte to později",
+      "button_continue": "Pokračujte v procesu"
+    }
+  },
+  "profile": {
+    "breadcrumb": "Zpět na portál",
+    "information_tab": {
+      "tab_name": "Základní informace",
+      "title": "Titul",
+      "first_name": "Jméno",
+      "middle_name": "Prostřední jméno (volitelné)",
+      "last_name": "Příjmení",
+      "date_of_birth": "Datum narození"
+    },
+    "password_tab": {
+      "tab_name": "Změnit heslo",
+      "current_password": "Aktuální heslo",
+      "new_password": "Nové heslo",
+      "confirm_password": "Potvrďte nové heslo"
+    },
+    "actions": {
+      "save": "Uložit"
+    }
+  },
+  "photo": {
+    "take": "Vyfotit",
+    "max_size": "Maximální velikost souboru:"
+  },
+  "header": {
+    "profile": "Profil",
+    "log_out": "Odhlásit se"
+  }
+}

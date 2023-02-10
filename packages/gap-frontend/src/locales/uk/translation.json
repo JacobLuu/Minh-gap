@@ -1,0 +1,255 @@
+{
+  "common": {
+    "validation": {
+      "email": {
+        "required": "Електронна адреса є обов’язковим для заповнення",
+        "invalid_format": "У цьому полі має бути вказана дійсна адреса електронної пошти"
+      },
+      "password": {
+        "min": "Мінімум 6 символів",
+        "required": "Пароль є обов'язковим полем",
+        "capital_required": "Принаймні 1 великий символ",
+        "number_required": "Принаймні 1 число",
+        "wrong_password": "Електронна пошта або пароль неправильні. "
+      },
+      "repeat_password": {
+        "not_match": "Ваші паролі не збігаються. "
+      },
+      "title": {
+        "required": "Назва є обов’язковим полем"
+      },
+      "firstName": {
+        "required": "Ім'я є обов'язковим полем"
+      },
+      "middleName": {
+        "required": "По батькові є обов'язковим для заповнення"
+      },
+      "lastName": {
+        "required": "Прізвище обов’язкове для заповнення"
+      },
+      "phoneNumber": {
+        "required": "Номер телефону є обов'язковим для заповнення",
+        "invalid_format": "Недійсний номер телефону"
+      },
+      "contactDate": {
+        "required": "Дата контакту є обов’язковим для заповнення"
+      },
+      "contactTime": {
+        "required": "Час контакту є обов’язковим для заповнення"
+      },
+      "rightToWorkStatus": {
+        "required": "Статус права на роботу є обов'язковим для заповнення"
+      },
+      "relationship": {
+        "required": "Відносини є обов’язковим полем"
+      },
+      "journeyType": {
+        "required": "Статус права на роботу є обов'язковим для заповнення"
+      }
+    },
+    "select_language": {
+      "header": "Виберіть бажану мову",
+      "header_short": "Актуальна мова",
+      "label": "Виберіть мову"
+    }
+  },
+  "welcome": {
+    "welcome_header": "Ласкаво просимо в gap personal",
+    "welcome_description": "Спільнота корисних, досвідчених людей, які чекають, щоб знайти для вас ідеальну роботу.\n ",
+    "agreement": {
+      "description": "Щоб запустити Gap Personal Registration Portal, будь ласка, спочатку\n ",
+      "checkbox_full_condition": "Я погоджуюся з розривом персоналу",
+      "full_condition": "Повні умови",
+      "checkbox_full_term_of_use": "Я погоджуюся з розривом персоналу",
+      "term_of_use": "Умови використання"
+    },
+    "btn_get_started": "Розпочати"
+  },
+  "login": {
+    "header": "Логін",
+    "welcome_message": "Ласкаво просимо знову в Gap Personal. ",
+    "form": {
+      "email": {
+        "label": "Електронна пошта",
+        "placeholder": "Введіть адресу електронної пошти"
+      },
+      "password": {
+        "label": "Пароль",
+        "placeholder": "Введіть ваш пароль"
+      },
+      "button_login": "Логін"
+    },
+    "forgot_password_question": "Забули свій пароль?",
+    "dont_have_account_question": "У вас немає облікового запису?",
+    "create_new_account": "Створіть новий"
+  },
+  "create_account": {
+    "benefits": {
+      "benefit1": "Інноваційний",
+      "benefit2": "Консультативна",
+      "benefit3": "Підзвітний",
+      "benefit4": "Справжня",
+      "benefit5": "Етичний"
+    },
+    "header": "Спочатку створіть обліковий запис",
+    "sub_header": "щоб почати свою подорож",
+    "form": {
+      "email": {
+        "label": "Електронна пошта",
+        "placeholder": "Введіть адресу електронної пошти"
+      },
+      "password": {
+        "label": "Пароль",
+        "placeholder": "Введіть ваш пароль"
+      },
+      "repeat_password": {
+        "label": "Підтвердьте пароль",
+        "placeholder": "Введіть пароль підтвердження"
+      },
+      "button_create_account": "Створити аккаунт"
+    },
+    "agreement": {
+      "description": "Щоб запустити Gap Personal Registration Portal, будь ласка, спочатку\n ",
+      "checkbox_full_condition": "Я погоджуюся з розривом персоналу",
+      "full_condition": "Повні умови",
+      "checkbox_full_term_of_use": "Я погоджуюся з розривом персоналу",
+      "term_of_use": "Умови використання"
+    },
+    "have_account_question": "У вас є обліковий запис?",
+    "login_message": "Увійдіть зараз"
+  },
+  "forgot_password": {
+    "header": "Забули свій пароль?",
+    "sub_header": "Введіть електронну адресу, пов’язану з вашим обліковим записом, і ми надішлемо вам електронний лист із інструкціями щодо зміни пароля",
+    "form": {
+      "email": {
+        "label": "Електронна пошта",
+        "placeholder": "Введіть адресу електронної пошти"
+      },
+      "button_submit": "Надіслати інструкцію"
+    },
+    "remember_password_question": "Пам'ятаєте свій пароль?",
+    "login_now_message": "Увійдіть зараз",
+    "dialog": {
+      "header": "Перевірити свою електронну пошту",
+      "description": "Ми надіслали інструкції щодо зміни пароля на вашу електронну пошту"
+    }
+  },
+  "reset_password": {
+    "header": "Створіть новий пароль",
+    "sub_header": "Ваш новий пароль має відрізнятися від попереднього.",
+    "form": {
+      "password": {
+        "label": "Новий пароль",
+        "placeholder": "Введіть ваш пароль"
+      },
+      "repeat_password": {
+        "label": "Підтвердьте пароль",
+        "placeholder": "Введіть пароль підтвердження"
+      },
+      "button_reset_password": "Скинути пароль"
+    },
+    "dialog": {
+      "title": "Вітаю",
+      "description": "Ви успішно скинули свій пароль"
+    },
+    "remember_password_question": "Пам'ятаєте свій пароль?",
+    "login_message": "Увійдіть зараз"
+  },
+  "get_started": {
+    "header": "Розпочати",
+    "personal_details": {
+      "header": {
+        "title": "Персональна інформація",
+        "subtitle": "Надайте свою особисту інформацію"
+      },
+      "body": {
+        "title": {
+          "label": "Назва",
+          "placeholder": "Виберіть назву"
+        },
+        "first_name": {
+          "label": "Ім'я",
+          "placeholder": "Ім'я"
+        },
+        "middle_name": {
+          "label": "По батькові (необов'язково)",
+          "placeholder": "По батькові"
+        },
+        "last_name": {
+          "label": "Прізвище",
+          "placeholder": "Прізвище"
+        },
+        "email": {
+          "label": "Електронна пошта",
+          "placeholder": "Введіть адресу вашої електронної пошти"
+        },
+        "phone_number": {
+          "label": "Номер телефону",
+          "placeholder": "Введіть свій номер телефону"
+        },
+        "date_of_birth": {
+          "label": "Дата народження",
+          "placeholder": "--/--/----"
+        },
+        "contact_dates": {
+          "label": "Дата контакту",
+          "placeholder": "Виберіть дату контакту"
+        },
+        "contact_times": {
+          "label": "Час контакту",
+          "placeholder": "Виберіть час контакту"
+        }
+      }
+    },
+    "contact_time": {
+      "header": {
+        "title": "Коли ми зможемо зв'язатися з вами?",
+        "subtitle": "Повідомте нас, коли ми зможемо з вами зв’язатися"
+      }
+    },
+    "right_to_work": {
+      "header": {
+        "title": "Право на статус роботи",
+        "subtitle": "Вкажіть статус Вашого права на роботу для підтвердження прогалини"
+      }
+    },
+    "form": {
+      "button_submit": "Надішліть інформацію"
+    },
+    "dialog": {
+      "header": "Зрозумів дякую! ",
+      "description": "Якщо у вас є час, будь ласка, продовжте реєстрацію, щоб у нас було все необхідне, щоб допомогти вам якомога швидше розпочати нову роботу. ",
+      "button_stay": "Зробіть це пізніше",
+      "button_continue": "Продовжити процес"
+    }
+  },
+  "profile": {
+    "breadcrumb": "Назад до порталу",
+    "information_tab": {
+      "tab_name": "Основна інформація",
+      "title": "Назва",
+      "first_name": "Ім'я",
+      "middle_name": "По батькові (необов'язково)",
+      "last_name": "Прізвище",
+      "date_of_birth": "Дата народження"
+    },
+    "password_tab": {
+      "tab_name": "Змінити пароль",
+      "current_password": "Поточний пароль",
+      "new_password": "Новий пароль",
+      "confirm_password": "Підтвердити новий пароль"
+    },
+    "actions": {
+      "save": "зберегти"
+    }
+  },
+  "photo": {
+    "take": "Сфотографувати",
+    "max_size": "Максимальний розмір файлу:"
+  },
+  "header": {
+    "profile": "Профіль",
+    "log_out": "Вийти"
+  }
+}

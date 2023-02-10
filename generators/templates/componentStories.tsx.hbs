@@ -1,0 +1,23 @@
+// Button.stories.ts|tsx
+
+import React from 'react';
+
+import { ComponentMeta, ComponentStory } from '@storybook/react';
+
+import {{properCase name}} from './{{properCase name}}';
+
+export default {
+  title: '{{properCase name}}',
+  component: {{properCase name}},
+} as ComponentMeta<typeof {{properCase name}}>;
+
+const Template: ComponentStory<typeof {{properCase name}}> = (args) => <{{properCase name}} {...args} />;
+
+export const Primary = Template.bind({});
+Primary.args = { backgroundColor: '#ff0', label: '{{properCase name}}' };
+
+export const Secondary = Template.bind({});
+Secondary.args = { ...Primary.args, label: '😄👍😍💯' };
+
+export const Tertiary = Template.bind({});
+Tertiary.args = { ...Primary.args, label: '📚📕📈🤓' };

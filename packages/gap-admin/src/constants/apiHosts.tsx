@@ -1,0 +1,5 @@
+export default {
+  CONSULTANT_URL: process.env.REACT_APP_API_CONSULTANT,
+  COMPLIANCE_URL: process.env.REACT_APP_API_COMPLIANCE,
+  USER_URL: process.env.REACT_APP_API_USER,
+};

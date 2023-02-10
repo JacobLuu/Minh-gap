@@ -1,0 +1,255 @@
+{
+  "common": {
+    "validation": {
+      "email": {
+        "required": "Имейлът е задължително поле",
+        "invalid_format": "Това поле трябва да съдържа валиден имейл адрес"
+      },
+      "password": {
+        "min": "Най-малко 6 знака",
+        "required": "Паролата е задължително поле",
+        "capital_required": "Поне 1 главен знак",
+        "number_required": "Поне 1 номер",
+        "wrong_password": "Имейлът или паролата са грешни. "
+      },
+      "repeat_password": {
+        "not_match": "Вашите пароли не съвпадат. "
+      },
+      "title": {
+        "required": "Заглавието е задължително поле"
+      },
+      "firstName": {
+        "required": "Името е задължително поле"
+      },
+      "middleName": {
+        "required": "Бащиното име е задължително поле"
+      },
+      "lastName": {
+        "required": "Фамилията е задължително поле"
+      },
+      "phoneNumber": {
+        "required": "Телефонният номер е задължително поле",
+        "invalid_format": "Невалиден телефонен номер"
+      },
+      "contactDate": {
+        "required": "Датата за контакт е задължително поле"
+      },
+      "contactTime": {
+        "required": "Времето за контакт е задължително поле"
+      },
+      "rightToWorkStatus": {
+        "required": "Статутът на право на работа е задължително поле"
+      },
+      "relationship": {
+        "required": "Връзката е задължително поле"
+      },
+      "journeyType": {
+        "required": "Статутът на право на работа е задължително поле"
+      }
+    },
+    "select_language": {
+      "header": "Изберете предпочитания от вас език",
+      "header_short": "Текущ език",
+      "label": "Изберете език"
+    }
+  },
+  "welcome": {
+    "welcome_header": "Добре дошли в gap personal",
+    "welcome_description": "Общност от полезни, опитни хора, които чакат да ви намерят идеалната работа.\n ",
+    "agreement": {
+      "description": "За да стартирате gap personal Registration Portal, моля, първо\n ",
+      "checkbox_full_condition": "Съгласен съм с пропуските в персонала",
+      "full_condition": "Пълни условия",
+      "checkbox_full_term_of_use": "Съгласен съм с пропуските в персонала",
+      "term_of_use": "Условия за ползване"
+    },
+    "btn_get_started": "Първи стъпки"
+  },
+  "login": {
+    "header": "Влизам",
+    "welcome_message": "Добре дошли отново в gap personal. ",
+    "form": {
+      "email": {
+        "label": "електронна поща",
+        "placeholder": "Въведете своя имейл"
+      },
+      "password": {
+        "label": "Парола",
+        "placeholder": "Въведете паролата си"
+      },
+      "button_login": "Влизам"
+    },
+    "forgot_password_question": "Забравена парола?",
+    "dont_have_account_question": "нямате акаунт?",
+    "create_new_account": "Създайте нов"
+  },
+  "create_account": {
+    "benefits": {
+      "benefit1": "Иновативен",
+      "benefit2": "Консултативен",
+      "benefit3": "Отговорен",
+      "benefit4": "истински",
+      "benefit5": "Етичен"
+    },
+    "header": "Първо създайте акаунт",
+    "sub_header": "за да започнете вашето пътуване",
+    "form": {
+      "email": {
+        "label": "електронна поща",
+        "placeholder": "Въведете своя имейл"
+      },
+      "password": {
+        "label": "Парола",
+        "placeholder": "Въведете паролата си"
+      },
+      "repeat_password": {
+        "label": "потвърди парола",
+        "placeholder": "Въведете вашата парола за потвърждение"
+      },
+      "button_create_account": "Създай профил"
+    },
+    "agreement": {
+      "description": "За да стартирате gap personal Registration Portal, моля, първо\n ",
+      "checkbox_full_condition": "Съгласен съм с пропуските в персонала",
+      "full_condition": "Пълни условия",
+      "checkbox_full_term_of_use": "Съгласен съм с пропуските в персонала",
+      "term_of_use": "Условия за ползване"
+    },
+    "have_account_question": "Имате ли акаунт?",
+    "login_message": "Влез Сега"
+  },
+  "forgot_password": {
+    "header": "Забравена парола?",
+    "sub_header": "Въведете имейла, свързан с вашия акаунт, и ние ще ви изпратим имейл с инструкции за възстановяване на паролата ви",
+    "form": {
+      "email": {
+        "label": "електронна поща",
+        "placeholder": "Въведете своя имейл"
+      },
+      "button_submit": "Изпратете инструкция"
+    },
+    "remember_password_question": "Помните ли паролата си?",
+    "login_now_message": "Влез Сега",
+    "dialog": {
+      "header": "Проверявате електронната си поща",
+      "description": "Изпратихме инструкции за нулиране на паролата на вашия имейл"
+    }
+  },
+  "reset_password": {
+    "header": "Създайте нова парола",
+    "sub_header": "Вашата нова парола трябва да е различна от предишната парола.",
+    "form": {
+      "password": {
+        "label": "Нова парола",
+        "placeholder": "Въведете паролата си"
+      },
+      "repeat_password": {
+        "label": "Потвърди парола",
+        "placeholder": "Въведете вашата парола за потвърждение"
+      },
+      "button_reset_password": "Нулирайте паролата"
+    },
+    "dialog": {
+      "title": "Честито",
+      "description": "Вие успешно нулирате паролата си"
+    },
+    "remember_password_question": "Помните ли паролата си?",
+    "login_message": "Влез Сега"
+  },
+  "get_started": {
+    "header": "Първи стъпки",
+    "personal_details": {
+      "header": {
+        "title": "Лична информация",
+        "subtitle": "Предоставете вашата лична информация"
+      },
+      "body": {
+        "title": {
+          "label": "Заглавие",
+          "placeholder": "Изберете заглавие"
+        },
+        "first_name": {
+          "label": "Първо име",
+          "placeholder": "Първо име"
+        },
+        "middle_name": {
+          "label": "Бащино име (по избор)",
+          "placeholder": "Презиме"
+        },
+        "last_name": {
+          "label": "Фамилия",
+          "placeholder": "Фамилия"
+        },
+        "email": {
+          "label": "електронна поща",
+          "placeholder": "напишете своя емайл адрес"
+        },
+        "phone_number": {
+          "label": "Телефонен номер",
+          "placeholder": "Въведете Вашият телефонен номер"
+        },
+        "date_of_birth": {
+          "label": "Дата на раждане",
+          "placeholder": "--/--/----"
+        },
+        "contact_dates": {
+          "label": "Дата на контакт",
+          "placeholder": "Изберете дата за контакт"
+        },
+        "contact_times": {
+          "label": "Време за контакт",
+          "placeholder": "Изберете време за контакт"
+        }
+      }
+    },
+    "contact_time": {
+      "header": {
+        "title": "Кога можем да се свържем с вас?",
+        "subtitle": "Уведомете ни кога можем да се свържем с вас"
+      }
+    },
+    "right_to_work": {
+      "header": {
+        "title": "Право на трудов статут",
+        "subtitle": "Посочете статуса на вашето право на работа, за да бъде потвърдено чрез пропуск"
+      }
+    },
+    "form": {
+      "button_submit": "Изпратете информация"
+    },
+    "dialog": {
+      "header": "Взех го благодаря! ",
+      "description": "Ако имате малко време сега, моля, продължете регистрацията си, за да имаме всичко необходимо, за да ви помогнем да започнете новата си работа възможно най-скоро. ",
+      "button_stay": "Направи го по-късно",
+      "button_continue": "Продължете процеса"
+    }
+  },
+  "profile": {
+    "breadcrumb": "Обратно към портала",
+    "information_tab": {
+      "tab_name": "Основна информация",
+      "title": "Заглавие",
+      "first_name": "Първо име",
+      "middle_name": "Бащино име (по избор)",
+      "last_name": "Фамилия",
+      "date_of_birth": "Дата на раждане"
+    },
+    "password_tab": {
+      "tab_name": "Промяна на паролата",
+      "current_password": "Настояща парола",
+      "new_password": "Нова парола",
+      "confirm_password": "Потвърждение на новата парола"
+    },
+    "actions": {
+      "save": "Запазване"
+    }
+  },
+  "photo": {
+    "take": "Правя снимка",
+    "max_size": "Максимален размер на файла:"
+  },
+  "header": {
+    "profile": "Профил",
+    "log_out": "Излез от профила си"
+  }
+}

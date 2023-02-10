@@ -1,0 +1,300 @@
+{
+  "sidebar": {
+    "personal_details": "Dane osobowe",
+    "skills_and_qualifications": "Umiejętności",
+    "employment_history": "Historia zatrudnienia",
+    "emergency_contact": "Kontakt w nagłych wypadkach",
+    "address_details": "Szczegóły adresu",
+    "personal_protective_equipment": "Sprzęt ochrony osobistej",
+    "right_to_work_proofs": "Dowody prawa do pracy",
+    "financial_information": "Informacje finansowe",
+    "declarations": "Deklaracje",
+    "contracts": "Kontrakty",
+    "skill_qualifications": "Umiejętności i kwalifikacje"
+  },
+  "common": {
+    "save_progress": "Zapisz postęp",
+    "submit": "Składać",
+    "confirm_and_open": "Potwierdzać",
+    "close": "Blisko",
+    "save_success": "Zapisz pomyślnie.",
+    "submit_success": "Prześlij pomyślnie.",
+    "upload_success": "Prześlij pomyślnie.",
+    "signature_empty": "Podpis nie może być pusty.",
+    "check": "Sprawdzać",
+    "rejected": "Odrzucony",
+    "view_file": "Zobaczyć plik",
+    "delete_file": "Usunąć plik",
+    "confirm_and_sign": "Potwierdź i podpisz",
+    "sign_success": "Podpisz pomyślnie."
+  },
+  "personal_details": {
+    "header": {
+      "title": "Dane osobowe",
+      "subtitle": "Przejrzyj swoje dane osobowe"
+    },
+    "body": {
+      "title": "Tytuł",
+      "first_name": "Imię",
+      "middle_name": "Drugie imię (opcjonalnie)",
+      "last_name": "Nazwisko",
+      "email": "E-mail",
+      "phone_number": "Numer telefonu",
+      "date_of_birth": "Data urodzenia"
+    },
+    "image_upload": {
+      "title": "Prześlij obraz",
+      "subtitle": "Poinformuj nas o swoim wyglądzie"
+    }
+  },
+  "skills_and_qualifications": {
+    "header": {
+      "title": "Prześlij swoje CV",
+      "subtitle": "Chcemy poznać Twoje doświadczenie zawodowe"
+    },
+    "body": {
+      "title": "Umiejętności",
+      "subtitle": "Chcemy poznać Twoje umiejętności i kwalifikacje"
+    }
+  },
+  "employment_history": {
+    "header": {
+      "title": "Historia zatrudnienia",
+      "subtitle": "Podaj informacje o swojej historii zatrudnienia",
+      "add_button": "Dodaj nowy rekord"
+    },
+    "body": {
+      "employment": "Zatrudnienie",
+      "education": "Edukacja",
+      "others": "Inni",
+      "full_time": "Pełny etat",
+      "part_time": "W niepełnym wymiarze godzin",
+      "edit": "Edytować"
+    },
+    "employment_history_modal": {
+      "header": {
+        "title_add": "Nowy rekord",
+        "title_update": "Edytuj rekord"
+      },
+      "body": {
+        "type_of_work": "Rodzaj pracy",
+        "company_name": "Nazwa firmy",
+        "institution_name": "Nazwa instytucji",
+        "title_name": "Tytuł",
+        "job_title": "Stanowisko",
+        "start_date": "Data rozpoczęcia",
+        "end_date": "Data zakonczenia",
+        "job_description": "Opis"
+      },
+      "actions": {
+        "close": "Blisko",
+        "save": "Zapisz rekord",
+        "delete": "Usuń ten rekord"
+      }
+    }
+  },
+  "emergency_contact": {
+    "header": {
+      "title": "Kontakt w nagłych wypadkach",
+      "subtitle": "Podaj swoje dane kontaktowe w nagłych wypadkach"
+    }
+  },
+  "financial_information": {
+    "header": {
+      "title": "Informacje finansowe",
+      "subtitle": "Podaj swoje informacje finansowe"
+    },
+    "body": {
+      "have_uk_bank_account": "Czy masz konto bankowe w Wielkiej Brytanii?",
+      "bank_name": "nazwę banku",
+      "bank_name_placeholder": "Wpisz nazwę banku",
+      "account_number": "Numer konta",
+      "account_number_placeholder": "Wprowadź numer konta",
+      "account_name": "Nazwa konta",
+      "account_name_placeholder": "Wprowadź nazwę konta",
+      "bank_sort_code": "Numer rozliczeniowy banku",
+      "bank_sort_code_placeholder": "Wprowadź numer rozliczeniowy banku",
+      "bank_account_verify_success": "Pomyślna weryfikacja konta bankowego!",
+      "no_uk_bank_account": {
+        "title_1": "Proszę",
+        "title_2": "Kliknij tutaj",
+        "title_3": " założyć konto bankowe w Onepay.",
+        "title_4": "Gdy Twoje konto bankowe będzie gotowe, wybierz „Tak” i kontynuuj wypełnianie informacji finansowych."
+      }
+    }
+  },
+  "personal_protective_equipment": {
+    "header": {
+      "title": "Sprzęt ochrony osobistej",
+      "subtitle": "Podaj informacje o swoich środkach ochrony osobistej"
+    },
+    "body": {
+      "question_label_1": "Czy masz własną kamizelkę lub kurtkę Hi-Vis?",
+      "question_label_2": "Czy masz własne buty ochronne?",
+      "question_label_3": "Wybierz swój rozmiar buta"
+    }
+  },
+  "declarations": {
+    "header": {
+      "title": "Deklaracje",
+      "subtitle": "Od dawna wiadomo, że czytelnik będzie rozpraszany przez czytelną treść"
+    },
+    "body": {
+      "title_1": "Zdrowie",
+      "body_1": "Poniższe pytania dotyczące zdrowia i niepełnosprawności są zadawane w celu poznania Twoich potrzeb w zakresie rozsądnych dostosowań, które należy wprowadzić, aby uzyskać dostęp do naszej usługi rekrutacyjnej oraz Twoich potrzeb w celu wykonywania poszukiwanej pracy lub stanowiska.",
+      "label_1": "• Twoje zdrowie",
+      "question_1": "Czy masz jakiekolwiek problemy zdrowotne lub istotną niepełnosprawność, która może utrudniać Ci wykonywanie funkcji niezbędnych do pełnienia funkcji, o którą się ubiegasz?",
+      "title_2": "Usługa ujawniania i blokowania",
+      "body_2_1": "Poprawki do rozporządzenia w sprawie wyjątków z 1975 r. (2013 r.) stanowią, że niektóre zatarte wyroki skazujące i pouczenia są „chronione” i nie podlegają ujawnieniu pracodawcom i nie mogą być brane pod uwagę. ",
+      "body_2_2": "Z zastrzeżeniem zasad filtrowania, niezgłoszenie wyroku skazującego, który musisz ujawnić, może wymagać od nas wykluczenia cię z naszego rejestru lub przerwania zadania, jeśli przestępstwo nie zostało zadeklarowane, ale później wyjdzie na jaw.",
+      "label_2_1": "• Skazania, ostrzeżenia, nagany lub ostateczne ostrzeżenia?",
+      "question_2_1": "Czy masz jakieś wyroki skazujące, pouczenia, nagany lub ostateczne ostrzeżenia, które nie są „chronione” zgodnie z definicją zawartą w Ustawie o rehabilitacji przestępców z 1974 r.",
+      "label_2_2": "• Umowa DBS Sprawdź",
+      "question_2_2": "Jeśli jest to wymagane dla tej roli, czy zgadzasz się na wypełnienie standardowego lub rozszerzonego testu DBS?",
+      "title_3": "Prawa równych szans",
+      "body_3_1": "Polityką GAP Personel jest rekrutacja, zatrudnianie i awansowanie ludzi na podstawie ich przydatności do wykonywanej pracy.  ",
+      "body_3_2": "**Informacje te będą wykorzystywane wyłącznie do celów monitoringu**.",
+      "body_3_3": "Z zastrzeżeniem zasad filtrowania, niezgłoszenie wyroku skazującego, który musisz ujawnić, może wymagać od nas wykluczenia cię z naszego rejestru lub przerwania zadania, jeśli przestępstwo nie zostało zadeklarowane, ale później wyjdzie na jaw.",
+      "label_3_1": "• Płeć *",
+      "question_3_1": "Jaka jest twoja płeć?",
+      "label_3_2": "• Narodowość *",
+      "question_3_2": "Jaka jest Twoja narodowość?",
+      "label_3_3": "• Pochodzenie etniczne *",
+      "question_3_3": "Jakie jest twoje pochodzenie etniczne?",
+      "title_4": "Zapłata",
+      "body_4": "Poniższe informacje są wymagane wyłącznie w celu przetwarzania Twoich wynagrodzeń. ",
+      "label_4_1": "• Kredyt studencki",
+      "question_4_1": "Czy masz warunkową pożyczkę studencką do spłaty?",
+      "label_4_2": "• Oświadczenie o zarobkach",
+      "question_4_2": "Proszę wypełnić sekcję deklaracji początkowej, podając swoją obecną sytuację, wskazując, które z trzech stwierdzeń dotyczy Ciebie. ",
+      "answer_4_2_1": "To moja pierwsza praca od 6 kwietnia i nie otrzymuję podlegającego opodatkowaniu zasiłku dla osób poszukujących pracy, zasiłku dla bezrobotnych, zasiłku z tytułu niezdolności do pracy, emerytury państwowej ani zawodowej.",
+      "answer_4_2_2": "Obecnie jest to moja jedyna praca, ale od 6 kwietnia mam inną pracę lub otrzymuję podlegający opodatkowaniu zasiłek dla osób poszukujących pracy, zasiłek dla bezrobotnych lub zasiłek z tytułu niezdolności do pracy. ",
+      "answer_4_2_3": "Oprócz nowej pracy mam inną pracę lub otrzymuję emeryturę państwową lub zawodową.",
+      "title_5": "Umowy",
+      "label_5_1": "• Regulamin czasowy — 48-godzinna rezygnacja",
+      "question_5_1": "Przepisy dotyczące czasu pracy z 1998 r. (z późniejszymi zmianami) stanowią, że Pracownicy Tymczasowi nie będą pracować nad Zleceniem u Klienta przekraczającym tydzień roboczy (48 godzin), chyba że uzgodnią na piśmie, że to ograniczenie nie ma zastosowania. ",
+      "label_5_2": "• Zdrowie",
+      "question_5_2": "Zgadzasz się, że informacje podane w części dotyczącej zdrowia i niepełnosprawności w tej aplikacji są dokładne. ",
+      "label_5_3": "• DBS",
+      "question_5_3": "Zgadzasz się, że informacje podane w odniesieniu do sekcji DBS tej aplikacji są dokładne. ",
+      "label_5_4": "• Ochrona danych",
+      "question_5_4": "Przepisy dotyczące czasu pracy z 1998 r. (z późniejszymi zmianami) stanowią, że Pracownicy Tymczasowi nie będą pracować nad Zleceniem u Klienta przekraczającym tydzień roboczy (48 godzin), chyba że uzgodnią na piśmie, że to ograniczenie nie ma zastosowania. ",
+      "label_5_5": "• Marketing",
+      "question_5_5": "Wyrażam zgodę na wykorzystywanie moich danych kontaktowych przez personel GAP do celów usług marketingowych, dodatkowych do rekrutacji i szkoleń, które mogą być oferowane przez personel GAP, ich spółki zależne i/lub dostawców zewnętrznych. ",
+      "title_6": "Umowa ogólna",
+      "body_6": "Poniższe informacje są wymagane wyłącznie w celu przetwarzania Twoich wynagrodzeń. ",
+      "answer_6_1": "Potwierdzam, że informacje podane w niniejszym dokumencie są zgodne z prawdą.",
+      "answer_6_2": "Rozumiem, że wprowadzające w błąd lub fałszywe oświadczenie lub niezadowalające referencje mogą być przyczyną odrzucenia lub, w przypadku zatrudnienia, zwolnienia.",
+      "answer_6_3": "Zamierzam związać się tymi umowami."
+    }
+  },
+  "contracts": {
+    "header": {
+      "title": "Kontrakty",
+      "subtitle": "Twoje umowy będą tutaj przechowywane"
+    },
+    "body": {
+      "title": "Kontrakt",
+      "key_info_document": "Dokument zawierający kluczowe informacje",
+      "work_contract": "Umowa o świadczenie usług i warunki współpracy",
+      "medical_contract": "Rozszerzony kwestionariusz medyczny",
+      "key_info_document_confirmation": "Otrzymałem dokument zawierający kluczowe informacje.",
+      "work_contract_confirmation": "Przeczytałem i zgadzam się z Umową o świadczenie usług i Warunkami zaangażowania.",
+      "medical_contract_confirmation": "Przeczytałem i zaakceptowałem Rozszerzony kwestionariusz medyczny",
+      "view": "Pogląd",
+      "sign": "Podpisać",
+      "key_information_document": "Dokument zawierający kluczowe informacje",
+      "key_information_document_confirmation": "Otrzymałem dokument zawierający kluczowe informacje.",
+      "work_contract_signed": "Umowa na usługi i warunki współpracy podpisane!",
+      "medical_contract_signed": "Rozszerzony Kwestionariusz Medyczny podpisany!"
+    },
+    "modal": {
+      "content": {
+        "key_information_document": "Ten dokument zawiera kluczowe informacje na temat Twoich relacji z nami, w tym szczegółowe informacje na temat wynagrodzenia, uprawnień do urlopu i innych świadczeń.",
+        "work_contract": "Ten dokument zawiera ważne informacje na temat pracy dla personelu gap i określa oczekiwania podczas pracy na zlecenie.",
+        "medical_contract": "Pytania w tym formularzu są zadawane w celu poznania Twoich potrzeb i ewentualnej uzasadnionej potrzeby wykonywania poszukiwanej pracy lub stanowiska."
+      }
+    },
+    "signature_modal": {
+      "header": {
+        "title": "Podpis",
+        "draw": "Rysować",
+        "upload": "Wgrywać"
+      },
+      "body": {
+        "title": "Podpisując tę ​​aplikację podpisem elektronicznym, zgadzam się, że podpis będzie tak samo ważny jak podpis odręczny w zakresie dozwolonym przez lokalne prawo."
+      },
+      "actions": {
+        "cancel": "Anulować",
+        "accept": "Zaakceptować"
+      }
+    }
+  },
+  "address_details": {
+    "header": {
+      "title": "Adres zamieszkania",
+      "subtitle": "Podaj swoje dane adresowe w Wielkiej Brytanii",
+      "subtitle_placeholder": "Wpisz kod pocztowy lub adres"
+    },
+    "file_header": {
+      "title": "Prześlij potwierdzenie adresu",
+      "subtitle": "Podaj dowody adresu"
+    },
+    "body": {
+      "postcode": "Kod pocztowy",
+      "postcode_placeholder": "Wpisz kod pocztowy",
+      "enable_manual_input": "Nie możesz znaleźć swojego adresu za pomocą kodu pocztowego? Wprowadź adres ręcznie",
+      "road": "Droga",
+      "road_placeholder": "Wprowadź drogę",
+      "county_region": "Hrabstwo/Region",
+      "county_region_placeholder": "Wpisz hrabstwo/region",
+      "house_number": "Numer domu / mieszkania",
+      "house_number_placeholder": "Podaj numer domu/mieszkania",
+      "upload_files": "Przesłane pliki",
+      "town_city": "Miasto/Miasto",
+      "town_city_placeholder": "Wpisz miasto/miasto",
+      "county": "Hrabstwo",
+      "county_placeholder": "Wpisz hrabstwo"
+    }
+  },
+  "header": {
+    "advertisement": "Informacje o reklamie",
+    "job_applied": "Zastosowana praca:",
+    "job_id": "Identyfikator zadania:",
+    "branch_location": "Lokalizacja oddziału:"
+  },
+  "right_to_work": {
+    "header": {
+      "title": "Przedstaw dowody potwierdzające prawo do pracy",
+      "share_code_subtitle": "Podaj swój numer kodu akcji",
+      "other_subtitle": "W przypadku rozmowy osobistej prosimy o dostarczenie tych dokumentów pracodawcy"
+    },
+    "body": {
+      "share_code": "Udostępnij kod",
+      "fetching_share_code": "Pobieranie kodu udostępniania...",
+      "share_code_found": "Znaleziono kod udostępniania, oczekuje na weryfikację konsultanta",
+      "approved": "Zatwierdzony",
+      "photo": {
+        "title": "Zrób swoje zdjęcie",
+        "subtitle_1": "Użyj urządzenia z aparatem, aby zrobić zdjęcie.",
+        "subtitle_2": "Jeśli nie możesz zrobić zdjęcia, odwiedź oddział w celu uzyskania dalszej pomocy.",
+        "cant_take": "Nie można zrobić zdjęcia"
+      },
+      "additional_document": {
+        "title": "Prześlij dodatkowe dokumenty",
+        "subtitle": "Podaj swoje dodatkowe dokumenty"
+      },
+      "additional_info": {
+        "title": "Wymagane więcej informacji",
+        "subtitle": "Podaj swój numer kodu akcji"
+      },
+      "passport": {
+        "title": "Zeskanuj swój paszport",
+        "subtitle_1": "Proszę podać swoje zdjęcie paszportowe.",
+        "subtitle_2": "Jeśli nie możesz zrobić zdjęcia, odwiedź oddział w celu uzyskania dalszej pomocy."
+      },
+      "birth_certificate": "Akt urodzenia",
+      "insurance_number": "Narodowy numer ubezpieczenia"
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "common": {
+    "validation": {
+      "email": {
+        "required": "El. pašto adresas yra privalomas laukas",
+        "invalid_format": "Šiame lauke turi būti nurodytas galiojantis el. pašto adresas"
+      },
+      "password": {
+        "min": "Bent 6 simboliai",
+        "required": "Slaptažodis yra privalomas laukas",
+        "capital_required": "Bent 1 didžioji raidė",
+        "number_required": "Bent 1 skaičius",
+        "wrong_password": "El. pašto adresas arba slaptažodis neteisingas. "
+      },
+      "repeat_password": {
+        "not_match": "Jūsų slaptažodžiai nesutampa. "
+      },
+      "title": {
+        "required": "Pavadinimas yra privalomas laukas"
+      },
+      "firstName": {
+        "required": "Vardas yra privalomas laukas"
+      },
+      "middleName": {
+        "required": "Antrasis vardas yra privalomas laukas"
+      },
+      "lastName": {
+        "required": "Pavardė yra privalomas laukas"
+      },
+      "phoneNumber": {
+        "required": "Telefono numeris yra privalomas laukas",
+        "invalid_format": "Neteisingas telefono numeris"
+      },
+      "contactDate": {
+        "required": "Susisiekimo data yra privalomas laukas"
+      },
+      "contactTime": {
+        "required": "Kontaktinis laikas yra privalomas laukas"
+      },
+      "rightToWorkStatus": {
+        "required": "Teisės į darbą statusas yra privalomas laukas"
+      },
+      "relationship": {
+        "required": "Santykiai yra privalomas laukas"
+      },
+      "journeyType": {
+        "required": "Teisės į darbą statusas yra privalomas laukas"
+      }
+    },
+    "select_language": {
+      "header": "Pasirinkite pageidaujamą kalbą",
+      "header_short": "Dabartinė kalba",
+      "label": "Pasirinkite kalbą"
+    }
+  },
+  "welcome": {
+    "welcome_header": "Sveiki atvykę į gap personalą",
+    "welcome_description": "Paslaugių, patyrusių žmonių bendruomenė laukia, kol suras jums tobulą darbą.\n ",
+    "agreement": {
+      "description": "Norėdami pradėti laisvo personalo registracijos portalą, pirmiausia prašome\n ",
+      "checkbox_full_condition": "Sutinku su gap personalu",
+      "full_condition": "Pilnos sąlygos",
+      "checkbox_full_term_of_use": "Sutinku su gap personalu",
+      "term_of_use": "Naudojimo sąlygos"
+    },
+    "btn_get_started": "Pradėti"
+  },
+  "login": {
+    "header": "Prisijungti",
+    "welcome_message": "Sveiki sugrįžę į gap personalą. ",
+    "form": {
+      "email": {
+        "label": "El. paštas",
+        "placeholder": "Įrašykite savo el. paštą"
+      },
+      "password": {
+        "label": "Slaptažodis",
+        "placeholder": "Įveskite savo slaptažodį"
+      },
+      "button_login": "Prisijungti"
+    },
+    "forgot_password_question": "Pamiršai slaptažodį?",
+    "dont_have_account_question": "Neturite paskyros?",
+    "create_new_account": "Sukurti naują"
+  },
+  "create_account": {
+    "benefits": {
+      "benefit1": "Inovatyvus",
+      "benefit2": "Konsultacinis",
+      "benefit3": "Atsakingas",
+      "benefit4": "Tikras",
+      "benefit5": "Etiškas"
+    },
+    "header": "Pirmiausia susikurkite paskyrą",
+    "sub_header": "pradėti savo kelionę",
+    "form": {
+      "email": {
+        "label": "El. paštas",
+        "placeholder": "Įrašykite savo el. paštą"
+      },
+      "password": {
+        "label": "Slaptažodis",
+        "placeholder": "Įveskite savo slaptažodį"
+      },
+      "repeat_password": {
+        "label": "Patvirtinti slaptažodį",
+        "placeholder": "Įveskite patvirtinimo slaptažodį"
+      },
+      "button_create_account": "Sukurti paskyrą"
+    },
+    "agreement": {
+      "description": "Norėdami pradėti laisvo personalo registracijos portalą, pirmiausia prašome\n ",
+      "checkbox_full_condition": "Sutinku su gap personalu",
+      "full_condition": "Pilnos sąlygos",
+      "checkbox_full_term_of_use": "Sutinku su gap personalu",
+      "term_of_use": "Naudojimo sąlygos"
+    },
+    "have_account_question": "Turite paskyrą?",
+    "login_message": "Prisijunk dabar"
+  },
+  "forgot_password": {
+    "header": "Pamiršai slaptažodį?",
+    "sub_header": "Įveskite su paskyra susietą el. pašto adresą ir mes atsiųsime jums el. laišką su instrukcijomis, kaip iš naujo nustatyti slaptažodį",
+    "form": {
+      "email": {
+        "label": "El. paštas",
+        "placeholder": "Įrašykite savo el. paštą"
+      },
+      "button_submit": "Siųsti instrukciją"
+    },
+    "remember_password_question": "Prisiminti slaptažodį?",
+    "login_now_message": "Prisijunk dabar",
+    "dialog": {
+      "header": "Patikrink savo paštą",
+      "description": "Išsiuntėme slaptažodžio nustatymo iš naujo instrukcijas jūsų el. paštu"
+    }
+  },
+  "reset_password": {
+    "header": "Sukurti naują slaptažodį",
+    "sub_header": "Jūsų naujas slaptažodis turi skirtis nuo ankstesnio slaptažodžio.",
+    "form": {
+      "password": {
+        "label": "Naujas Slaptažodis",
+        "placeholder": "Įveskite savo slaptažodį"
+      },
+      "repeat_password": {
+        "label": "Patvirtinti slaptažodį",
+        "placeholder": "Įveskite patvirtinimo slaptažodį"
+      },
+      "button_reset_password": "Atstatyti slaptažodį"
+    },
+    "dialog": {
+      "title": "Sveikinu",
+      "description": "Sėkmingai iš naujo nustatėte slaptažodį"
+    },
+    "remember_password_question": "Prisiminti slaptažodį?",
+    "login_message": "Prisijunk dabar"
+  },
+  "get_started": {
+    "header": "Pradėti",
+    "personal_details": {
+      "header": {
+        "title": "Asmeninė informacija",
+        "subtitle": "Pateikite savo asmeninę informaciją"
+      },
+      "body": {
+        "title": {
+          "label": "Pavadinimas",
+          "placeholder": "Pasirinkite pavadinimą"
+        },
+        "first_name": {
+          "label": "Pirmas vardas",
+          "placeholder": "Pirmas vardas"
+        },
+        "middle_name": {
+          "label": "Antrasis vardas (neprivaloma)",
+          "placeholder": "Antras vardas"
+        },
+        "last_name": {
+          "label": "Pavardė",
+          "placeholder": "Pavardė"
+        },
+        "email": {
+          "label": "El. paštas",
+          "placeholder": "Įveskite savo elektroninio pašto adresą"
+        },
+        "phone_number": {
+          "label": "Telefono numeris",
+          "placeholder": "Įveskite savo telefono numerį"
+        },
+        "date_of_birth": {
+          "label": "Gimimo data",
+          "placeholder": "--/--/----"
+        },
+        "contact_dates": {
+          "label": "Susisiekimo data",
+          "placeholder": "Pasirinkite kontakto datą"
+        },
+        "contact_times": {
+          "label": "Susisiekimo laikas",
+          "placeholder": "Pasirinkite kontakto laiką"
+        }
+      }
+    },
+    "contact_time": {
+      "header": {
+        "title": "Kada galime su jumis susisiekti?",
+        "subtitle": "Praneškite mums, kada galėsime su jumis susisiekti"
+      }
+    },
+    "right_to_work": {
+      "header": {
+        "title": "Teisė į darbo statusą",
+        "subtitle": "Pateikite savo teisės į darbą statusą, kad būtų patvirtintas tarpas"
+      }
+    },
+    "form": {
+      "button_submit": "Pateikti informaciją"
+    },
+    "dialog": {
+      "header": "Supratau, ačiū! ",
+      "description": "Jei dabar turite šiek tiek laiko, tęskite registraciją, kad turėtume viską, ko reikia, kad padėtume jums kuo greičiau pradėti naują darbą. ",
+      "button_stay": "Padarykite tai vėliau",
+      "button_continue": "Tęsti procesą"
+    }
+  },
+  "profile": {
+    "breadcrumb": "Grįžti į portalą",
+    "information_tab": {
+      "tab_name": "Pagrindinė informacija",
+      "title": "Pavadinimas",
+      "first_name": "Pirmas vardas",
+      "middle_name": "Antrasis vardas (neprivaloma)",
+      "last_name": "Pavardė",
+      "date_of_birth": "Gimimo data"
+    },
+    "password_tab": {
+      "tab_name": "Pakeisti slaptažodį",
+      "current_password": "Dabartinis slaptažodis",
+      "new_password": "Naujas Slaptažodis",
+      "confirm_password": "Patvirtinti naują slaptažodį"
+    },
+    "actions": {
+      "save": "Sutaupyti"
+    }
+  },
+  "photo": {
+    "take": "Nufotografuoti",
+    "max_size": "Maksimalus failo dydis:"
+  },
+  "header": {
+    "profile": "Profilis",
+    "log_out": "Atsijungti"
+  }
+}

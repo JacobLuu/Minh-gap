@@ -1,0 +1,18 @@
+{
+  "common": {
+    "required": "Šis lauks ir obligāts.",
+    "many_required": "Šie lauki ir obligāti.",
+    "max_characters": "Šis lauks nedrīkst būt garāks par {{max}} rakstzīmes.",
+    "end_date": "Beigu datumam ir jābūt pēc sākuma datuma.",
+    "phone_number": "Tālruņa numurs nav derīgs.",
+    "email": "E-pasts nav derīgs.",
+    "password": "Parole nav derīga.",
+    "repeat_password": "Jūsu paroles nesakrīt. Lūdzu mēģiniet vēlreiz.",
+    "share_code": {
+      "expired": "Kopīgošanas koda derīguma termiņš ir beidzies. Lūdzu, atkārtoti ģenerējiet kopīgošanas kodu un mēģiniet vēlreiz"
+    },
+    "file": {
+      "max_size": "Fails ir pārāk liels."
+    }
+  }
+}

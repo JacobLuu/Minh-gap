@@ -1,0 +1,28 @@
+const clientPath = {
+  LOGIN: '/login',
+  SIGNUP: '/signup',
+  REGISTER: '/register',
+  FORGOT_PASSWORD: '/forgot-password',
+  RESET_PASSWORD: '/reset-password',
+  ADVERT_RESPONSES: '/advert-responses',
+  ADVERT_RESPONSES_ID: '/advert-responses/:id',
+  BRANCH_CANDIDATES: '/branch-candidates',
+  BRANCH_CANDIDATES_INTERVIEW: '/branch-candidates/:id/interview',
+  BRANCH_CANDIDATES_ID: '/branch-candidates/:id',
+  EMAIL_TEMPLATES: '/email-templates',
+  EMAIL_TEMPLATE: '/email-templates/:id',
+  RIGHT_TO_WORK_HUB: '/right-to-work-hub',
+  CANDIDATES: '/candidates',
+  CALENDAR: '/calendar',
+  ANALYTICS: '/analytics',
+  INTERVIEW: '/interview',
+  INTERVIEW_ID: '/interview/:id',
+  ROOT: '/',
+  ESCALATED_ISSUES: '/escalated-issues',
+  ESCALATED_ISSUE: '/escalated-issues/:id',
+  BRANCHES: '/branches',
+  BRANCHES_NEW: '/branches/new',
+  BRANCHES_ID: '/branches/:id',
+};
+
+export default clientPath;

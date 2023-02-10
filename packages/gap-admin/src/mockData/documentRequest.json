@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "type": "Key Information Document",
+    "document_name": "Key Information Document",
+    "status": "Sent",
+    "update_at": "30/07/2022"
+  },
+  {
+    "id": 2,
+    "type": "Contract Of Work",
+    "document_name": "Contract Of Work",
+    "status": "Awaiting signature",
+    "update_at": "30/07/2022"
+  },
+  {
+    "id": 3,
+    "type": "Medical Contract",
+    "document_name": "Medical Contract",
+    "status": "Not sent",
+    "update_at": "30/07/2022"
+  }
+]

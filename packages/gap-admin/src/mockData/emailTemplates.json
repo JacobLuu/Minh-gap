@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "template_name": "Template 1",
+    "type": "Request missing information",
+    "create_by": "James Mclean",
+    "create_at": "04/07/2022 15:39"
+  },
+  {
+    "id": 2,
+    "template_name": "Template 2",
+    "type": "Request missing information",
+    "create_by": "James Mclean",
+    "create_at": "04/07/2022 15:39"
+  },
+  {
+    "id": 3,
+    "template_name": "Template 3",
+    "type": "Request missing information",
+    "create_by": "Alice St.George",
+    "create_at": "04/07/2022 15:39"
+  },
+  {
+    "id": 4,
+    "template_name": "Template 4",
+    "type": "Interview Announcement",
+    "create_by": "Tilly Ta",
+    "create_at": "04/07/2022 15:39"
+  },
+  {
+    "id": 5,
+    "template_name": "Template 5",
+    "type": "Screening Call Announcement",
+    "create_by": "James Mclean",
+    "create_at": "04/07/2022 15:39"
+  },
+  {
+    "id": 6,
+    "template_name": "Template 6",
+    "type": "KID Announcement",
+    "create_by": "James Mclean",
+    "create_at": "04/07/2022 15:39"
+  },
+  {
+    "id": 7,
+    "template_name": "Template 7",
+    "type": "Work Contract Announcement",
+    "create_by": "Tilly Ta",
+    "create_at": "04/07/2022 15:39"
+  },
+  {
+    "id": 8,
+    "template_name": "Template 8",
+    "type": "Medical Contract Announcement",
+    "create_by": "Bruno Moyse",
+    "create_at": "04/07/2022 15:39"
+  },
+  {
+    "id": 9,
+    "template_name": "Template 9",
+    "type": "Sign-up",
+    "create_by": "Adam Levine",
+    "create_at": "04/07/2022 15:39"
+  },
+  {
+    "id": 10,
+    "template_name": "Template 10",
+    "type": "Forgot password",
+    "create_by": "Tilly Ta",
+    "create_at": "04/07/2022 15:39"
+  }
+]

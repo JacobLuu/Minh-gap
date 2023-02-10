@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["es6", "dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react",
+    "sourceMap": true,
+    "incremental": true,
+    "noImplicitAny": true,
+    "strictNullChecks": false,
+    "strictFunctionTypes": false,
+    "strictBindCallApply": false,
+    "strictPropertyInitialization": false,
+    "noImplicitThis": true,
+    "baseUrl": ".",
+    "experimentalDecorators": true,
+    "rootDirs": ["src", "stories"],
+    "paths": {
+      "gap-admin/*": ["packages/gap-admin/src/*"],
+      "gap-common/*": ["packages/gap-common/src/*"],
+      "gap-frontend/*": ["packages/gap-frontend/src/*"]
+    }
+  },
+
+  "include": ["src/**/*", "stories", "custom.d.ts"]
+}

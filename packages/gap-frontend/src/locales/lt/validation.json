@@ -1,0 +1,18 @@
+{
+  "common": {
+    "required": "Šį lauką būtina užpildyti.",
+    "many_required": "Šie laukai yra būtini.",
+    "max_characters": "Šis laukas negali būti ilgesnis nei {{max}} personažai.",
+    "end_date": "Pabaigos data turi būti vėlesnė nei pradžios data.",
+    "phone_number": "Netinkamas telefono numeris.",
+    "email": "El. pašto adresas neteisingas.",
+    "password": "Slaptažodis neteisingas.",
+    "repeat_password": "Jūsų slaptažodžiai nesutampa. Prašau, pabandykite dar kartą.",
+    "share_code": {
+      "expired": "Pasibaigė bendrinimo kodo galiojimo laikas. Iš naujo sugeneruokite bendrinimo kodą ir bandykite dar kartą"
+    },
+    "file": {
+      "max_size": "Failas per didelis."
+    }
+  }
+}

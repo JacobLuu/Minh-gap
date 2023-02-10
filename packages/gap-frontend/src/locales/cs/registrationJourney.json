@@ -1,0 +1,300 @@
+{
+  "sidebar": {
+    "personal_details": "Osobní údaje",
+    "skills_and_qualifications": "Dovednosti",
+    "employment_history": "Historie zaměstnání",
+    "emergency_contact": "Nouzový kontakt",
+    "address_details": "Podrobnosti adresy",
+    "personal_protective_equipment": "Osobní ochranné prostředky",
+    "right_to_work_proofs": "Důkazy o právu na práci",
+    "financial_information": "Finanční informace",
+    "declarations": "Prohlášení",
+    "contracts": "Smlouvy",
+    "skill_qualifications": "Dovednosti a kvalifikace"
+  },
+  "common": {
+    "save_progress": "Uložit pokrok",
+    "submit": "Předložit",
+    "confirm_and_open": "Potvrdit",
+    "close": "Zavřít",
+    "save_success": "Úspěšně uloženo.",
+    "submit_success": "Odeslat úspěšně.",
+    "upload_success": "Nahrání proběhlo úspěšně.",
+    "signature_empty": "Podpis nesmí být prázdný.",
+    "check": "Šek",
+    "rejected": "Odmítnuto",
+    "view_file": "Prohlédnout soubor",
+    "delete_file": "Smazat soubor",
+    "confirm_and_sign": "Potvrdit a podepsat",
+    "sign_success": "Podepište se úspěšně."
+  },
+  "personal_details": {
+    "header": {
+      "title": "Osobní údaje",
+      "subtitle": "Zkontrolujte své osobní údaje"
+    },
+    "body": {
+      "title": "Titul",
+      "first_name": "Jméno",
+      "middle_name": "Prostřední jméno (volitelné)",
+      "last_name": "Příjmení",
+      "email": "E-mailem",
+      "phone_number": "Telefonní číslo",
+      "date_of_birth": "Datum narození"
+    },
+    "image_upload": {
+      "title": "Nahrání obrázku",
+      "subtitle": "Dejte nám vědět o svém vzhledu"
+    }
+  },
+  "skills_and_qualifications": {
+    "header": {
+      "title": "Nahrajte svůj životopis",
+      "subtitle": "Chceme vědět o vašich pracovních zkušenostech"
+    },
+    "body": {
+      "title": "Dovednosti",
+      "subtitle": "Chceme vědět o vašich schopnostech a kvalifikaci"
+    }
+  },
+  "employment_history": {
+    "header": {
+      "title": "Historie zaměstnání",
+      "subtitle": "Poskytněte informace o své historii zaměstnání",
+      "add_button": "Přidat nový záznam"
+    },
+    "body": {
+      "employment": "Zaměstnanost",
+      "education": "Vzdělání",
+      "others": "Ostatní",
+      "full_time": "Plný úvazek",
+      "part_time": "Poloviční úvazek",
+      "edit": "Upravit"
+    },
+    "employment_history_modal": {
+      "header": {
+        "title_add": "Nový rekord",
+        "title_update": "Upravit záznam"
+      },
+      "body": {
+        "type_of_work": "Druh práce",
+        "company_name": "Jméno společnosti",
+        "institution_name": "Název instituce",
+        "title_name": "Titul",
+        "job_title": "Pracovní pozice",
+        "start_date": "Počáteční datum",
+        "end_date": "Datum ukončení",
+        "job_description": "Popis"
+      },
+      "actions": {
+        "close": "Zavřít",
+        "save": "Uložit záznam",
+        "delete": "Smazat tento záznam"
+      }
+    }
+  },
+  "emergency_contact": {
+    "header": {
+      "title": "Nouzový kontakt",
+      "subtitle": "Uveďte prosím své nouzové kontaktní údaje"
+    }
+  },
+  "financial_information": {
+    "header": {
+      "title": "Finanční informace",
+      "subtitle": "Uveďte prosím své finanční údaje"
+    },
+    "body": {
+      "have_uk_bank_account": "Máte bankovní účet ve Spojeném království?",
+      "bank_name": "jméno banky",
+      "bank_name_placeholder": "Zadejte název banky",
+      "account_number": "Číslo účtu",
+      "account_number_placeholder": "Zadejte číslo účtu",
+      "account_name": "Jméno účtu",
+      "account_name_placeholder": "Zadejte název účtu",
+      "bank_sort_code": "Kód banky",
+      "bank_sort_code_placeholder": "Zadejte kód banky",
+      "bank_account_verify_success": "Ověření bankovního účtu bylo úspěšné!",
+      "no_uk_bank_account": {
+        "title_1": "Prosím",
+        "title_2": "klikněte zde",
+        "title_3": " vytvořit bankovní účet u Onepay.",
+        "title_4": "Jakmile bude váš bankovní účet připraven, vyberte „Ano“ a pokračujte ve vyplňování finančních údajů."
+      }
+    }
+  },
+  "personal_protective_equipment": {
+    "header": {
+      "title": "Osobní ochranné prostředky",
+      "subtitle": "Poskytněte informace o svých osobních ochranných prostředcích"
+    },
+    "body": {
+      "question_label_1": "Máte vlastní Hi Vis vestu nebo bundu?",
+      "question_label_2": "Máte vlastní bezpečnostní boty?",
+      "question_label_3": "Vyberte si velikost boty"
+    }
+  },
+  "declarations": {
+    "header": {
+      "title": "Prohlášení",
+      "subtitle": "Je dlouho prokázanou skutečností, že čtenář bude rušen čitelným obsahem"
+    },
+    "body": {
+      "title_1": "Zdraví",
+      "body_1": "Následující otázky týkající se zdraví a zdravotního postižení jsou položeny za účelem zjištění vašich potřeb z hlediska přiměřených úprav, které je třeba provést pro přístup k naší náborové službě, a vašich potřeb, abyste mohli vykonávat požadovanou práci nebo pozici.",
+      "label_1": "• Tvé zdraví",
+      "question_1": "Máte nějaké zdravotní problémy nebo relevantní postižení, které vám může ztěžovat vykonávání funkcí, které jsou zásadní pro roli, kterou hledáte?",
+      "title_2": "Služba zpřístupnění a blokování",
+      "body_2_1": "Dodatky k nařízení o výjimkách 1975 (2013) stanoví, že některá utracená odsouzení a varování jsou „chráněna“ a nepodléhají zveřejňování zaměstnavatelům a nelze je brát v úvahu. ",
+      "body_2_2": "V souladu s pravidly filtrování může neoznámení odsouzení, které musíte zveřejnit, vyžadovat, abychom vás vyloučili z našeho registru nebo ukončili přidělení, pokud trestný čin není oznámen, ale později vyjde najevo.",
+      "label_2_1": "• Odsouzení, varování, napomenutí nebo poslední varování?",
+      "question_2_1": "Máte nějaká přesvědčení, varování, důtky nebo poslední varování, která nejsou „chráněna“ podle definice zákona o rehabilitaci pachatelů z roku 1974 (výjimky) z roku 1975 (ve znění z roku 2013)",
+      "label_2_2": "• Smlouva o kontrole DBS",
+      "question_2_2": "Pokud je to pro roli vyžadováno, souhlasíte s dokončením standardní nebo rozšířené kontroly DBS?",
+      "title_3": "Práva na rovné příležitosti",
+      "body_3_1": "Zásadou GAP Personel je nabírat, zaměstnávat a povyšovat lidi na základě jejich vhodnosti pro vykonávanou práci.  ",
+      "body_3_2": "**Tyto informace budou použity výhradně pro účely monitorování**.",
+      "body_3_3": "V souladu s pravidly filtrování může neoznámení odsouzení, které musíte zveřejnit, vyžadovat, abychom vás vyloučili z našeho registru nebo ukončili přidělení, pokud trestný čin není oznámen, ale později vyjde najevo.",
+      "label_3_1": "• Rod *",
+      "question_3_1": "Jakého jste pohlaví?",
+      "label_3_2": "• Národnost *",
+      "question_3_2": "Jaká je tvá národnost?",
+      "label_3_3": "• Etnická příslušnost *",
+      "question_3_3": "jaká je tvá etnická příslušnost?",
+      "title_4": "Způsob platby",
+      "body_4": "Níže uvedené informace jsou požadovány výhradně za účelem zpracování vašich mezd. ",
+      "label_4_1": "• Studentská půjčka",
+      "question_4_1": "Máte studentskou půjčku s podmíněným příjmem ke splacení?",
+      "label_4_2": "• Výkaz příjmů",
+      "question_4_2": "Vyplňte prosím část úvodního prohlášení a uveďte své aktuální okolnosti a uveďte, které ze tří prohlášení se na vás vztahuje. ",
+      "answer_4_2_1": "Toto je moje první zaměstnání od loňského 6. dubna a nepobírám zdanitelný příspěvek pro uchazeče o zaměstnání, příspěvek v zaměstnání a podporu, zdanitelné dávky v pracovní neschopnosti, státní ani zaměstnanecký důchod.",
+      "answer_4_2_2": "Toto je nyní moje jediná práce, ale od 6. dubna mám jinou práci nebo pobírám zdanitelný příspěvek pro uchazeče o zaměstnání, příspěvek na zaměstnání a podporu nebo zdanitelné dávky v pracovní neschopnosti. ",
+      "answer_4_2_3": "Kromě svého nového zaměstnání mám i další zaměstnání nebo pobírám státní nebo zaměstnanecký důchod.",
+      "title_5": "dohody",
+      "label_5_1": "• Časové předpisy – 48 hodin odhlášení",
+      "question_5_1": "Předpisy o pracovní době z roku 1998 (ve znění pozdějších předpisů) stanoví, že dočasní pracovníci nebudou pracovat na Zakázce s klientem nad rámec pracovního týdne (48 hodin), pokud písemně nedohodnou, že tento limit nebude platit. ",
+      "label_5_2": "• Zdraví",
+      "question_5_2": "Souhlasíte s tím, že informace uvedené v této aplikaci týkající se zdraví a zdravotního postižení jsou přesné. ",
+      "label_5_3": "• DBS",
+      "question_5_3": "Souhlasíte s tím, že informace poskytnuté v souvislosti s částí DBS této aplikace jsou přesné. ",
+      "label_5_4": "• Ochrana dat",
+      "question_5_4": "Předpisy o pracovní době z roku 1998 (ve znění pozdějších předpisů) stanoví, že dočasní pracovníci nebudou pracovat na Zakázce s klientem nad rámec pracovního týdne (48 hodin), pokud písemně nedohodnou, že tento limit nebude platit. ",
+      "label_5_5": "• Marketing",
+      "question_5_5": "Souhlasím s tím, aby moje kontaktní údaje byly použity pracovníky GAP pro účely marketingových služeb, kromě služeb náboru a školení, které mohou nabízet pracovníci GAP, jejich dceřiné společnosti a/nebo dodavatelé třetích stran. ",
+      "title_6": "Celková dohoda",
+      "body_6": "Níže uvedené informace jsou požadovány výhradně za účelem zpracování vašich mezd. ",
+      "answer_6_1": "Potvrzuji, že informace uvedené v tomto dokumentu jsou pravdivé a správné.",
+      "answer_6_2": "Chápu, že zavádějící nebo nepravdivé prohlášení nebo neuspokojivá reference mohou být důvodem k odmítnutí nebo, pokud je použit, k propuštění.",
+      "answer_6_3": "Mám v úmyslu být těmito dohodami vázán."
+    }
+  },
+  "contracts": {
+    "header": {
+      "title": "Smlouvy",
+      "subtitle": "Zde budou uloženy vaše smlouvy"
+    },
+    "body": {
+      "title": "Smlouva",
+      "key_info_document": "Dokument klíčových informací",
+      "work_contract": "Smlouva o poskytování služeb a smluvní podmínky",
+      "medical_contract": "Rozšířený lékařský dotazník",
+      "key_info_document_confirmation": "Obdržel jsem dokument s klíčovými informacemi.",
+      "work_contract_confirmation": "Přečetl jsem a souhlasím s Smlouvou o poskytování služeb a Smluvními podmínkami.",
+      "medical_contract_confirmation": "Přečetl jsem a souhlasím s Rozšířeným lékařským dotazníkem",
+      "view": "Pohled",
+      "sign": "Podepsat",
+      "key_information_document": "Dokument klíčových informací",
+      "key_information_document_confirmation": "Obdržel jsem dokument s klíčovými informacemi.",
+      "work_contract_signed": "Smlouva o poskytování služeb a smluvní podmínky podepsány!",
+      "medical_contract_signed": "Podepsán rozšířený lékařský dotazník!"
+    },
+    "modal": {
+      "content": {
+        "key_information_document": "Tento dokument obsahuje klíčové informace o vašem vztahu s námi, včetně podrobností o platu, nároku na dovolenou a dalších výhodách.",
+        "work_contract": "Tento dokument poskytuje důležité informace o práci pro mezerový personál a stanoví očekávání při práci na úkolu.",
+        "medical_contract": "Otázky v tomto formuláři jsou pokládány za účelem zjištění vašich potřeb a toho, zda je pro výkon hledané práce nebo pozice třeba učinit nějakou rozumnou potřebu."
+      }
+    },
+    "signature_modal": {
+      "header": {
+        "title": "Podpis",
+        "draw": "Kreslit",
+        "upload": "nahrát"
+      },
+      "body": {
+        "title": "Podepsáním této aplikace elektronickým podpisem souhlasím s tím, že podpis bude stejně platný jako vlastnoruční podpis v rozsahu povoleném místními zákony."
+      },
+      "actions": {
+        "cancel": "zrušení",
+        "accept": "Akceptovat"
+      }
+    }
+  },
+  "address_details": {
+    "header": {
+      "title": "Adresa",
+      "subtitle": "Uveďte prosím svou adresu ve Spojeném království",
+      "subtitle_placeholder": "Zadejte PSČ nebo adresu"
+    },
+    "file_header": {
+      "title": "Nahrajte doklady o svých adresách",
+      "subtitle": "Poskytněte důkazy o vaší adrese"
+    },
+    "body": {
+      "postcode": "PSČ",
+      "postcode_placeholder": "Zadejte PSČ",
+      "enable_manual_input": "Nemůžete najít svou adresu pomocí PSČ? Zadejte adresu ručně",
+      "road": "Silnice",
+      "road_placeholder": "Zadejte silnici",
+      "county_region": "Okres/region",
+      "county_region_placeholder": "Zadejte kraj/region",
+      "house_number": "Číslo domu/bytu",
+      "house_number_placeholder": "Zadejte číslo domu/bytu",
+      "upload_files": "Nahrané soubory",
+      "town_city": "Město/město",
+      "town_city_placeholder": "Zadejte město/město",
+      "county": "okres",
+      "county_placeholder": "Zadejte okres"
+    }
+  },
+  "header": {
+    "advertisement": "Informace o inzerci",
+    "job_applied": "Použitá úloha:",
+    "job_id": "ID úlohy:",
+    "branch_location": "Poloha pobočky:"
+  },
+  "right_to_work": {
+    "header": {
+      "title": "Poskytněte své důkazy o právu na práci",
+      "share_code_subtitle": "Uveďte prosím své číslo kódu sdílení",
+      "other_subtitle": "Pro osobní pohovor poskytněte tyto dokumenty zaměstnavateli"
+    },
+    "body": {
+      "share_code": "Sdílejte kód",
+      "fetching_share_code": "Načítání kódu sdílení...",
+      "share_code_found": "Sdílet kód byl nalezen, čeká se na kontrolu konzultantem",
+      "approved": "Schválený",
+      "photo": {
+        "title": "Vyfoťte se",
+        "subtitle_1": "K pořízení fotografie použijte zařízení s fotoaparátem.",
+        "subtitle_2": "Pokud nemůžete fotografovat, navštivte pobočku pro další pomoc.",
+        "cant_take": "Nelze pořídit fotografii"
+      },
+      "additional_document": {
+        "title": "Nahrajte další dokumenty",
+        "subtitle": "Poskytněte své další dokumenty"
+      },
+      "additional_info": {
+        "title": "Vyžaduje se další informace",
+        "subtitle": "Uveďte své číslo kódu sdílení"
+      },
+      "passport": {
+        "title": "Naskenujte svůj pas",
+        "subtitle_1": "Uveďte prosím svou pasovou fotografii.",
+        "subtitle_2": "Pokud nemůžete fotografovat, navštivte pobočku pro další pomoc."
+      },
+      "birth_certificate": "Rodný list",
+      "insurance_number": "Číslo národního pojištění"
+    }
+  }
+}

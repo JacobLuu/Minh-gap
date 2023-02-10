@@ -1,0 +1,300 @@
+{
+  "sidebar": {
+    "personal_details": "Personiskā informācija",
+    "skills_and_qualifications": "Prasmes",
+    "employment_history": "Nodarbinātības vēsture",
+    "emergency_contact": "Ārkārtas kontakts",
+    "address_details": "Adreses informācija",
+    "personal_protective_equipment": "Individuālie aizsardzības līdzekļi",
+    "right_to_work_proofs": "Tiesības strādāt Pierādījumi",
+    "financial_information": "Finanšu informācija",
+    "declarations": "Deklarācijas",
+    "contracts": "Līgumi",
+    "skill_qualifications": "Prasmes un kvalifikācija"
+  },
+  "common": {
+    "save_progress": "Saglabāt progresu",
+    "submit": "Iesniegt",
+    "confirm_and_open": "Apstiprināt",
+    "close": "Aizvērt",
+    "save_success": "Saglabāt veiksmīgi.",
+    "submit_success": "Iesniegt veiksmīgi.",
+    "upload_success": "Augšupielādēt veiksmīgi.",
+    "signature_empty": "Paraksts nedrīkst būt tukšs.",
+    "check": "Pārbaudiet",
+    "rejected": "Noraidīts",
+    "view_file": "Skatīt failu",
+    "delete_file": "Izdzēst failu",
+    "confirm_and_sign": "Apstipriniet un parakstiet",
+    "sign_success": "Veiksmīgi parakstīties."
+  },
+  "personal_details": {
+    "header": {
+      "title": "Personiskā informācija",
+      "subtitle": "Pārskatiet savu personisko informāciju"
+    },
+    "body": {
+      "title": "Nosaukums",
+      "first_name": "Vārds",
+      "middle_name": "Otrais vārds (pēc izvēles)",
+      "last_name": "Uzvārds",
+      "email": "E-pasts",
+      "phone_number": "Telefona numurs",
+      "date_of_birth": "Dzimšanas datums"
+    },
+    "image_upload": {
+      "title": "Attēla augšupielāde",
+      "subtitle": "Paziņojiet mums par savu izskatu"
+    }
+  },
+  "skills_and_qualifications": {
+    "header": {
+      "title": "Augšupielādējiet savu CV",
+      "subtitle": "Mēs vēlamies uzzināt par jūsu darba pieredzi"
+    },
+    "body": {
+      "title": "Prasmes",
+      "subtitle": "Mēs vēlamies uzzināt par jūsu prasmēm un kvalifikāciju"
+    }
+  },
+  "employment_history": {
+    "header": {
+      "title": "Nodarbinātības vēsture",
+      "subtitle": "Sniedziet informāciju par savu nodarbinātības vēsturi",
+      "add_button": "Pievienojiet jaunu ierakstu"
+    },
+    "body": {
+      "employment": "Nodarbinātība",
+      "education": "Izglītība",
+      "others": "Citi",
+      "full_time": "Pilna laika",
+      "part_time": "Nepilna laika",
+      "edit": "Rediģēt"
+    },
+    "employment_history_modal": {
+      "header": {
+        "title_add": "Jauns rekords",
+        "title_update": "Rediģēt ierakstu"
+      },
+      "body": {
+        "type_of_work": "Darba veids",
+        "company_name": "Kompānijas nosaukums",
+        "institution_name": "Mācību iestādes nosaukums",
+        "title_name": "Nosaukums",
+        "job_title": "Amata nosaukums",
+        "start_date": "Sākuma datums",
+        "end_date": "Beigu datums",
+        "job_description": "Apraksts"
+      },
+      "actions": {
+        "close": "Aizvērt",
+        "save": "Saglabāt ierakstu",
+        "delete": "Dzēst šo ierakstu"
+      }
+    }
+  },
+  "emergency_contact": {
+    "header": {
+      "title": "Ārkārtas kontakts",
+      "subtitle": "Lūdzu, norādiet savu ārkārtas kontaktinformāciju"
+    }
+  },
+  "financial_information": {
+    "header": {
+      "title": "Finanšu informācija",
+      "subtitle": "Lūdzu, sniedziet savu finanšu informāciju"
+    },
+    "body": {
+      "have_uk_bank_account": "Vai jums ir Lielbritānijas bankas konts?",
+      "bank_name": "bankas nosaukums",
+      "bank_name_placeholder": "Ievadiet bankas nosaukumu",
+      "account_number": "Konta numurs",
+      "account_number_placeholder": "Ievadiet konta numuru",
+      "account_name": "Konta vārds",
+      "account_name_placeholder": "Ievadiet konta nosaukumu",
+      "bank_sort_code": "Bankas šķirošanas kods",
+      "bank_sort_code_placeholder": "Ievadiet bankas šķirošanas kodu",
+      "bank_account_verify_success": "Veiksmīga bankas konta verifikācija!",
+      "no_uk_bank_account": {
+        "title_1": "Lūdzu",
+        "title_2": "noklikšķiniet šeit",
+        "title_3": " lai izveidotu bankas kontu Onepay.",
+        "title_4": "Kad jūsu bankas konts ir gatavs, lūdzu, atlasiet “Jā” un turpiniet aizpildīt savu finanšu informāciju."
+      }
+    }
+  },
+  "personal_protective_equipment": {
+    "header": {
+      "title": "Individuālie aizsardzības līdzekļi",
+      "subtitle": "Sniedziet informāciju par saviem individuālajiem aizsardzības līdzekļiem"
+    },
+    "body": {
+      "question_label_1": "Vai jums ir sava Hi Vis veste vai jaka?",
+      "question_label_2": "Vai jums ir savi drošības zābaki?",
+      "question_label_3": "Izvēlieties savu zābaku izmēru"
+    }
+  },
+  "declarations": {
+    "header": {
+      "title": "Deklarācijas",
+      "subtitle": "Tas ir sen pierādīts fakts, ka lasītāja uzmanību novērsīs lasāmais saturs"
+    },
+    "body": {
+      "title_1": "Veselība",
+      "body_1": "Šie jautājumi par veselību un invaliditāti tiek uzdoti, lai noskaidrotu jūsu vajadzības attiecībā uz saprātīgām korekcijām, kas jāveic, lai piekļūtu mūsu personāla atlases pakalpojumam, un jūsu vajadzības, lai veiktu meklēto darbu vai amatu.",
+      "label_1": "• Tava veselība",
+      "question_1": "Vai jums ir kādas veselības problēmas vai attiecīga invaliditāte, kas var apgrūtināt jums tādu funkciju veikšanu, kuras ir būtiskas jūsu meklētajai lomai?",
+      "title_2": "Izpaušanas un liegumu pakalpojums",
+      "body_2_1": "1975. gada Izņēmumu rīkojuma grozījumi (2013. gads) paredz, ka daži notiesātie spriedumi un brīdinājumi ir “aizsargāti” un netiek atklāti darba devējiem, un tos nevar ņemt vērā. ",
+      "body_2_2": "Saskaņā ar filtrēšanas noteikumiem, ja netiek paziņots par notiesājošu spriedumu, kas jums ir jāatklāj, mēs varam jūs izslēgt no mūsu reģistra vai izbeigt norīkojumu, ja pārkāpums nav paziņots, bet vēlāk atklājas.",
+      "label_2_1": "• Notiesājoši spriedumi, brīdinājumi, aizrādījumi vai pēdējie brīdinājumi?",
+      "question_2_1": "Vai jums ir kādas pārliecības, brīdinājumi, aizrādījumi vai pēdējie brīdinājumi, kas nav “aizsargāti”, kā noteikts 1974. gada Likumā par likumpārkāpēju rehabilitāciju (Izņēmumi) 1975. gada rīkojums (ar grozījumiem, kas izdarīti 2013. gadā)",
+      "label_2_2": "• DBS pārbaudes līgums",
+      "question_2_2": "Ja tas ir nepieciešams lomai, vai piekrītat DBS standarta vai uzlabotās pārbaudes aizpildīšanai?",
+      "title_3": "Vienlīdzīgas iespējas",
+      "body_3_1": "GAP Personel politika ir pieņemt darbā, nodarbināt un paaugstināt cilvēkus, pamatojoties uz viņu piemērotību veicamajam darbam.  ",
+      "body_3_2": "**Šī informācija tiks izmantota tikai uzraudzības nolūkos**.",
+      "body_3_3": "Saskaņā ar filtrēšanas noteikumiem, ja netiek paziņots par notiesājošu spriedumu, kas jums ir jāatklāj, mēs varam jūs izslēgt no mūsu reģistra vai izbeigt norīkojumu, ja pārkāpums nav paziņots, bet vēlāk atklājas.",
+      "label_3_1": "• Dzimums*",
+      "question_3_1": "Kāds ir Jūsu dzimums?",
+      "label_3_2": "• pilsonība*",
+      "question_3_2": "Kāda ir tava nacionalitāte?",
+      "label_3_3": "• Etniskā piederība*",
+      "question_3_3": "Kāda ir jūsu etniskā piederība?",
+      "title_4": "Maksājums",
+      "body_4": "Tālāk sniegtā informācija ir nepieciešama tikai jūsu algas apstrādes nolūkos. ",
+      "label_4_1": "• Studenta aizņēmums",
+      "question_4_1": "Vai jums ir jāatmaksā studentu kredīts, kas ir atkarīgs no ienākumiem?",
+      "label_4_2": "• Peļņas pārskats",
+      "question_4_2": "Lūdzu, aizpildiet sākuma deklarācijas sadaļu, norādot savus pašreizējos apstākļus, norādot, kurš no trim apgalvojumiem attiecas uz jums. ",
+      "answer_4_2_1": "Šī ir mana pirmā darba vieta kopš pagājušā gada 6. aprīļa, un es nesaņemu ar nodokli apliekamu darba meklētāja pabalstu, nodarbinātības un atbalsta pabalstu, ar nodokli apliekamu darbnespējas pabalstu, valsts vai aroda pensiju.",
+      "answer_4_2_2": "Tagad šī ir mana vienīgā darbavieta, bet kopš 6. aprīļa esmu strādājis citā darbā vai esmu saņēmis ar nodokli apliekamu darba meklētāja pabalstu, nodarbinātības un atbalsta pabalstu vai ar nodokli apliekamu darba nespējas pabalstu. ",
+      "answer_4_2_3": "Tāpat kā manā jaunajā darbā man ir cits darbs vai arī es saņemu valsts vai aroda pensiju.",
+      "title_5": "Līgumi",
+      "label_5_1": "• Laika noteikumi — 48 stundu atteikšanās",
+      "question_5_1": "1998. gada Darba laika noteikumi (ar grozījumiem) paredz, ka pagaidu darbinieki nedrīkst strādāt ar Klientu uzdevumā, kas pārsniedz darba nedēļu (48 stundas), ja vien viņi rakstiski nevienojas, ka šis ierobežojums netiek piemērots. ",
+      "label_5_2": "• Veselība",
+      "question_5_2": "Jūs piekrītat, ka informācija, kas sniegta saistībā ar šī pieteikuma sadaļu par veselību un invaliditāti, ir precīza. ",
+      "label_5_3": "• DBS",
+      "question_5_3": "Jūs piekrītat, ka informācija, kas sniegta saistībā ar šīs lietojumprogrammas sadaļu DBS, ir precīza. ",
+      "label_5_4": "• Datu aizsardzība",
+      "question_5_4": "1998. gada Darba laika noteikumi (ar grozījumiem) paredz, ka pagaidu darbinieki nedrīkst strādāt ar Klientu uzdevumā, kas pārsniedz darba nedēļu (48 stundas), ja vien viņi rakstiski nevienojas, ka šis ierobežojums netiek piemērots. ",
+      "label_5_5": "• Mārketings",
+      "question_5_5": "Es piekrītu, ka GAP darbinieki izmanto manus kontaktinformāciju mārketinga pakalpojumu nolūkos, papildus personāla atlasei un apmācībai, ko var piedāvāt GAP darbinieki, viņu meitasuzņēmumi un/vai trešo pušu piegādātāji. ",
+      "title_6": "Vispārējā vienošanās",
+      "body_6": "Tālāk sniegtā informācija ir nepieciešama tikai jūsu algas apstrādes nolūkos. ",
+      "answer_6_1": "Apliecinu, ka šajā dokumentā sniegtā informācija ir patiesa un pareiza.",
+      "answer_6_2": "Es saprotu, ka maldinošs vai nepatiess paziņojums vai neapmierinoša atsauce var būt iemesls noraidījumam vai, ja tiek nodarbināts, atlaišanai.",
+      "answer_6_3": "Es plānoju ievērot šos līgumus."
+    }
+  },
+  "contracts": {
+    "header": {
+      "title": "Līgumi",
+      "subtitle": "Jūsu līgumi tiks saglabāti šeit"
+    },
+    "body": {
+      "title": "Līgums",
+      "key_info_document": "Galvenās informācijas dokuments",
+      "work_contract": "Pakalpojumu līgums un līguma noteikumi",
+      "medical_contract": "Paplašināta medicīniskā anketa",
+      "key_info_document_confirmation": "Esmu saņēmis Pamatinformācijas dokumentu.",
+      "work_contract_confirmation": "Esmu izlasījis un piekrītu Pakalpojumu līgumam un Sadarbības noteikumiem.",
+      "medical_contract_confirmation": "Esmu izlasījis paplašināto medicīnisko anketu un piekritu tai",
+      "view": "Skatīt",
+      "sign": "Pierakstīties",
+      "key_information_document": "Galvenās informācijas dokuments",
+      "key_information_document_confirmation": "Esmu saņēmis Pamatinformācijas dokumentu.",
+      "work_contract_signed": "Parakstīts Pakalpojumu līgums un Sadarbības noteikumi!",
+      "medical_contract_signed": "Paplašinātā medicīniskā anketa parakstīta!"
+    },
+    "modal": {
+      "content": {
+        "key_information_document": "Šajā dokumentā ir sniegta galvenā informācija par jūsu attiecībām ar mums, tostarp informācija par atalgojumu, atvaļinājuma tiesībām un citiem pabalstiem.",
+        "work_contract": "Šajā dokumentā ir sniegta svarīga informācija par to, kā strādāt nepilngadīgajiem darbiniekiem, un ir izklāstītas cerības, strādājot pie uzdevuma.",
+        "medical_contract": "Jautājumi šajā veidlapā tiek uzdoti, lai noskaidrotu jūsu vajadzības un to, vai ir nepieciešama kāda pamatota nepieciešamība, lai veiktu meklēto darbu vai amatu."
+      }
+    },
+    "signature_modal": {
+      "header": {
+        "title": "Paraksts",
+        "draw": "Zīmēt",
+        "upload": "Augšupielādēt"
+      },
+      "body": {
+        "title": "Parakstot šo pieteikumu ar elektronisko parakstu , es piekrītu, ka paraksts būs tikpat derīgs kā ar roku rakstīts paraksts, ciktāl to pieļauj vietējie tiesību akti."
+      },
+      "actions": {
+        "cancel": "Atcelt",
+        "accept": "Pieņemt"
+      }
+    }
+  },
+  "address_details": {
+    "header": {
+      "title": "Adrese",
+      "subtitle": "Lūdzu, norādiet savu Apvienotās Karalistes adreses informāciju",
+      "subtitle_placeholder": "Ievadiet pasta indeksu vai adresi"
+    },
+    "file_header": {
+      "title": "Augšupielādējiet adreses pierādījumus",
+      "subtitle": "Sniedziet savas adreses pierādījumus"
+    },
+    "body": {
+      "postcode": "Pasta indekss",
+      "postcode_placeholder": "Ievadiet pasta indeksu",
+      "enable_manual_input": "Vai nevarat atrast savu adresi, izmantojot pasta indeksu? Ievadiet adresi manuāli",
+      "road": "Ceļš",
+      "road_placeholder": "Ievadiet ceļu",
+      "county_region": "Apgabals/reģions",
+      "county_region_placeholder": "Ievadiet apgabalu/reģionu",
+      "house_number": "Mājas/dzīvokļa numurs",
+      "house_number_placeholder": "Ievadiet mājas/dzīvokļa numuru",
+      "upload_files": "Augšupielādētie faili",
+      "town_city": "Pilsēta/Pilsēta",
+      "town_city_placeholder": "Ievadiet pilsētu/pilsētu",
+      "county": "Apgabals",
+      "county_placeholder": "Ievadiet apgabalu"
+    }
+  },
+  "header": {
+    "advertisement": "Reklāmas informācija",
+    "job_applied": "Pieteiktais darbs:",
+    "job_id": "Darba ID:",
+    "branch_location": "Filiāles atrašanās vieta:"
+  },
+  "right_to_work": {
+    "header": {
+      "title": "Iesniedziet pierādījumus par tiesībām strādāt",
+      "share_code_subtitle": "Lūdzu, norādiet savu akcijas koda numuru",
+      "other_subtitle": "Lai veiktu klātienes interviju, lūdzu, iesniedziet šos dokumentus darba devējam"
+    },
+    "body": {
+      "share_code": "Kopīgot kodu",
+      "fetching_share_code": "Notiek kopīgošanas koda iegūšana...",
+      "share_code_found": "Kopīgošanas kods atrasts, gaida konsultanta pārskatīšanu",
+      "approved": "Apstiprināts",
+      "photo": {
+        "title": "Uzņemiet savu fotoattēlu",
+        "subtitle_1": "Lai uzņemtu fotoattēlu, lūdzu, izmantojiet ierīci ar kameru.",
+        "subtitle_2": "Ja nevarat uzņemt fotoattēlu, lūdzu, apmeklējiet filiāli, lai saņemtu papildu palīdzību.",
+        "cant_take": "Nevar uzņemt fotoattēlu"
+      },
+      "additional_document": {
+        "title": "Augšupielādējiet savus papildu dokumentus",
+        "subtitle": "Iesniedziet savus papildu dokumentus"
+      },
+      "additional_info": {
+        "title": "Nepieciešama papildu informācija",
+        "subtitle": "Norādiet savu akciju koda numuru"
+      },
+      "passport": {
+        "title": "Skenējiet savu pasi",
+        "subtitle_1": "Lūdzu, norādiet savu pases fotoattēlu.",
+        "subtitle_2": "Ja nevarat uzņemt fotoattēlu, lūdzu, apmeklējiet filiāli, lai saņemtu papildu palīdzību."
+      },
+      "birth_certificate": "Dzimšanas apliecība",
+      "insurance_number": "Valsts apdrošināšanas numurs"
+    }
+  }
+}
